@@ -1,0 +1,1959 @@
+[
+	{
+		"name": "Abomination",
+		"count": 5,
+		"url": [
+			"Abomination.png",
+			"Abomination1.png",
+			"Abomination2.png",
+			"Abomination3.png",
+			"Abomination4.png"
+		]
+	},
+	{
+		"name": "AdamWarlock",
+		"count": 5,
+		"url": [
+			"AdamWarlock.png",
+			"AdamWarlock1.png",
+			"AdamWarlock2.png",
+			"AdamWarlock3.png",
+			"AdamWarlock4.png"
+		]
+	},
+	{
+		"name": "Aero",
+		"count": 5,
+		"url": [
+			"Aero.png",
+			"Aero1.png",
+			"Aero2.png",
+			"Aero3.png",
+			"Aero4.png"
+		]
+	},
+	{
+		"name": "AgathaHarkness",
+		"count": 5,
+		"url": [
+			"AgathaHarkness.png",
+			"AgathaHarkness1.png",
+			"AgathaHarkness2.png",
+			"AgathaHarkness3.png",
+			"AgathaHarkness4.png"
+		]
+	},
+	{
+		"name": "Agent13",
+		"count": 6,
+		"url": [
+			"Agent13.png",
+			"Agent131.png",
+			"Agent132.png",
+			"Agent133.png",
+			"Agent134.png",
+			"Agent135.png"
+		]
+	},
+	{
+		"name": "AmericaChavez",
+		"count": 5,
+		"url": [
+			"AmericaChavez.png",
+			"AmericaChavez1.png",
+			"AmericaChavez2.png",
+			"AmericaChavez3.png",
+			"AmericaChavez4.png"
+		]
+	},
+	{
+		"name": "Angel",
+		"count": 6,
+		"url": [
+			"Angel.png",
+			"Angel1.png",
+			"Angel2.png",
+			"Angel3.png",
+			"Angel4.png",
+			"Angel5.png"
+		]
+	},
+	{
+		"name": "Angela",
+		"count": 5,
+		"url": [
+			"Angela.png",
+			"Angela1.png",
+			"Angela2.png",
+			"Angela3.png",
+			"Angela4.png"
+		]
+	},
+	{
+		"name": "AntMan",
+		"count": 5,
+		"url": [
+			"AntMan.png",
+			"AntMan1.png",
+			"AntMan2.png",
+			"AntMan3.png",
+			"AntMan4.png"
+		]
+	},
+	{
+		"name": "Apocalypse",
+		"count": 6,
+		"url": [
+			"Apocalypse.png",
+			"Apocalypse1.png",
+			"Apocalypse2.png",
+			"Apocalypse3.png",
+			"Apocalypse4.png",
+			"Apocalypse5.png"
+		]
+	},
+	{
+		"name": "Armor",
+		"count": 5,
+		"url": [
+			"Armor.png",
+			"Armor1.png",
+			"Armor2.png",
+			"Armor3.png",
+			"Armor4.png"
+		]
+	},
+	{
+		"name": "ArnimZola",
+		"count": 5,
+		"url": [
+			"ArnimZola.png",
+			"ArnimZola1.png",
+			"ArnimZola2.png",
+			"ArnimZola3.png",
+			"ArnimZola4.png"
+		]
+	},
+	{
+		"name": "BaronMordo",
+		"count": 3,
+		"url": [
+			"BaronMordo.png",
+			"BaronMordo1.png",
+			"BaronMordo2.png"
+		]
+	},
+	{
+		"name": "Beast",
+		"count": 6,
+		"url": [
+			"Beast.png",
+			"Beast1.png",
+			"Beast2.png",
+			"Beast3.png",
+			"Beast4.png",
+			"Beast5.png"
+		]
+	},
+	{
+		"name": "Bishop",
+		"count": 5,
+		"url": [
+			"Bishop.png",
+			"Bishop1.png",
+			"Bishop2.png",
+			"Bishop3.png",
+			"Bishop4.png"
+		]
+	},
+	{
+		"name": "BlackBolt",
+		"count": 6,
+		"url": [
+			"BlackBolt.png",
+			"BlackBolt1.png",
+			"BlackBolt2.png",
+			"BlackBolt3.png",
+			"BlackBolt4.png",
+			"BlackBolt5.png"
+		]
+	},
+	{
+		"name": "BlackCat",
+		"count": 6,
+		"url": [
+			"BlackCat.png",
+			"BlackCat1.png",
+			"BlackCat2.png",
+			"BlackCat3.png",
+			"BlackCat4.png",
+			"BlackCat5.png"
+		]
+	},
+	{
+		"name": "BlackWidow",
+		"count": 6,
+		"url": [
+			"BlackWidow.png",
+			"BlackWidow1.png",
+			"BlackWidow2.png",
+			"BlackWidow3.png",
+			"BlackWidow4.png",
+			"BlackWidow5.png"
+		]
+	},
+	{
+		"name": "Blade",
+		"count": 4,
+		"url": [
+			"Blade.png",
+			"Blade1.png",
+			"Blade2.png",
+			"Blade3.png"
+		]
+	},
+	{
+		"name": "BlueMarvel",
+		"count": 5,
+		"url": [
+			"BlueMarvel.png",
+			"BlueMarvel1.png",
+			"BlueMarvel2.png",
+			"BlueMarvel3.png",
+			"BlueMarvel4.png"
+		]
+	},
+	{
+		"name": "Brood",
+		"count": 6,
+		"url": [
+			"Brood.png",
+			"Brood1.png",
+			"Brood2.png",
+			"Brood3.png",
+			"Brood4.png",
+			"Brood5.png"
+		]
+	},
+	{
+		"name": "BuckyBarnes",
+		"count": 6,
+		"url": [
+			"BuckyBarnes.png",
+			"BuckyBarnes1.png",
+			"BuckyBarnes2.png",
+			"BuckyBarnes3.png",
+			"BuckyBarnes4.png",
+			"BuckyBarnes5.png"
+		]
+	},
+	{
+		"name": "Cable",
+		"count": 5,
+		"url": [
+			"Cable.png",
+			"Cable1.png",
+			"Cable2.png",
+			"Cable3.png",
+			"Cable4.png"
+		]
+	},
+	{
+		"name": "CaptainAmerica",
+		"count": 6,
+		"url": [
+			"CaptainAmerica.png",
+			"CaptainAmerica1.png",
+			"CaptainAmerica2.png",
+			"CaptainAmerica3.png",
+			"CaptainAmerica4.png",
+			"CaptainAmerica5.png"
+		]
+	},
+	{
+		"name": "CaptainMarvel",
+		"count": 6,
+		"url": [
+			"CaptainMarvel.png",
+			"CaptainMarvel1.png",
+			"CaptainMarvel2.png",
+			"CaptainMarvel3.png",
+			"CaptainMarvel4.png",
+			"CaptainMarvel5.png"
+		]
+	},
+	{
+		"name": "Carnage",
+		"count": 6,
+		"url": [
+			"Carnage.png",
+			"Carnage1.png",
+			"Carnage2.png",
+			"Carnage3.png",
+			"Carnage4.png",
+			"Carnage5.png"
+		]
+	},
+	{
+		"name": "Cerebro",
+		"count": 4,
+		"url": [
+			"Cerebro.png",
+			"Cerebro1.png",
+			"Cerebro2.png",
+			"Cerebro3.png"
+		]
+	},
+	{
+		"name": "Cloak",
+		"count": 4,
+		"url": [
+			"Cloak.png",
+			"Cloak1.png",
+			"Cloak2.png",
+			"Cloak3.png"
+		]
+	},
+	{
+		"name": "ColleenWing",
+		"count": 6,
+		"url": [
+			"ColleenWing.png",
+			"ColleenWing1.png",
+			"ColleenWing2.png",
+			"ColleenWing3.png",
+			"ColleenWing4.png",
+			"ColleenWing5.png"
+		]
+	},
+	{
+		"name": "Colossus",
+		"count": 6,
+		"url": [
+			"Colossus.png",
+			"Colossus1.png",
+			"Colossus2.png",
+			"Colossus3.png",
+			"Colossus4.png",
+			"Colossus5.png"
+		]
+	},
+	{
+		"name": "Cosmo",
+		"count": 5,
+		"url": [
+			"Cosmo.png",
+			"Cosmo1.png",
+			"Cosmo2.png",
+			"Cosmo3.png",
+			"Cosmo4.png"
+		]
+	},
+	{
+		"name": "Crossbones",
+		"count": 6,
+		"url": [
+			"Crossbones.png",
+			"Crossbones1.png",
+			"Crossbones2.png",
+			"Crossbones3.png",
+			"Crossbones4.png",
+			"Crossbones5.png"
+		]
+	},
+	{
+		"name": "Crystal",
+		"count": 5,
+		"url": [
+			"Crystal.png",
+			"Crystal1.png",
+			"Crystal2.png",
+			"Crystal3.png",
+			"Crystal4.png"
+		]
+	},
+	{
+		"name": "Cyclops",
+		"count": 6,
+		"url": [
+			"Cyclops.png",
+			"Cyclops1.png",
+			"Cyclops2.png",
+			"Cyclops3.png",
+			"Cyclops4.png",
+			"Cyclops5.png"
+		]
+	},
+	{
+		"name": "Dagger",
+		"count": 4,
+		"url": [
+			"Dagger.png",
+			"Dagger1.png",
+			"Dagger2.png",
+			"Dagger3.png"
+		]
+	},
+	{
+		"name": "Daredevil",
+		"count": 6,
+		"url": [
+			"Daredevil.png",
+			"Daredevil1.png",
+			"Daredevil2.png",
+			"Daredevil3.png",
+			"Daredevil4.png",
+			"Daredevil5.png"
+		]
+	},
+	{
+		"name": "Deadpool",
+		"count": 6,
+		"url": [
+			"Deadpool.png",
+			"Deadpool1.png",
+			"Deadpool2.png",
+			"Deadpool3.png",
+			"Deadpool4.png",
+			"Deadpool5.png"
+		]
+	},
+	{
+		"name": "Death",
+		"count": 6,
+		"url": [
+			"Death.png",
+			"Death1.png",
+			"Death2.png",
+			"Death3.png",
+			"Death4.png",
+			"Death5.png"
+		]
+	},
+	{
+		"name": "Deathlok",
+		"count": 6,
+		"url": [
+			"Deathlok.png",
+			"Deathlok1.png",
+			"Deathlok2.png",
+			"Deathlok3.png",
+			"Deathlok4.png",
+			"Deathlok5.png"
+		]
+	},
+	{
+		"name": "Debrii",
+		"count": 4,
+		"url": [
+			"Debrii.png",
+			"Debrii1.png",
+			"Debrii2.png",
+			"Debrii3.png"
+		]
+	},
+	{
+		"name": "Destroyer",
+		"count": 4,
+		"url": [
+			"Destroyer.png",
+			"Destroyer1.png",
+			"Destroyer2.png",
+			"Destroyer3.png"
+		]
+	},
+	{
+		"name": "DevilDinosaur",
+		"count": 7,
+		"url": [
+			"DevilDinosaur.png",
+			"DevilDinosaur1.png",
+			"DevilDinosaur2.png",
+			"DevilDinosaur3.png",
+			"DevilDinosaur4.png",
+			"DevilDinosaur5.png",
+			"DevilDinosaur6.png"
+		]
+	},
+	{
+		"name": "DoctorDoom",
+		"count": 6,
+		"url": [
+			"DoctorDoom.png",
+			"DoctorDoom1.png",
+			"DoctorDoom2.png",
+			"DoctorDoom3.png",
+			"DoctorDoom4.png",
+			"DoctorDoom5.png"
+		]
+	},
+	{
+		"name": "DoctorOctopus",
+		"count": 6,
+		"url": [
+			"DoctorOctopus.png",
+			"DoctorOctopus1.png",
+			"DoctorOctopus2.png",
+			"DoctorOctopus3.png",
+			"DoctorOctopus4.png",
+			"DoctorOctopus5.png"
+		]
+	},
+	{
+		"name": "DoctorStrange",
+		"count": 5,
+		"url": [
+			"DoctorStrange.png",
+			"DoctorStrange1.png",
+			"DoctorStrange2.png",
+			"DoctorStrange3.png",
+			"DoctorStrange4.png"
+		]
+	},
+	{
+		"name": "Domino",
+		"count": 6,
+		"url": [
+			"Domino.png",
+			"Domino1.png",
+			"Domino2.png",
+			"Domino3.png",
+			"Domino4.png",
+			"Domino5.png"
+		]
+	},
+	{
+		"name": "Dracula",
+		"count": 5,
+		"url": [
+			"Dracula.png",
+			"Dracula1.png",
+			"Dracula2.png",
+			"Dracula3.png",
+			"Dracula4.png"
+		]
+	},
+	{
+		"name": "Drax",
+		"count": 5,
+		"url": [
+			"Drax.png",
+			"Drax1.png",
+			"Drax2.png",
+			"Drax3.png",
+			"Drax4.png"
+		]
+	},
+	{
+		"name": "EbonyMaw",
+		"count": 5,
+		"url": [
+			"EbonyMaw.png",
+			"EbonyMaw1.png",
+			"EbonyMaw2.png",
+			"EbonyMaw3.png",
+			"EbonyMaw4.png"
+		]
+	},
+	{
+		"name": "Electro",
+		"count": 6,
+		"url": [
+			"Electro.png",
+			"Electro1.png",
+			"Electro2.png",
+			"Electro3.png",
+			"Electro4.png",
+			"Electro5.png"
+		]
+	},
+	{
+		"name": "Elektra",
+		"count": 5,
+		"url": [
+			"Elektra.png",
+			"Elektra1.png",
+			"Elektra2.png",
+			"Elektra3.png",
+			"Elektra4.png"
+		]
+	},
+	{
+		"name": "Enchantress",
+		"count": 5,
+		"url": [
+			"Enchantress.png",
+			"Enchantress1.png",
+			"Enchantress2.png",
+			"Enchantress3.png",
+			"Enchantress4.png"
+		]
+	},
+	{
+		"name": "Falcon",
+		"count": 6,
+		"url": [
+			"Falcon.png",
+			"Falcon1.png",
+			"Falcon2.png",
+			"Falcon3.png",
+			"Falcon4.png",
+			"Falcon5.png"
+		]
+	},
+	{
+		"name": "Forge",
+		"count": 4,
+		"url": [
+			"Forge.png",
+			"Forge1.png",
+			"Forge2.png",
+			"Forge3.png"
+		]
+	},
+	{
+		"name": "Gambit",
+		"count": 4,
+		"url": [
+			"Gambit.png",
+			"Gambit1.png",
+			"Gambit2.png",
+			"Gambit3.png"
+		]
+	},
+	{
+		"name": "Gamora",
+		"count": 6,
+		"url": [
+			"Gamora.png",
+			"Gamora1.png",
+			"Gamora2.png",
+			"Gamora3.png",
+			"Gamora4.png",
+			"Gamora5.png"
+		]
+	},
+	{
+		"name": "GhostRider",
+		"count": 7,
+		"url": [
+			"GhostRider.png",
+			"GhostRider1.png",
+			"GhostRider2.png",
+			"GhostRider3.png",
+			"GhostRider4.png",
+			"GhostRider5.png",
+			"GhostRider6.png"
+		]
+	},
+	{
+		"name": "Giganto",
+		"count": 6,
+		"url": [
+			"Giganto.png",
+			"Giganto1.png",
+			"Giganto2.png",
+			"Giganto3.png",
+			"Giganto4.png",
+			"Giganto5.png"
+		]
+	},
+	{
+		"name": "Goose",
+		"count": 4,
+		"url": [
+			"Goose.png",
+			"Goose1.png",
+			"Goose2.png",
+			"Goose3.png"
+		]
+	},
+	{
+		"name": "GreenGoblin",
+		"count": 5,
+		"url": [
+			"GreenGoblin.png",
+			"GreenGoblin1.png",
+			"GreenGoblin2.png",
+			"GreenGoblin3.png",
+			"GreenGoblin4.png"
+		]
+	},
+	{
+		"name": "Groot",
+		"count": 5,
+		"url": [
+			"Groot.png",
+			"Groot1.png",
+			"Groot2.png",
+			"Groot3.png",
+			"Groot4.png"
+		]
+	},
+	{
+		"name": "Hawkeye",
+		"count": 6,
+		"url": [
+			"Hawkeye.png",
+			"Hawkeye1.png",
+			"Hawkeye2.png",
+			"Hawkeye3.png",
+			"Hawkeye4.png",
+			"Hawkeye5.png"
+		]
+	},
+	{
+		"name": "Hazmat",
+		"count": 5,
+		"url": [
+			"Hazmat.png",
+			"Hazmat1.png",
+			"Hazmat2.png",
+			"Hazmat3.png",
+			"Hazmat4.png"
+		]
+	},
+	{
+		"name": "Heimdall",
+		"count": 5,
+		"url": [
+			"Heimdall.png",
+			"Heimdall1.png",
+			"Heimdall2.png",
+			"Heimdall3.png",
+			"Heimdall4.png"
+		]
+	},
+	{
+		"name": "Hela",
+		"count": 4,
+		"url": [
+			"Hela.png",
+			"Hela1.png",
+			"Hela2.png",
+			"Hela3.png"
+		]
+	},
+	{
+		"name": "Hellcow",
+		"count": 6,
+		"url": [
+			"Hellcow.png",
+			"Hellcow1.png",
+			"Hellcow2.png",
+			"Hellcow3.png",
+			"Hellcow4.png",
+			"Hellcow5.png"
+		]
+	},
+	{
+		"name": "Hobgoblin",
+		"count": 6,
+		"url": [
+			"Hobgoblin.png",
+			"Hobgoblin1.png",
+			"Hobgoblin2.png",
+			"Hobgoblin3.png",
+			"Hobgoblin4.png",
+			"Hobgoblin5.png"
+		]
+	},
+	{
+		"name": "Hulk",
+		"count": 5,
+		"url": [
+			"Hulk.png",
+			"Hulk1.png",
+			"Hulk2.png",
+			"Hulk3.png",
+			"Hulk4.png"
+		]
+	},
+	{
+		"name": "Hulkbuster",
+		"count": 6,
+		"url": [
+			"Hulkbuster.png",
+			"Hulkbuster1.png",
+			"Hulkbuster2.png",
+			"Hulkbuster3.png",
+			"Hulkbuster4.png",
+			"Hulkbuster5.png"
+		]
+	},
+	{
+		"name": "HumanTorch",
+		"count": 6,
+		"url": [
+			"HumanTorch.png",
+			"HumanTorch1.png",
+			"HumanTorch2.png",
+			"HumanTorch3.png",
+			"HumanTorch4.png",
+			"HumanTorch5.png"
+		]
+	},
+	{
+		"name": "Iceman",
+		"count": 5,
+		"url": [
+			"Iceman.png",
+			"Iceman1.png",
+			"Iceman2.png",
+			"Iceman3.png",
+			"Iceman4.png"
+		]
+	},
+	{
+		"name": "InvisibleWoman",
+		"count": 5,
+		"url": [
+			"InvisibleWoman.png",
+			"InvisibleWoman1.png",
+			"InvisibleWoman2.png",
+			"InvisibleWoman3.png",
+			"InvisibleWoman4.png"
+		]
+	},
+	{
+		"name": "IronFist",
+		"count": 6,
+		"url": [
+			"IronFist.png",
+			"IronFist1.png",
+			"IronFist2.png",
+			"IronFist3.png",
+			"IronFist4.png",
+			"IronFist5.png"
+		]
+	},
+	{
+		"name": "Ironheart",
+		"count": 6,
+		"url": [
+			"Ironheart.png",
+			"Ironheart1.png",
+			"Ironheart2.png",
+			"Ironheart3.png",
+			"Ironheart4.png",
+			"Ironheart5.png"
+		]
+	},
+	{
+		"name": "IronMan",
+		"count": 6,
+		"url": [
+			"IronMan.png",
+			"IronMan1.png",
+			"IronMan2.png",
+			"IronMan3.png",
+			"IronMan4.png",
+			"IronMan5.png"
+		]
+	},
+	{
+		"name": "JaneFoster",
+		"count": 5,
+		"url": [
+			"JaneFoster.png",
+			"JaneFoster1.png",
+			"JaneFoster2.png",
+			"JaneFoster3.png",
+			"JaneFoster4.png"
+		]
+	},
+	{
+		"name": "JessicaJones",
+		"count": 5,
+		"url": [
+			"JessicaJones.png",
+			"JessicaJones1.png",
+			"JessicaJones2.png",
+			"JessicaJones3.png",
+			"JessicaJones4.png"
+		]
+	},
+	{
+		"name": "Jubilee",
+		"count": 6,
+		"url": [
+			"Jubilee.png",
+			"Jubilee1.png",
+			"Jubilee2.png",
+			"Jubilee3.png",
+			"Jubilee4.png",
+			"Jubilee5.png"
+		]
+	},
+	{
+		"name": "Juggernaut",
+		"count": 5,
+		"url": [
+			"Juggernaut.png",
+			"Juggernaut1.png",
+			"Juggernaut2.png",
+			"Juggernaut3.png",
+			"Juggernaut4.png"
+		]
+	},
+	{
+		"name": "KaZar",
+		"count": 5,
+		"url": [
+			"KaZar.png",
+			"KaZar1.png",
+			"KaZar2.png",
+			"KaZar3.png",
+			"KaZar4.png"
+		]
+	},
+	{
+		"name": "Killmonger",
+		"count": 5,
+		"url": [
+			"Killmonger.png",
+			"Killmonger1.png",
+			"Killmonger2.png",
+			"Killmonger3.png",
+			"Killmonger4.png"
+		]
+	},
+	{
+		"name": "Kingpin",
+		"count": 5,
+		"url": [
+			"Kingpin.png",
+			"Kingpin1.png",
+			"Kingpin2.png",
+			"Kingpin3.png",
+			"Kingpin4.png"
+		]
+	},
+	{
+		"name": "Klaw",
+		"count": 6,
+		"url": [
+			"Klaw.png",
+			"Klaw1.png",
+			"Klaw2.png",
+			"Klaw3.png",
+			"Klaw4.png",
+			"Klaw5.png"
+		]
+	},
+	{
+		"name": "Korg",
+		"count": 6,
+		"url": [
+			"Korg.png",
+			"Korg1.png",
+			"Korg2.png",
+			"Korg3.png",
+			"Korg4.png",
+			"Korg5.png"
+		]
+	},
+	{
+		"name": "Kraven",
+		"count": 5,
+		"url": [
+			"Kraven.png",
+			"Kraven1.png",
+			"Kraven2.png",
+			"Kraven3.png",
+			"Kraven4.png"
+		]
+	},
+	{
+		"name": "LadySif",
+		"count": 6,
+		"url": [
+			"LadySif.png",
+			"LadySif1.png",
+			"LadySif2.png",
+			"LadySif3.png",
+			"LadySif4.png",
+			"LadySif5.png"
+		]
+	},
+	{
+		"name": "Leader",
+		"count": 6,
+		"url": [
+			"Leader.png",
+			"Leader1.png",
+			"Leader2.png",
+			"Leader3.png",
+			"Leader4.png",
+			"Leader5.png"
+		]
+	},
+	{
+		"name": "Leech",
+		"count": 4,
+		"url": [
+			"Leech.png",
+			"Leech1.png",
+			"Leech2.png",
+			"Leech3.png"
+		]
+	},
+	{
+		"name": "Lizard",
+		"count": 6,
+		"url": [
+			"Lizard.png",
+			"Lizard1.png",
+			"Lizard2.png",
+			"Lizard3.png",
+			"Lizard4.png",
+			"Lizard5.png"
+		]
+	},
+	{
+		"name": "Lockjaw",
+		"count": 5,
+		"url": [
+			"Lockjaw.png",
+			"Lockjaw1.png",
+			"Lockjaw2.png",
+			"Lockjaw3.png",
+			"Lockjaw4.png"
+		]
+	},
+	{
+		"name": "Magik",
+		"count": 5,
+		"url": [
+			"Magik.png",
+			"Magik1.png",
+			"Magik2.png",
+			"Magik3.png",
+			"Magik4.png"
+		]
+	},
+	{
+		"name": "Magneto",
+		"count": 5,
+		"url": [
+			"Magneto.png",
+			"Magneto1.png",
+			"Magneto2.png",
+			"Magneto3.png",
+			"Magneto4.png"
+		]
+	},
+	{
+		"name": "Mantis",
+		"count": 6,
+		"url": [
+			"Mantis.png",
+			"Mantis1.png",
+			"Mantis2.png",
+			"Mantis3.png",
+			"Mantis4.png",
+			"Mantis5.png"
+		]
+	},
+	{
+		"name": "Maximus",
+		"count": 4,
+		"url": [
+			"Maximus.png",
+			"Maximus1.png",
+			"Maximus2.png",
+			"Maximus3.png"
+		]
+	},
+	{
+		"name": "Medusa",
+		"count": 5,
+		"url": [
+			"Medusa.png",
+			"Medusa1.png",
+			"Medusa2.png",
+			"Medusa3.png",
+			"Medusa4.png"
+		]
+	},
+	{
+		"name": "MilesMorales",
+		"count": 5,
+		"url": [
+			"MilesMorales.png",
+			"MilesMorales1.png",
+			"MilesMorales2.png",
+			"MilesMorales3.png",
+			"MilesMorales4.png"
+		]
+	},
+	{
+		"name": "MisterFantastic",
+		"count": 4,
+		"url": [
+			"MisterFantastic.png",
+			"MisterFantastic1.png",
+			"MisterFantastic2.png",
+			"MisterFantastic3.png"
+		]
+	},
+	{
+		"name": "MisterNegative",
+		"count": 6,
+		"url": [
+			"MisterNegative.png",
+			"MisterNegative1.png",
+			"MisterNegative2.png",
+			"MisterNegative3.png",
+			"MisterNegative4.png",
+			"MisterNegative5.png"
+		]
+	},
+	{
+		"name": "MisterSinister",
+		"count": 4,
+		"url": [
+			"MisterSinister.png",
+			"MisterSinister1.png",
+			"MisterSinister2.png",
+			"MisterSinister3.png"
+		]
+	},
+	{
+		"name": "MistyKnight",
+		"count": 5,
+		"url": [
+			"MistyKnight.png",
+			"MistyKnight1.png",
+			"MistyKnight2.png",
+			"MistyKnight3.png",
+			"MistyKnight4.png"
+		]
+	},
+	{
+		"name": "Mojo",
+		"count": 6,
+		"url": [
+			"Mojo.png",
+			"Mojo1.png",
+			"Mojo2.png",
+			"Mojo3.png",
+			"Mojo4.png",
+			"Mojo5.png"
+		]
+	},
+	{
+		"name": "MoonGirl",
+		"count": 5,
+		"url": [
+			"MoonGirl.png",
+			"MoonGirl1.png",
+			"MoonGirl2.png",
+			"MoonGirl3.png",
+			"MoonGirl4.png"
+		]
+	},
+	{
+		"name": "MoonKnight",
+		"count": 4,
+		"url": [
+			"MoonKnight.png",
+			"MoonKnight1.png",
+			"MoonKnight2.png",
+			"MoonKnight3.png"
+		]
+	},
+	{
+		"name": "Morbius",
+		"count": 6,
+		"url": [
+			"Morbius.png",
+			"Morbius1.png",
+			"Morbius2.png",
+			"Morbius3.png",
+			"Morbius4.png",
+			"Morbius5.png"
+		]
+	},
+	{
+		"name": "Morph",
+		"count": 5,
+		"url": [
+			"Morph.png",
+			"Morph1.png",
+			"Morph2.png",
+			"Morph3.png",
+			"Morph4.png"
+		]
+	},
+	{
+		"name": "MultipleMan",
+		"count": 6,
+		"url": [
+			"MultipleMan.png",
+			"MultipleMan1.png",
+			"MultipleMan2.png",
+			"MultipleMan3.png",
+			"MultipleMan4.png",
+			"MultipleMan5.png"
+		]
+	},
+	{
+		"name": "Mysterio",
+		"count": 6,
+		"url": [
+			"Mysterio.png",
+			"Mysterio1.png",
+			"Mysterio2.png",
+			"Mysterio3.png",
+			"Mysterio4.png",
+			"Mysterio5.png"
+		]
+	},
+	{
+		"name": "Mystique",
+		"count": 5,
+		"url": [
+			"Mystique.png",
+			"Mystique1.png",
+			"Mystique2.png",
+			"Mystique3.png",
+			"Mystique4.png"
+		]
+	},
+	{
+		"name": "Nakia",
+		"count": 5,
+		"url": [
+			"Nakia.png",
+			"Nakia1.png",
+			"Nakia2.png",
+			"Nakia3.png",
+			"Nakia4.png"
+		]
+	},
+	{
+		"name": "Namor",
+		"count": 5,
+		"url": [
+			"Namor.png",
+			"Namor1.png",
+			"Namor2.png",
+			"Namor3.png",
+			"Namor4.png"
+		]
+	},
+	{
+		"name": "NickFury",
+		"count": 6,
+		"url": [
+			"NickFury.png",
+			"NickFury1.png",
+			"NickFury2.png",
+			"NickFury3.png",
+			"NickFury4.png",
+			"NickFury5.png"
+		]
+	},
+	{
+		"name": "Nightcrawler",
+		"count": 4,
+		"url": [
+			"Nightcrawler.png",
+			"Nightcrawler1.png",
+			"Nightcrawler2.png",
+			"Nightcrawler3.png"
+		]
+	},
+	{
+		"name": "Nova",
+		"count": 4,
+		"url": [
+			"Nova.png",
+			"Nova1.png",
+			"Nova2.png",
+			"Nova3.png"
+		]
+	},
+	{
+		"name": "Odin",
+		"count": 6,
+		"url": [
+			"Odin.png",
+			"Odin1.png",
+			"Odin2.png",
+			"Odin3.png",
+			"Odin4.png",
+			"Odin5.png"
+		]
+	},
+	{
+		"name": "Okoye",
+		"count": 6,
+		"url": [
+			"Okoye.png",
+			"Okoye1.png",
+			"Okoye2.png",
+			"Okoye3.png",
+			"Okoye4.png",
+			"Okoye5.png"
+		]
+	},
+	{
+		"name": "OmegaRed",
+		"count": 5,
+		"url": [
+			"OmegaRed.png",
+			"OmegaRed1.png",
+			"OmegaRed2.png",
+			"OmegaRed3.png",
+			"OmegaRed4.png"
+		]
+	},
+	{
+		"name": "Onslaught",
+		"count": 6,
+		"url": [
+			"Onslaught.png",
+			"Onslaught1.png",
+			"Onslaught2.png",
+			"Onslaught3.png",
+			"Onslaught4.png",
+			"Onslaught5.png"
+		]
+	},
+	{
+		"name": "Patriot",
+		"count": 5,
+		"url": [
+			"Patriot.png",
+			"Patriot1.png",
+			"Patriot2.png",
+			"Patriot3.png",
+			"Patriot4.png"
+		]
+	},
+	{
+		"name": "Polaris",
+		"count": 6,
+		"url": [
+			"Polaris.png",
+			"Polaris1.png",
+			"Polaris2.png",
+			"Polaris3.png",
+			"Polaris4.png",
+			"Polaris5.png"
+		]
+	},
+	{
+		"name": "ProfessorX",
+		"count": 5,
+		"url": [
+			"ProfessorX.png",
+			"ProfessorX1.png",
+			"ProfessorX2.png",
+			"ProfessorX3.png",
+			"ProfessorX4.png"
+		]
+	},
+	{
+		"name": "Psylocke",
+		"count": 5,
+		"url": [
+			"Psylocke.png",
+			"Psylocke1.png",
+			"Psylocke2.png",
+			"Psylocke3.png",
+			"Psylocke4.png"
+		]
+	},
+	{
+		"name": "Quake",
+		"count": 5,
+		"url": [
+			"Quake.png",
+			"Quake1.png",
+			"Quake2.png",
+			"Quake3.png",
+			"Quake4.png"
+		]
+	},
+	{
+		"name": "Quicksilver",
+		"count": 4,
+		"url": [
+			"Quicksilver.png",
+			"Quicksilver1.png",
+			"Quicksilver2.png",
+			"Quicksilver3.png"
+		]
+	},
+	{
+		"name": "Quinjet",
+		"count": 4,
+		"url": [
+			"Quinjet.png",
+			"Quinjet1.png",
+			"Quinjet2.png",
+			"Quinjet3.png"
+		]
+	},
+	{
+		"name": "RedSkull",
+		"count": 6,
+		"url": [
+			"RedSkull.png",
+			"RedSkull1.png",
+			"RedSkull2.png",
+			"RedSkull3.png",
+			"RedSkull4.png",
+			"RedSkull5.png"
+		]
+	},
+	{
+		"name": "Rescue",
+		"count": 5,
+		"url": [
+			"Rescue.png",
+			"Rescue1.png",
+			"Rescue2.png",
+			"Rescue3.png",
+			"Rescue4.png"
+		]
+	},
+	{
+		"name": "Rhino",
+		"count": 6,
+		"url": [
+			"Rhino.png",
+			"Rhino1.png",
+			"Rhino2.png",
+			"Rhino3.png",
+			"Rhino4.png",
+			"Rhino5.png"
+		]
+	},
+	{
+		"name": "RocketRaccoon",
+		"count": 5,
+		"url": [
+			"RocketRaccoon.png",
+			"RocketRaccoon1.png",
+			"RocketRaccoon2.png",
+			"RocketRaccoon3.png",
+			"RocketRaccoon4.png"
+		]
+	},
+	{
+		"name": "Rockslide",
+		"count": 5,
+		"url": [
+			"Rockslide.png",
+			"Rockslide1.png",
+			"Rockslide2.png",
+			"Rockslide3.png",
+			"Rockslide4.png"
+		]
+	},
+	{
+		"name": "Rogue",
+		"count": 6,
+		"url": [
+			"Rogue.png",
+			"Rogue1.png",
+			"Rogue2.png",
+			"Rogue3.png",
+			"Rogue4.png",
+			"Rogue5.png"
+		]
+	},
+	{
+		"name": "Ronan",
+		"count": 5,
+		"url": [
+			"Ronan.png",
+			"Ronan1.png",
+			"Ronan2.png",
+			"Ronan3.png",
+			"Ronan4.png"
+		]
+	},
+	{
+		"name": "Sabretooth",
+		"count": 5,
+		"url": [
+			"Sabretooth.png",
+			"Sabretooth1.png",
+			"Sabretooth2.png",
+			"Sabretooth3.png",
+			"Sabretooth4.png"
+		]
+	},
+	{
+		"name": "Sandman",
+		"count": 5,
+		"url": [
+			"Sandman.png",
+			"Sandman1.png",
+			"Sandman2.png",
+			"Sandman3.png",
+			"Sandman4.png"
+		]
+	},
+	{
+		"name": "ScarletWitch",
+		"count": 6,
+		"url": [
+			"ScarletWitch.png",
+			"ScarletWitch1.png",
+			"ScarletWitch2.png",
+			"ScarletWitch3.png",
+			"ScarletWitch4.png",
+			"ScarletWitch5.png"
+		]
+	},
+	{
+		"name": "Scorpion",
+		"count": 5,
+		"url": [
+			"Scorpion.png",
+			"Scorpion1.png",
+			"Scorpion2.png",
+			"Scorpion3.png",
+			"Scorpion4.png"
+		]
+	},
+	{
+		"name": "Sentinel",
+		"count": 3,
+		"url": [
+			"Sentinel.png",
+			"Sentinel1.png",
+			"Sentinel2.png"
+		]
+	},
+	{
+		"name": "Sera",
+		"count": 5,
+		"url": [
+			"Sera.png",
+			"Sera1.png",
+			"Sera2.png",
+			"Sera3.png",
+			"Sera4.png"
+		]
+	},
+	{
+		"name": "ShangChi",
+		"count": 5,
+		"url": [
+			"ShangChi.png",
+			"ShangChi1.png",
+			"ShangChi2.png",
+			"ShangChi3.png",
+			"ShangChi4.png"
+		]
+	},
+	{
+		"name": "Shocker",
+		"count": 4,
+		"url": [
+			"Shocker.png",
+			"Shocker1.png",
+			"Shocker2.png",
+			"Shocker3.png"
+		]
+	},
+	{
+		"name": "Spectrum",
+		"count": 5,
+		"url": [
+			"Spectrum.png",
+			"Spectrum1.png",
+			"Spectrum2.png",
+			"Spectrum3.png",
+			"Spectrum4.png"
+		]
+	},
+	{
+		"name": "SpiderMan",
+		"count": 6,
+		"url": [
+			"SpiderMan.png",
+			"SpiderMan1.png",
+			"SpiderMan2.png",
+			"SpiderMan3.png",
+			"SpiderMan4.png",
+			"SpiderMan5.png"
+		]
+	},
+	{
+		"name": "SpiderWoman",
+		"count": 6,
+		"url": [
+			"SpiderWoman.png",
+			"SpiderWoman1.png",
+			"SpiderWoman2.png",
+			"SpiderWoman3.png",
+			"SpiderWoman4.png",
+			"SpiderWoman5.png"
+		]
+	},
+	{
+		"name": "SquirrelGirl",
+		"count": 4,
+		"url": [
+			"SquirrelGirl.png",
+			"SquirrelGirl1.png",
+			"SquirrelGirl2.png",
+			"SquirrelGirl3.png"
+		]
+	},
+	{
+		"name": "Starlord",
+		"count": 6,
+		"url": [
+			"Starlord.png",
+			"Starlord1.png",
+			"Starlord2.png",
+			"Starlord3.png",
+			"Starlord4.png",
+			"Starlord5.png"
+		]
+	},
+	{
+		"name": "Storm",
+		"count": 5,
+		"url": [
+			"Storm.png",
+			"Storm1.png",
+			"Storm2.png",
+			"Storm3.png",
+			"Storm4.png"
+		]
+	},
+	{
+		"name": "StrongGuy",
+		"count": 5,
+		"url": [
+			"StrongGuy.png",
+			"StrongGuy1.png",
+			"StrongGuy2.png",
+			"StrongGuy3.png",
+			"StrongGuy4.png"
+		]
+	},
+	{
+		"name": "Sunspot",
+		"count": 6,
+		"url": [
+			"Sunspot.png",
+			"Sunspot1.png",
+			"Sunspot2.png",
+			"Sunspot3.png",
+			"Sunspot4.png",
+			"Sunspot5.png"
+		]
+	},
+	{
+		"name": "Swarm",
+		"count": 6,
+		"url": [
+			"Swarm.png",
+			"Swarm1.png",
+			"Swarm2.png",
+			"Swarm3.png",
+			"Swarm4.png",
+			"Swarm5.png"
+		]
+	},
+	{
+		"name": "SwordMaster",
+		"count": 5,
+		"url": [
+			"SwordMaster.png",
+			"SwordMaster1.png",
+			"SwordMaster2.png",
+			"SwordMaster3.png",
+			"SwordMaster4.png"
+		]
+	},
+	{
+		"name": "Taskmaster",
+		"count": 5,
+		"url": [
+			"Taskmaster.png",
+			"Taskmaster1.png",
+			"Taskmaster2.png",
+			"Taskmaster3.png",
+			"Taskmaster4.png"
+		]
+	},
+	{
+		"name": "TheCollector",
+		"count": 6,
+		"url": [
+			"TheCollector.png",
+			"TheCollector1.png",
+			"TheCollector2.png",
+			"TheCollector3.png",
+			"TheCollector4.png",
+			"TheCollector5.png"
+		]
+	},
+	{
+		"name": "TheHood",
+		"count": 5,
+		"url": [
+			"TheHood.png",
+			"TheHood1.png",
+			"TheHood2.png",
+			"TheHood3.png",
+			"TheHood4.png"
+		]
+	},
+	{
+		"name": "TheInfinaut",
+		"count": 5,
+		"url": [
+			"TheInfinaut.png",
+			"TheInfinaut1.png",
+			"TheInfinaut2.png",
+			"TheInfinaut3.png",
+			"TheInfinaut4.png"
+		]
+	},
+	{
+		"name": "Punisher",
+		"count": 5,
+		"url": [
+			"Punisher.png",
+			"Punisher1.png",
+			"Punisher2.png",
+			"Punisher3.png",
+			"Punisher4.png"
+		]
+	},
+	{
+		"name": "TheThing",
+		"count": 6,
+		"url": [
+			"TheThing.png",
+			"TheThing1.png",
+			"TheThing2.png",
+			"TheThing3.png",
+			"TheThing4.png",
+			"TheThing5.png"
+		]
+	},
+	{
+		"name": "Thor",
+		"count": 5,
+		"url": [
+			"Thor.png",
+			"Thor1.png",
+			"Thor2.png",
+			"Thor3.png",
+			"Thor4.png"
+		]
+	},
+	{
+		"name": "TyphoidMary",
+		"count": 4,
+		"url": [
+			"TyphoidMary.png",
+			"TyphoidMary1.png",
+			"TyphoidMary2.png",
+			"TyphoidMary3.png"
+		]
+	},
+	{
+		"name": "Uatu",
+		"count": 5,
+		"url": [
+			"Uatu.png",
+			"Uatu1.png",
+			"Uatu2.png",
+			"Uatu3.png",
+			"Uatu4.png"
+		]
+	},
+	{
+		"name": "Ultron",
+		"count": 6,
+		"url": [
+			"Ultron.png",
+			"Ultron1.png",
+			"Ultron2.png",
+			"Ultron3.png",
+			"Ultron4.png",
+			"Ultron5.png"
+		]
+	},
+	{
+		"name": "Venom",
+		"count": 6,
+		"url": [
+			"Venom.png",
+			"Venom1.png",
+			"Venom2.png",
+			"Venom3.png",
+			"Venom4.png",
+			"Venom5.png"
+		]
+	},
+	{
+		"name": "Viper",
+		"count": 5,
+		"url": [
+			"Viper.png",
+			"Viper1.png",
+			"Viper2.png",
+			"Viper3.png",
+			"Viper4.png"
+		]
+	},
+	{
+		"name": "Vision",
+		"count": 5,
+		"url": [
+			"Vision.png",
+			"Vision1.png",
+			"Vision2.png",
+			"Vision3.png",
+			"Vision4.png"
+		]
+	},
+	{
+		"name": "Vulture",
+		"count": 5,
+		"url": [
+			"Vulture.png",
+			"Vulture1.png",
+			"Vulture2.png",
+			"Vulture3.png",
+			"Vulture4.png"
+		]
+	},
+	{
+		"name": "Warpath",
+		"count": 5,
+		"url": [
+			"Warpath.png",
+			"Warpath1.png",
+			"Warpath2.png",
+			"Warpath3.png",
+			"Warpath4.png"
+		]
+	},
+	{
+		"name": "Wasp",
+		"count": 5,
+		"url": [
+			"Wasp.png",
+			"Wasp1.png",
+			"Wasp2.png",
+			"Wasp3.png",
+			"Wasp4.png"
+		]
+	},
+	{
+		"name": "Wave",
+		"count": 5,
+		"url": [
+			"Wave.png",
+			"Wave1.png",
+			"Wave2.png",
+			"Wave3.png",
+			"Wave4.png"
+		]
+	},
+	{
+		"name": "WhiteQueen",
+		"count": 5,
+		"url": [
+			"WhiteQueen.png",
+			"WhiteQueen1.png",
+			"WhiteQueen2.png",
+			"WhiteQueen3.png",
+			"WhiteQueen4.png"
+		]
+	},
+	{
+		"name": "WhiteTiger",
+		"count": 5,
+		"url": [
+			"WhiteTiger.png",
+			"WhiteTiger1.png",
+			"WhiteTiger2.png",
+			"WhiteTiger3.png",
+			"WhiteTiger4.png"
+		]
+	},
+	{
+		"name": "Wolfsbane",
+		"count": 6,
+		"url": [
+			"Wolfsbane.png",
+			"Wolfsbane1.png",
+			"Wolfsbane2.png",
+			"Wolfsbane3.png",
+			"Wolfsbane4.png",
+			"Wolfsbane5.png"
+		]
+	},
+	{
+		"name": "Wolverine",
+		"count": 5,
+		"url": [
+			"Wolverine.png",
+			"Wolverine1.png",
+			"Wolverine2.png",
+			"Wolverine3.png",
+			"Wolverine4.png"
+		]
+	},
+	{
+		"name": "Wong",
+		"count": 5,
+		"url": [
+			"Wong.png",
+			"Wong1.png",
+			"Wong2.png",
+			"Wong3.png",
+			"Wong4.png"
+		]
+	},
+	{
+		"name": "Yellowjacket",
+		"count": 4,
+		"url": [
+			"Yellowjacket.png",
+			"Yellowjacket1.png",
+			"Yellowjacket2.png",
+			"Yellowjacket3.png"
+		]
+	},
+	{
+		"name": "Yondu",
+		"count": 5,
+		"url": [
+			"Yondu.png",
+			"Yondu1.png",
+			"Yondu2.png",
+			"Yondu3.png",
+			"Yondu4.png"
+		]
+	},
+	{
+		"name": "Zero",
+		"count": 5,
+		"url": [
+			"Zero.png",
+			"Zero1.png",
+			"Zero2.png",
+			"Zero3.png",
+			"Zero4.png"
+		]
+	}
+]

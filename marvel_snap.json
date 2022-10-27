@@ -1,0 +1,5662 @@
+[
+	{
+		"name": "어보미네이션",
+		"cost": "5",
+		"power": "9",
+		"pool": "1그룹",
+		"disc": "\"멍청한 놈들! 나한테는 안 되지!\"",
+		"eng": "Abomination",
+		"urls": [
+			{
+				"url": "Abomination.png",
+				"rare": "default"
+			},
+			{
+				"url": "Abomination_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Abomination_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Abomination_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Abomination_4.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "아담 워록",
+		"cost": "2",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "매 턴이 끝날 때마다, 이 구역에서 앞서고 있으면 카드를 한 장 뽑습니다.",
+		"eng": "AdamWarlock",
+		"urls": [
+			{
+				"url": "AdamWarlock.png",
+				"rare": "default"
+			},
+			{
+				"url": "AdamWarlock_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AdamWarlock_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AdamWarlock_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AdamWarlock_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AdamWarlock_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "에어로",
+		"cost": "5",
+		"power": "8",
+		"pool": "3그룹",
+		"disc": "출현: 이번 턴에 상대가 낸 카드를 모두 이 구역으로 이동합니다.",
+		"eng": "Aero",
+		"urls": [
+			{
+				"url": "Aero.png",
+				"rare": "default"
+			},
+			{
+				"url": "Aero_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Aero_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Aero_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Aero_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Aero_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "애거사 하크니스",
+		"cost": "6",
+		"power": "14",
+		"pool": "3그룹",
+		"disc": "애거사는 시작 시 내 손에 들어 있으며 나를 대신에 카드를 냅니다.",
+		"eng": "AgathaHarkness",
+		"urls": [
+			{
+				"url": "AgathaHarkness.png",
+				"rare": "default"
+			},
+			{
+				"url": "AgathaHarkness_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AgathaHarkness_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AgathaHarkness_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AgathaHarkness_4.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "에이전트 13",
+		"cost": "1",
+		"power": "2",
+		"pool": "2그룹",
+		"disc": "출현: 임의의 카드 한 장을 내 손에 추가합니다.",
+		"eng": "Agent13",
+		"urls": [
+			{
+				"url": "Agent13.png",
+				"rare": "default"
+			},
+			{
+				"url": "Agent13_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Agent13_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Agent13_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Agent13_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Agent13_5.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "아메리카 차베즈",
+		"cost": "6",
+		"power": "9",
+		"pool": "1그룹",
+		"disc": "6턴에 항상 이 카드를 뽑습니다. 그전에는 뽑을 수 없습니다.",
+		"eng": "AmericaChavez",
+		"urls": [
+			{
+				"url": "AmericaChavez.png",
+				"rare": "default"
+			},
+			{
+				"url": "AmericaChavez_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AmericaChavez_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AmericaChavez_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AmericaChavez_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "엔젤",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "내 카드 한 장이 파괴되면, 이 카드가 덱에서 날아와 파괴된 카드를 대체합니다.",
+		"eng": "Angel",
+		"urls": [
+			{
+				"url": "Angel.png",
+				"rare": "default"
+			},
+			{
+				"url": "Angel_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angel_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Angel_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angel_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angel_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angel_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "안젤라",
+		"cost": "2",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "이 구역에 카드를 내면 +2 파워를 부여합니다.",
+		"eng": "Angela",
+		"urls": [
+			{
+				"url": "Angela.png",
+				"rare": "default"
+			},
+			{
+				"url": "Angela_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angela_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Angela_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Angela_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "앤트맨",
+		"cost": "1",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 내 다른 카드가 3장 배치되어 있을 경우, +3 파워를 부여합니다.",
+		"eng": "AntMan",
+		"urls": [
+			{
+				"url": "AntMan.png",
+				"rare": "default"
+			},
+			{
+				"url": "AntMan_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AntMan_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "AntMan_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "AntMan_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아포칼립스",
+		"cost": "6",
+		"power": "8",
+		"pool": "1그룹",
+		"disc": "손에서 이 카드를 버리면 +4 파워를 부여해 돌려받습니다.",
+		"eng": "Apocalypse",
+		"urls": [
+			{
+				"url": "Apocalypse.png",
+				"rare": "default"
+			},
+			{
+				"url": "Apocalypse_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Apocalypse_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Apocalypse_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Apocalypse_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Apocalypse_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아머",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 있는 모든 카드는 파괴되지 않습니다.",
+		"eng": "Armor",
+		"urls": [
+			{
+				"url": "Armor.png",
+				"rare": "default"
+			},
+			{
+				"url": "Armor_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Armor_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Armor_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Armor_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아르님 졸라",
+		"cost": "6",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역의 아군 카드 한 장을 무작위로 파괴하고, 그 카드를 복사해 내 다른 구역에 모두 추가합니다.",
+		"eng": "ArnimZola",
+		"urls": [
+			{
+				"url": "ArnimZola.png",
+				"rare": "default"
+			},
+			{
+				"url": "ArnimZola_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ArnimZola_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ArnimZola_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ArnimZola_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "모르도 남작",
+		"cost": "2",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 상대가 카드 한 장을 뽑습니다. 해당 카드의 비용을 6(으)로 설정합니다.",
+		"eng": "BaronMordo",
+		"urls": [
+			{
+				"url": "BaronMordo.png",
+				"rare": "default"
+			},
+			{
+				"url": "BaronMordo_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BaronMordo_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BaronMordo_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "비스트",
+		"cost": "2",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역에 배치되어 있는 내 다른 모든 카드를 회수합니다. 해당 카드는 모두 비용이 1 감소합니다.",
+		"eng": "Beast",
+		"urls": [
+			{
+				"url": "Beast.png",
+				"rare": "default"
+			},
+			{
+				"url": "Beast_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Beast_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Beast_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Beast_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Beast_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "비숍",
+		"cost": "3",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "카드 한 장을 낼 때마다, 이 카드는 +1 파워를 획득합니다.",
+		"eng": "Bishop",
+		"urls": [
+			{
+				"url": "Bishop.png",
+				"rare": "default"
+			},
+			{
+				"url": "Bishop_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Bishop_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Bishop_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Bishop_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Bishop_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Bishop_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "블랙 볼트",
+		"cost": "5",
+		"power": "8",
+		"pool": "3그룹",
+		"disc": "출현: 상대는 비용이 가장 낮은 카드를 손에서 버려야 합니다.",
+		"eng": "BlackBolt",
+		"urls": [
+			{
+				"url": "BlackBolt.png",
+				"rare": "default"
+			},
+			{
+				"url": "BlackBolt_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackBolt_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BlackBolt_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackBolt_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackBolt_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "블랙 캣",
+		"cost": "3",
+		"power": "6",
+		"pool": "3그룹",
+		"disc": "턴이 끝날 때 이 카드가 손에 있으면 버립니다.",
+		"eng": "BlackCat",
+		"urls": [
+			{
+				"url": "BlackCat.png",
+				"rare": "default"
+			},
+			{
+				"url": "BlackCat_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackCat_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BlackCat_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BlackCat_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackCat_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "블랙 위도우",
+		"cost": "2",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 위도우즈 바이트 한 장을 상대의 손에 추가합니다.",
+		"eng": "BlackWidow",
+		"urls": [
+			{
+				"url": "BlackWidow.png",
+				"rare": "default"
+			},
+			{
+				"url": "BlackWidow_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackWidow_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BlackWidow_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackWidow_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlackWidow_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "블레이드",
+		"cost": "1",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "출현: 내 손에서 카드 한 장을 버립니다.",
+		"eng": "Blade",
+		"urls": [
+			{
+				"url": "Blade.png",
+				"rare": "default"
+			},
+			{
+				"url": "Blade_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Blade_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Blade_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Blade_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "블루 마블",
+		"cost": "5",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 내 다른 카드에 +1 파워를 부여합니다.",
+		"eng": "BlueMarvel",
+		"urls": [
+			{
+				"url": "BlueMarvel.png",
+				"rare": "default"
+			},
+			{
+				"url": "BlueMarvel_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlueMarvel_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BlueMarvel_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BlueMarvel_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "브루드",
+		"cost": "3",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "출현: 동일한 파워를 가진 브루드링 2장을 이 구역에 추가합니다.",
+		"eng": "Brood",
+		"urls": [
+			{
+				"url": "Brood.png",
+				"rare": "default"
+			},
+			{
+				"url": "Brood_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Brood_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Brood_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Brood_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Brood_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "버키 반스",
+		"cost": "2",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "이 카드가 파괴되면, 그 자리에 윈터 솔저이(가) 한 장 생성됩니다.",
+		"eng": "BuckyBarnes",
+		"urls": [
+			{
+				"url": "BuckyBarnes.png",
+				"rare": "default"
+			},
+			{
+				"url": "BuckyBarnes_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BuckyBarnes_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "BuckyBarnes_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BuckyBarnes_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "BuckyBarnes_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "케이블",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 상대의 덱에서 가장 밑에 있는 카드를 손으로 가져옵니다.",
+		"eng": "Cable",
+		"urls": [
+			{
+				"url": "Cable.png",
+				"rare": "default"
+			},
+			{
+				"url": "Cable_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cable_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cable_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cable_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cable_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "캡틴 아메리카",
+		"cost": "3",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 배치된 내 다른 카드가 +1 파워를 획득합니다.",
+		"eng": "CaptainAmerica",
+		"urls": [
+			{
+				"url": "CaptainAmerica.png",
+				"rare": "default"
+			},
+			{
+				"url": "CaptainAmerica_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainAmerica_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainAmerica_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "CaptainAmerica_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainAmerica_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainAmerica_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "캡틴 마블",
+		"cost": "5",
+		"power": "6",
+		"pool": "3그룹",
+		"disc": "게임이 끝날 때 게임을 이길 수 있는 구역으로 이동합니다. (가능할 경우)",
+		"eng": "CaptainMarvel",
+		"urls": [
+			{
+				"url": "CaptainMarvel.png",
+				"rare": "default"
+			},
+			{
+				"url": "CaptainMarvel_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainMarvel_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "CaptainMarvel_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "CaptainMarvel_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "CaptainMarvel_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "카니지",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에 배치된 내 다른 카드를 파괴합니다. 파괴된 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "Carnage",
+		"urls": [
+			{
+				"url": "Carnage.png",
+				"rare": "default"
+			},
+			{
+				"url": "Carnage_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Carnage_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Carnage_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Carnage_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Carnage_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "세레브로",
+		"cost": "3",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "지속: 파워가 가장 높은 내 카드에 +2 파워를 부여합니다.",
+		"eng": "Cerebro",
+		"urls": [
+			{
+				"url": "Cerebro.png",
+				"rare": "default"
+			},
+			{
+				"url": "Cerebro_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cerebro_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Cerebro_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "클록",
+		"cost": "2",
+		"power": "4",
+		"pool": "2그룹",
+		"disc": "출현: 다음 턴에 양쪽 플레이어 모두 이 구역으로 카드를 옮길 수 있습니다.",
+		"eng": "Cloak",
+		"urls": [
+			{
+				"url": "Cloak.png",
+				"rare": "default"
+			},
+			{
+				"url": "Cloak_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cloak_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cloak_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "콜린 윙",
+		"cost": "2",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 손에서 비용이 가장 낮은 카드를 버립니다.",
+		"eng": "ColleenWing",
+		"urls": [
+			{
+				"url": "ColleenWing.png",
+				"rare": "default"
+			},
+			{
+				"url": "ColleenWing_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ColleenWing_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "ColleenWing_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ColleenWing_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ColleenWing_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "콜로서스",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 파괴, 이동, 파워 감소가 불가능합니다.",
+		"eng": "Colossus",
+		"urls": [
+			{
+				"url": "Colossus.png",
+				"rare": "default"
+			},
+			{
+				"url": "Colossus_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Colossus_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Colossus_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Colossus_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Colossus_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "코스모",
+		"cost": "3",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 앞으로 이 구역에서 출현 능력이 발동하지 않습니다.",
+		"eng": "Cosmo",
+		"urls": [
+			{
+				"url": "Cosmo.png",
+				"rare": "default"
+			},
+			{
+				"url": "Cosmo_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cosmo_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cosmo_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cosmo_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "크로스본즈",
+		"cost": "4",
+		"power": "8",
+		"pool": "3그룹",
+		"disc": "이 카드는 앞서고 있는 구역에만 낼 수 있습니다.",
+		"eng": "Crossbones",
+		"urls": [
+			{
+				"url": "Crossbones.png",
+				"rare": "default"
+			},
+			{
+				"url": "Crossbones_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crossbones_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crossbones_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crossbones_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Crossbones_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "크리스탈",
+		"cost": "4",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 이 카드가 중앙 구역에 배치될 경우, 양쪽 플레이어는 손에 든 카드를 각자의 덱에 섞은 다음 3장을 뽑습니다.",
+		"eng": "Crystal",
+		"urls": [
+			{
+				"url": "Crystal.png",
+				"rare": "default"
+			},
+			{
+				"url": "Crystal_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crystal_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crystal_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Crystal_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "사이클롭스",
+		"cost": "3",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "\"가자, 엑스맨.\"",
+		"eng": "Cyclops",
+		"urls": [
+			{
+				"url": "Cyclops.png",
+				"rare": "default"
+			},
+			{
+				"url": "Cyclops_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cyclops_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cyclops_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Cyclops_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cyclops_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Cyclops_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "대거",
+		"cost": "2",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "이 카드가 임의의 구역으로 이동하면, 해당 구역에 배치된 상대 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "Dagger",
+		"urls": [
+			{
+				"url": "Dagger.png",
+				"rare": "default"
+			},
+			{
+				"url": "Dagger_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Dagger_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Dagger_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Dagger_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "데어데블",
+		"cost": "2",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "5턴에 내가 카드를 내기에 앞서 상대가 낸 카드를 먼저 볼 수 있습니다.",
+		"eng": "Daredevil",
+		"urls": [
+			{
+				"url": "Daredevil.png",
+				"rare": "default"
+			},
+			{
+				"url": "Daredevil_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Daredevil_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Daredevil_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Daredevil_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Daredevil_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "데드풀",
+		"cost": "1",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "이 카드는 파괴되면, 파워가 두 배가 되어 내 손으로 돌아옵니다.",
+		"eng": "Deadpool",
+		"urls": [
+			{
+				"url": "Deadpool.png",
+				"rare": "default"
+			},
+			{
+				"url": "Deadpool_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deadpool_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Deadpool_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deadpool_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deadpool_5.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "데스",
+		"cost": "9",
+		"power": "12",
+		"pool": "3그룹",
+		"disc": "이번 게임에서 파괴된 카드 한 장당 이 카드의 비용이 1 감소합니다.",
+		"eng": "Death",
+		"urls": [
+			{
+				"url": "Death.png",
+				"rare": "default"
+			},
+			{
+				"url": "Death_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Death_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Death_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Death_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Death_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "데스록",
+		"cost": "3",
+		"power": "5",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역의 내 다른 카드를 모두 파괴합니다.",
+		"eng": "Deathlok",
+		"urls": [
+			{
+				"url": "Deathlok.png",
+				"rare": "default"
+			},
+			{
+				"url": "Deathlok_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deathlok_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deathlok_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deathlok_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Deathlok_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "데브리",
+		"cost": "3",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 각 구역의 양쪽 진영에 록 카드를 추가합니다.",
+		"eng": "Debrii",
+		"urls": [
+			{
+				"url": "Debrii.png",
+				"rare": "default"
+			},
+			{
+				"url": "Debrii_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Debrii_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Debrii_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "디스트로이어",
+		"cost": "6",
+		"power": "16",
+		"pool": "3그룹",
+		"disc": "출현: 내 다른 카드를 모두 파괴합니다.",
+		"eng": "Destroyer",
+		"urls": [
+			{
+				"url": "Destroyer.png",
+				"rare": "default"
+			},
+			{
+				"url": "Destroyer_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Destroyer_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Destroyer_3.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "데빌 다이노소어",
+		"cost": "5",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 내 손에 든 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "DevilDinosaur",
+		"urls": [
+			{
+				"url": "DevilDinosaur.png",
+				"rare": "default"
+			},
+			{
+				"url": "DevilDinosaur_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DevilDinosaur_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DevilDinosaur_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DevilDinosaur_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DevilDinosaur_5.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DevilDinosaur_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "닥터 둠",
+		"cost": "6",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "출현: 모든 구역에 파워 5의 둠봇을(를) 추가합니다.",
+		"eng": "DoctorDoom",
+		"urls": [
+			{
+				"url": "DoctorDoom.png",
+				"rare": "default"
+			},
+			{
+				"url": "DoctorDoom_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorDoom_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DoctorDoom_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DoctorDoom_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorDoom_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "닥터 옥토퍼스",
+		"cost": "5",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "출현: 상대의 손에서 임의의 카드 4장을 뽑아 이 구역의 상대 진영에 배치합니다.",
+		"eng": "DoctorOctopus",
+		"urls": [
+			{
+				"url": "DoctorOctopus.png",
+				"rare": "default"
+			},
+			{
+				"url": "DoctorOctopus_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorOctopus_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorOctopus_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DoctorOctopus_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorOctopus_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "닥터 스트레인지",
+		"cost": "3",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "출현: 파워가 가장 높은 내 카드를 이 구역으로 이동시킵니다.",
+		"eng": "DoctorStrange",
+		"urls": [
+			{
+				"url": "DoctorStrange.png",
+				"rare": "default"
+			},
+			{
+				"url": "DoctorStrange_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorStrange_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DoctorStrange_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "DoctorStrange_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "DoctorStrange_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "도미노",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "2턴에 항상 이 카드를 뽑습니다. 그전에는 뽑을 수 없습니다.",
+		"eng": "Domino",
+		"urls": [
+			{
+				"url": "Domino.png",
+				"rare": "default"
+			},
+			{
+				"url": "Domino_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Domino_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Domino_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Domino_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Domino_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "드라큘라",
+		"cost": "4",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "마지막 턴이 끝나고 손에서 임의의 카드 한 장을 버립니다. 해당 카드의 파워를 이 카드에 부여합니다.",
+		"eng": "Dracula",
+		"urls": [
+			{
+				"url": "Dracula.png",
+				"rare": "default"
+			},
+			{
+				"url": "Dracula_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Dracula_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Dracula_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Dracula_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Dracula_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "드랙스",
+		"cost": "4",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 이번 턴에 상대가 이 구역에 카드를 한 장 낼 경우, +4 파워를 받습니다.",
+		"eng": "Drax",
+		"urls": [
+			{
+				"url": "Drax.png",
+				"rare": "default"
+			},
+			{
+				"url": "Drax_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Drax_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Drax_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Drax_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "에보니 모",
+		"cost": "1",
+		"power": "7",
+		"pool": "2그룹",
+		"disc": "3턴 후에는 이 카드를 낼 수 없습니다.지속: 앞으로 이 구역에 카드를 낼 수 없습니다.",
+		"eng": "EbonyMaw",
+		"urls": [
+			{
+				"url": "EbonyMaw.png",
+				"rare": "default"
+			},
+			{
+				"url": "EbonyMaw_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "EbonyMaw_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "EbonyMaw_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "EbonyMaw_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "일렉트로",
+		"cost": "3",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "출현: 최대 에너지가 1 증가합니다.지속: 나는 한 턴에 카드를 1장만 낼 수 있습니다.",
+		"eng": "Electro",
+		"urls": [
+			{
+				"url": "Electro.png",
+				"rare": "default"
+			},
+			{
+				"url": "Electro_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Electro_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Electro_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Electro_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Electro_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "엘렉트라",
+		"cost": "1",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에서 비용 1의 상대 카드 한 장을 무작위로 파괴합니다.",
+		"eng": "Elektra",
+		"urls": [
+			{
+				"url": "Elektra.png",
+				"rare": "default"
+			},
+			{
+				"url": "Elektra_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Elektra_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Elektra_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Elektra_4.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "인챈트리스",
+		"cost": "4",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에 있는 모든 지속 카드의 능력이 제거됩니다.",
+		"eng": "Enchantress",
+		"urls": [
+			{
+				"url": "Enchantress.png",
+				"rare": "default"
+			},
+			{
+				"url": "Enchantress_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Enchantress_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Enchantress_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Enchantress_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Enchantress_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "팔콘",
+		"cost": "2",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 비용 1의 카드를 회수합니다.",
+		"eng": "Falcon",
+		"urls": [
+			{
+				"url": "Falcon.png",
+				"rare": "default"
+			},
+			{
+				"url": "Falcon_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Falcon_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Falcon_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Falcon_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Falcon_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "포지",
+		"cost": "2",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 다음 번에 내는 카드에 +2 파워를 부여합니다.",
+		"eng": "Forge",
+		"urls": [
+			{
+				"url": "Forge.png",
+				"rare": "default"
+			},
+			{
+				"url": "Forge_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Forge_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Forge_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Forge_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "갬빗",
+		"cost": "3",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 손에서 카드를 한 장 버립니다. 상대 카드를 무작위로 한 장 파괴합니다.",
+		"eng": "Gambit",
+		"urls": [
+			{
+				"url": "Gambit.png",
+				"rare": "default"
+			},
+			{
+				"url": "Gambit_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gambit_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gambit_3.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "가모라",
+		"cost": "5",
+		"power": "7",
+		"pool": "1그룹",
+		"disc": "출현: 이번 턴에 상대가 이 구역에 카드를 한 장 낼 경우, +5 파워를 받습니다.",
+		"eng": "Gamora",
+		"urls": [
+			{
+				"url": "Gamora.png",
+				"rare": "default"
+			},
+			{
+				"url": "Gamora_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gamora_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gamora_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gamora_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Gamora_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Gamora_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "고스트 라이더",
+		"cost": "4",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 내가 버린 카드 한 장을 이 구역으로 다시 가져옵니다.",
+		"eng": "GhostRider",
+		"urls": [
+			{
+				"url": "GhostRider.png",
+				"rare": "default"
+			},
+			{
+				"url": "GhostRider_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GhostRider_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GhostRider_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GhostRider_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GhostRider_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GhostRider_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "기간토",
+		"cost": "6",
+		"power": "14",
+		"pool": "3그룹",
+		"disc": "이 카드는 왼쪽 구역에만 낼 수 있습니다.",
+		"eng": "Giganto",
+		"urls": [
+			{
+				"url": "Giganto.png",
+				"rare": "default"
+			},
+			{
+				"url": "Giganto_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Giganto_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Giganto_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Giganto_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Giganto_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "구스",
+		"cost": "2",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속: 누구도 이 구역에 비용 4, 5, 또는 6의 카드를 낼 수 없습니다.",
+		"eng": "Goose",
+		"urls": [
+			{
+				"url": "Goose.png",
+				"rare": "default"
+			},
+			{
+				"url": "Goose_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Goose_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Goose_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Goose_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "그린 고블린",
+		"cost": "3",
+		"power": "-3",
+		"pool": "3그룹",
+		"disc": "출현: 이 카드를 상대에게 줍니다.",
+		"eng": "GreenGoblin",
+		"urls": [
+			{
+				"url": "GreenGoblin.png",
+				"rare": "default"
+			},
+			{
+				"url": "GreenGoblin_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GreenGoblin_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "GreenGoblin_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "GreenGoblin_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "그루트",
+		"cost": "3",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "출현: 이번 턴에 상대가 이 구역에 카드를 한 장 낼 경우, +3 파워를 받습니다.",
+		"eng": "Groot",
+		"urls": [
+			{
+				"url": "Groot.png",
+				"rare": "default"
+			},
+			{
+				"url": "Groot_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Groot_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Groot_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Groot_4.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "호크아이",
+		"cost": "1",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 다음 턴에 이 구역에 카드를 낼 경우, +2 파워를 부여합니다.",
+		"eng": "Hawkeye",
+		"urls": [
+			{
+				"url": "Hawkeye.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hawkeye_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hawkeye_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hawkeye_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hawkeye_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Hawkeye_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "해즈맷",
+		"cost": "2",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 다른 모든 카드에 -1 파워를 부여합니다.",
+		"eng": "Hazmat",
+		"urls": [
+			{
+				"url": "Hazmat.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hazmat_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hazmat_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hazmat_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hazmat_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Hazmat_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "헤임달",
+		"cost": "6",
+		"power": "8",
+		"pool": "1그룹",
+		"disc": "출현: 내 다른 모든 카드를 왼쪽 구역으로 이동시킵니다.",
+		"eng": "Heimdall",
+		"urls": [
+			{
+				"url": "Heimdall.png",
+				"rare": "default"
+			},
+			{
+				"url": "Heimdall_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Heimdall_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Heimdall_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Heimdall_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "헬라",
+		"cost": "6",
+		"power": "6",
+		"pool": "3그룹",
+		"disc": "출현: 손에서 버린 모든 카드를 각각 임의의 구역에 배치합니다.",
+		"eng": "Hela",
+		"urls": [
+			{
+				"url": "Hela.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hela_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hela_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Hela_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "헬카우",
+		"cost": "4",
+		"power": "6",
+		"pool": "3그룹",
+		"disc": "출현: 내 손에서 카드 2장을 버립니다.",
+		"eng": "Hellcow",
+		"urls": [
+			{
+				"url": "Hellcow.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hellcow_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hellcow_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Hellcow_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hellcow_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hellcow_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "홉고블린",
+		"cost": "5",
+		"power": "-8",
+		"pool": "2그룹",
+		"disc": "출현: 이 카드를 상대에게 줍니다.",
+		"eng": "Hobgoblin",
+		"urls": [
+			{
+				"url": "Hobgoblin.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hobgoblin_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hobgoblin_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Hobgoblin_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hobgoblin_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hobgoblin_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "헐크",
+		"cost": "6",
+		"power": "12",
+		"pool": "1그룹",
+		"disc": "\"헐크 스매시!\"",
+		"eng": "Hulk",
+		"urls": [
+			{
+				"url": "Hulk.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hulk_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulk_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulk_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulk_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulk_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulk_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "헐크버스터",
+		"cost": "3",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "출현: 이 카드를 이 구역에 있는 무작위 아군 카드와 합체합니다.",
+		"eng": "Hulkbuster",
+		"urls": [
+			{
+				"url": "Hulkbuster.png",
+				"rare": "default"
+			},
+			{
+				"url": "Hulkbuster_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulkbuster_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulkbuster_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulkbuster_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Hulkbuster_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "휴먼 토치",
+		"cost": "1",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "이 카드는 이동하면 파워가 두 배로 증가합니다.",
+		"eng": "HumanTorch",
+		"urls": [
+			{
+				"url": "HumanTorch.png",
+				"rare": "default"
+			},
+			{
+				"url": "HumanTorch_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "HumanTorch_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "HumanTorch_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "HumanTorch_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "HumanTorch_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아이스맨",
+		"cost": "1",
+		"power": "2",
+		"pool": "2그룹",
+		"disc": "출현: 상대가 들고 있는 임의의 카드 한 장의 비용이 1 증가합니다. (최대 6)",
+		"eng": "Iceman",
+		"urls": [
+			{
+				"url": "Iceman.png",
+				"rare": "default"
+			},
+			{
+				"url": "Iceman_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Iceman_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Iceman_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Iceman_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Iceman_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "인비저블우먼",
+		"cost": "2",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속: 내가 이 구역에 낸 카드는 게임이 끝날 때까지 공개되지 않습니다.",
+		"eng": "InvisibleWoman",
+		"urls": [
+			{
+				"url": "InvisibleWoman.png",
+				"rare": "default"
+			},
+			{
+				"url": "InvisibleWoman_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "InvisibleWoman_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "InvisibleWoman_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "InvisibleWoman_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "InvisibleWoman_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아이언 피스트",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 이 카드를 낸 다음에 낸 카드를 왼쪽으로 이동합니다.",
+		"eng": "IronFist",
+		"urls": [
+			{
+				"url": "IronFist.png",
+				"rare": "default"
+			},
+			{
+				"url": "IronFist_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronFist_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronFist_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "IronFist_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronFist_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아이언하트",
+		"cost": "3",
+		"power": "0",
+		"pool": "1그룹",
+		"disc": "출현: 내 다른 아군 카드 3장에 +2 파워를 부여합니다.",
+		"eng": "Ironheart",
+		"urls": [
+			{
+				"url": "Ironheart.png",
+				"rare": "default"
+			},
+			{
+				"url": "Ironheart_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ironheart_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Ironheart_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ironheart_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ironheart_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "아이언맨",
+		"cost": "5",
+		"power": "0",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역의 내 전체 파워가 두 배 증가합니다.",
+		"eng": "IronMan",
+		"urls": [
+			{
+				"url": "IronMan.png",
+				"rare": "default"
+			},
+			{
+				"url": "IronMan_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronMan_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronMan_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronMan_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "IronMan_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "IronMan_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "제인 포스터 마이티 토르",
+		"cost": "5",
+		"power": "8",
+		"pool": "3그룹",
+		"disc": "출현: 내 덱에서 비용 0의 카드를 모두 뽑습니다.",
+		"eng": "JaneFoster",
+		"urls": [
+			{
+				"url": "JaneFoster.png",
+				"rare": "default"
+			},
+			{
+				"url": "JaneFoster_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "JaneFoster_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "JaneFoster_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "JaneFoster_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "JaneFoster_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "제시카 존스",
+		"cost": "4",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "출현: 다음 턴에 이 구역에 카드를 내지 않을 경우, +4 파워를 부여합니다.",
+		"eng": "JessicaJones",
+		"urls": [
+			{
+				"url": "JessicaJones.png",
+				"rare": "default"
+			},
+			{
+				"url": "JessicaJones_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "JessicaJones_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "JessicaJones_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "JessicaJones_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "주빌리",
+		"cost": "4",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "출현: 덱에서 카드 한 장을 이 구역에 냅니다.",
+		"eng": "Jubilee",
+		"urls": [
+			{
+				"url": "Jubilee.png",
+				"rare": "default"
+			},
+			{
+				"url": "Jubilee_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Jubilee_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Jubilee_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Jubilee_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Jubilee_5.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "저거노트",
+		"cost": "3",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 상대가 이번 턴에 같은 구역에 카드를 냈을 경우, 해당 카드를 임의의 구역으로 이동시킵니다.",
+		"eng": "Juggernaut",
+		"urls": [
+			{
+				"url": "Juggernaut.png",
+				"rare": "default"
+			},
+			{
+				"url": "Juggernaut_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Juggernaut_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Juggernaut_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Juggernaut_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "카자르",
+		"cost": "4",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "지속: 비용 1의 내 카드에 +1 파워를 부여합니다.",
+		"eng": "KaZar",
+		"urls": [
+			{
+				"url": "KaZar.png",
+				"rare": "default"
+			},
+			{
+				"url": "KaZar_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "KaZar_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "KaZar_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "KaZar_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "킬몽거",
+		"cost": "3",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "출현: 비용 1의 카드를 모두 파괴합니다.",
+		"eng": "Killmonger",
+		"urls": [
+			{
+				"url": "Killmonger.png",
+				"rare": "default"
+			},
+			{
+				"url": "Killmonger_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Killmonger_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Killmonger_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Killmonger_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "킹핀",
+		"cost": "3",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "6턴에 이 구역으로 카드가 이동해 오면 해당 카드를 파괴합니다.",
+		"eng": "Kingpin",
+		"urls": [
+			{
+				"url": "Kingpin.png",
+				"rare": "default"
+			},
+			{
+				"url": "Kingpin_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kingpin_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kingpin_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kingpin_4.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "클로",
+		"cost": "5",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "지속: 오른쪽 구역에 +6 파워를 부여합니다.",
+		"eng": "Klaw",
+		"urls": [
+			{
+				"url": "Klaw.png",
+				"rare": "default"
+			},
+			{
+				"url": "Klaw_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Klaw_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Klaw_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Klaw_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Klaw_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "코르그",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 상대의 덱에 록을(를) 한 장 섞어 넣습니다.",
+		"eng": "Korg",
+		"urls": [
+			{
+				"url": "Korg.png",
+				"rare": "default"
+			},
+			{
+				"url": "Korg_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Korg_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Korg_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Korg_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Korg_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "크레이븐",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "임의의 카드가 이 구역으로 이동해 오면, 이 카드는 +2 파워를 획득합니다.",
+		"eng": "Kraven",
+		"urls": [
+			{
+				"url": "Kraven.png",
+				"rare": "default"
+			},
+			{
+				"url": "Kraven_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kraven_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kraven_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Kraven_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "레이디 시프",
+		"cost": "3",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "출현: 손에서 비용이 가장 높은 카드를 버립니다.",
+		"eng": "LadySif",
+		"urls": [
+			{
+				"url": "LadySif.png",
+				"rare": "default"
+			},
+			{
+				"url": "LadySif_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "LadySif_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "LadySif_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "LadySif_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "LadySif_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "리더",
+		"cost": "6",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 상대가 이번 턴에 낸 모든 카드를 내 진영에 복제합니다.",
+		"eng": "Leader",
+		"urls": [
+			{
+				"url": "Leader.png",
+				"rare": "default"
+			},
+			{
+				"url": "Leader_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Leader_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Leader_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Leader_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Leader_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "리치",
+		"cost": "5",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "출현: 상대의 손에 든 모든 카드의 능력을 제거합니다.",
+		"eng": "Leech",
+		"urls": [
+			{
+				"url": "Leech.png",
+				"rare": "default"
+			},
+			{
+				"url": "Leech_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Leech_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Leech_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "리저드",
+		"cost": "2",
+		"power": "5",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 상대의 카드가 4장 배치되어 있을 경우, -3 파워를 부여합니다.",
+		"eng": "Lizard",
+		"urls": [
+			{
+				"url": "Lizard.png",
+				"rare": "default"
+			},
+			{
+				"url": "Lizard_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lizard_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lizard_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lizard_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Lizard_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "록조",
+		"cost": "3",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "이 구역에 카드 한 장을 내면, 해당 카드를 내 덱의 카드 한 장과 교체합니다.",
+		"eng": "Lockjaw",
+		"urls": [
+			{
+				"url": "Lockjaw.png",
+				"rare": "default"
+			},
+			{
+				"url": "Lockjaw_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lockjaw_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lockjaw_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Lockjaw_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "매직",
+		"cost": "5",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "6턴에서는 낼 수 없습니다.출현: 이 구역을 \"림보\"(으)로 바꿉니다.",
+		"eng": "Magik",
+		"urls": [
+			{
+				"url": "Magik.png",
+				"rare": "default"
+			},
+			{
+				"url": "Magik_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magik_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magik_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Magik_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magik_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "매그니토",
+		"cost": "6",
+		"power": "12",
+		"pool": "3그룹",
+		"disc": "출현: 비용 3와(과) 4의 상대 카드를 모두 이 구역으로 가져옵니다.",
+		"eng": "Magneto",
+		"urls": [
+			{
+				"url": "Magneto.png",
+				"rare": "default"
+			},
+			{
+				"url": "Magneto_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magneto_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Magneto_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magneto_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Magneto_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "맨티스",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 상대가 이번 턴에 이 구역에 카드를 냈을 경우, 상대의 덱에서 카드 한 장을 뽑습니다.",
+		"eng": "Mantis",
+		"urls": [
+			{
+				"url": "Mantis.png",
+				"rare": "default"
+			},
+			{
+				"url": "Mantis_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mantis_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Mantis_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mantis_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mantis_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "막시무스",
+		"cost": "3",
+		"power": "7",
+		"pool": "3그룹",
+		"disc": "출현: 상대가 카드를 2장 뽑습니다.",
+		"eng": "Maximus",
+		"urls": [
+			{
+				"url": "Maximus.png",
+				"rare": "default"
+			},
+			{
+				"url": "Maximus_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Maximus_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Maximus_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Maximus_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "메두사",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 이 카드가 중앙 구역에 있을 경우, +2 파워를 부여합니다.",
+		"eng": "Medusa",
+		"urls": [
+			{
+				"url": "Medusa.png",
+				"rare": "default"
+			},
+			{
+				"url": "Medusa_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Medusa_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Medusa_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Medusa_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "마일스 모랄레스",
+		"cost": "4",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "지난 턴에 이동한 카드가 있을 경우, 이 카드의 비용이 1이(가) 됩니다.",
+		"eng": "MilesMorales",
+		"urls": [
+			{
+				"url": "MilesMorales.png",
+				"rare": "default"
+			},
+			{
+				"url": "MilesMorales_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MilesMorales_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MilesMorales_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MilesMorales_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스터 판타스틱",
+		"cost": "3",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "지속: 인접한 구역이 +2 파워를 획득합니다.",
+		"eng": "MisterFantastic",
+		"urls": [
+			{
+				"url": "MisterFantastic.png",
+				"rare": "default"
+			},
+			{
+				"url": "MisterFantastic_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterFantastic_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterFantastic_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스터 네거티브",
+		"cost": "4",
+		"power": "-1",
+		"pool": "3그룹",
+		"disc": "출현: 내 덱에 있는 모든 카드의 파워와 비용을 맞바꿉니다.",
+		"eng": "MisterNegative",
+		"urls": [
+			{
+				"url": "MisterNegative.png",
+				"rare": "default"
+			},
+			{
+				"url": "MisterNegative_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterNegative_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterNegative_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterNegative_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterNegative_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스터 시니스터",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 동일한 파워를 가진 시니스터 클론 한 장을 이 구역에 추가합니다.",
+		"eng": "MisterSinister",
+		"urls": [
+			{
+				"url": "MisterSinister.png",
+				"rare": "default"
+			},
+			{
+				"url": "MisterSinister_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterSinister_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterSinister_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterSinister_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MisterSinister_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스티 나이트",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "\"이 도시를 구해야만 해요.\"",
+		"eng": "MistyKnight",
+		"urls": [
+			{
+				"url": "MistyKnight.png",
+				"rare": "default"
+			},
+			{
+				"url": "MistyKnight_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MistyKnight_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MistyKnight_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MistyKnight_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "모조",
+		"cost": "2",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속: 이 구역에 양쪽 플레이어 모두 카드 네 장이 배치되어 있을 경우 +6 파워를 부여합니다.",
+		"eng": "Mojo",
+		"urls": [
+			{
+				"url": "Mojo.png",
+				"rare": "default"
+			},
+			{
+				"url": "Mojo_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mojo_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mojo_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mojo_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Mojo_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "문 걸",
+		"cost": "4",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "출현: 내 손의 카드를 복제합니다.",
+		"eng": "MoonGirl",
+		"urls": [
+			{
+				"url": "MoonGirl.png",
+				"rare": "default"
+			},
+			{
+				"url": "MoonGirl_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MoonGirl_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MoonGirl_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "MoonGirl_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MoonGirl_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "문 나이트",
+		"cost": "3",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 각 플레이어의 손에서 카드를 한 장 버립니다.",
+		"eng": "MoonKnight",
+		"urls": [
+			{
+				"url": "MoonKnight.png",
+				"rare": "default"
+			},
+			{
+				"url": "MoonKnight_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MoonKnight_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "MoonKnight_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "MoonKnight_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "모비우스",
+		"cost": "2",
+		"power": "0",
+		"pool": "2그룹",
+		"disc": "지속: 이번 게임에서 내가 버린 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "Morbius",
+		"urls": [
+			{
+				"url": "Morbius.png",
+				"rare": "default"
+			},
+			{
+				"url": "Morbius_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Morbius_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Morbius_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Morbius_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Morbius_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "모프",
+		"cost": "3",
+		"power": "0",
+		"pool": "1그룹",
+		"disc": "출현: 상대의 손에 든 무작위 카드로 복제됩니다.",
+		"eng": "Morph",
+		"urls": [
+			{
+				"url": "Morph.png",
+				"rare": "default"
+			},
+			{
+				"url": "Morph_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Morph_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Morph_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Morph_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "멀티플맨",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "이 카드는 이동할 때 기존 구역에 복제 카드를 하나 추가합니다.",
+		"eng": "MultipleMan",
+		"urls": [
+			{
+				"url": "MultipleMan.png",
+				"rare": "default"
+			},
+			{
+				"url": "MultipleMan_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MultipleMan_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "MultipleMan_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MultipleMan_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "MultipleMan_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스테리오",
+		"cost": "2",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "이 카드를 내면 다른 구역에 환상을 펼칩니다. 이 카드는 게임이 끝날 때까지 환상으로 위장합니다.",
+		"eng": "Mysterio",
+		"urls": [
+			{
+				"url": "Mysterio.png",
+				"rare": "default"
+			},
+			{
+				"url": "Mysterio_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mysterio_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Mysterio_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mysterio_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Mysterio_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "미스틱",
+		"cost": "3",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "출현: 마지막으로 낸 카드가 지속 능력을 갖고 있을 경우, 이 카드가 그 능력을 획득합니다.",
+		"eng": "Mystique",
+		"urls": [
+			{
+				"url": "Mystique.png",
+				"rare": "default"
+			},
+			{
+				"url": "Mystique_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mystique_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mystique_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Mystique_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Mystique_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "나키아",
+		"cost": "3",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "출현: 내 손에서 가장 왼쪽에 든 카드 2장에 +2 파워를 부여합니다.",
+		"eng": "Nakia",
+		"urls": [
+			{
+				"url": "Nakia.png",
+				"rare": "default"
+			},
+			{
+				"url": "Nakia_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nakia_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Nakia_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nakia_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "네이머",
+		"cost": "4",
+		"power": "5",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 이 카드만 배치되어 있을 경우, +5 파워를 부여합니다.",
+		"eng": "Namor",
+		"urls": [
+			{
+				"url": "Namor.png",
+				"rare": "default"
+			},
+			{
+				"url": "Namor_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Namor_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Namor_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Namor_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Namor_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "닉 퓨리",
+		"cost": "5",
+		"power": "7",
+		"pool": "3그룹",
+		"disc": "출현: 내 손에 비용 6의 카드 3장을 무작위로 추가합니다.",
+		"eng": "NickFury",
+		"urls": [
+			{
+				"url": "NickFury.png",
+				"rare": "default"
+			},
+			{
+				"url": "NickFury_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "NickFury_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "NickFury_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "NickFury_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "NickFury_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "나이트크롤러",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "이 카드는 한 번 이동할 수 있습니다.",
+		"eng": "Nightcrawler",
+		"urls": [
+			{
+				"url": "Nightcrawler.png",
+				"rare": "default"
+			},
+			{
+				"url": "Nightcrawler_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nightcrawler_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Nightcrawler_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Nightcrawler_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nightcrawler_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "노바",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "이 카드가 파괴되면 내 모든 카드에 +1 파워를 부여합니다.",
+		"eng": "Nova",
+		"urls": [
+			{
+				"url": "Nova.png",
+				"rare": "default"
+			},
+			{
+				"url": "Nova_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nova_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nova_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Nova_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "오딘",
+		"cost": "6",
+		"power": "8",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에 있는 내 다른 카드의 출현 능력을 발동합니다.",
+		"eng": "Odin",
+		"urls": [
+			{
+				"url": "Odin.png",
+				"rare": "default"
+			},
+			{
+				"url": "Odin_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Odin_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Odin_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Odin_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Odin_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "오코예",
+		"cost": "2",
+		"power": "2",
+		"pool": "2그룹",
+		"disc": "출현: 내 덱에 있는 모든 카드에 +1 파워를 부여합니다.",
+		"eng": "Okoye",
+		"urls": [
+			{
+				"url": "Okoye.png",
+				"rare": "default"
+			},
+			{
+				"url": "Okoye_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Okoye_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Okoye_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Okoye_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Okoye_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "오메가 레드",
+		"cost": "4",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "지속: 이 구역에서 파워를 10만큼 앞서고 있을 경우, 다른 구역에 +4 파워를 부여합니다.",
+		"eng": "OmegaRed",
+		"urls": [
+			{
+				"url": "OmegaRed.png",
+				"rare": "default"
+			},
+			{
+				"url": "OmegaRed_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "OmegaRed_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "OmegaRed_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "OmegaRed_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "온슬로트",
+		"cost": "6",
+		"power": "7",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 있는 내 다른 지속 카드의 효과가 두 배로 증가합니다.",
+		"eng": "Onslaught",
+		"urls": [
+			{
+				"url": "Onslaught.png",
+				"rare": "default"
+			},
+			{
+				"url": "Onslaught_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Onslaught_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Onslaught_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Onslaught_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Onslaught_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "패트리어트",
+		"cost": "3",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "지속: 능력이 없는 내 카드에 +2 파워를 부여합니다.",
+		"eng": "Patriot",
+		"urls": [
+			{
+				"url": "Patriot.png",
+				"rare": "default"
+			},
+			{
+				"url": "Patriot_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Patriot_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Patriot_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Patriot_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "폴라리스",
+		"cost": "3",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "출현: 비용 1(이)나 2의 상대 카드 한 장을 이 구역으로 가져옵니다.",
+		"eng": "Polaris",
+		"urls": [
+			{
+				"url": "Polaris.png",
+				"rare": "default"
+			},
+			{
+				"url": "Polaris_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Polaris_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Polaris_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Polaris_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Polaris_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "프로페서 X",
+		"cost": "5",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역을 봉쇄합니다. (카드의 추가, 제거 등이 불가능합니다.)",
+		"eng": "ProfessorX",
+		"urls": [
+			{
+				"url": "ProfessorX.png",
+				"rare": "default"
+			},
+			{
+				"url": "ProfessorX_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ProfessorX_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "ProfessorX_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ProfessorX_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "사일록",
+		"cost": "2",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 다음 턴에 +1 에너지를 획득합니다.",
+		"eng": "Psylocke",
+		"urls": [
+			{
+				"url": "Psylocke.png",
+				"rare": "default"
+			},
+			{
+				"url": "Psylocke_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Psylocke_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Psylocke_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Psylocke_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Psylocke_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "퍼니셔",
+		"cost": "3",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "지속: 이 구역에 배치된 상대 카드 한 장당 +1 파워를 부여합니다.",
+		"eng": "Punisher",
+		"urls": [
+			{
+				"url": "Punisher.png",
+				"rare": "default"
+			},
+			{
+				"url": "Punisher_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Punisher_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Punisher_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Punisher_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "퀘이크",
+		"cost": "2",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 이 카드가 중앙 구역에 있을 경우, 모든 구역의 위치를 바꿉니다.",
+		"eng": "Quake",
+		"urls": [
+			{
+				"url": "Quake.png",
+				"rare": "default"
+			},
+			{
+				"url": "Quake_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quake_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quake_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Quake_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "퀵실버",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "첫 턴에 손에 들어옵니다.",
+		"eng": "Quicksilver",
+		"urls": [
+			{
+				"url": "Quicksilver.png",
+				"rare": "default"
+			},
+			{
+				"url": "Quicksilver_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quicksilver_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quicksilver_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Quicksilver_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "퀸젯",
+		"cost": "1",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속: 시작 시 내 덱에 포함되어 있지 않던 카드의 비용이 1 감소합니다.",
+		"eng": "Quinjet",
+		"urls": [
+			{
+				"url": "Quinjet.png",
+				"rare": "default"
+			},
+			{
+				"url": "Quinjet_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quinjet_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Quinjet_3.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "레드 스컬",
+		"cost": "5",
+		"power": "15",
+		"pool": "3그룹",
+		"disc": "지속: 이 구역에 배치된 상대 카드가 +2 파워를 획득합니다.",
+		"eng": "RedSkull",
+		"urls": [
+			{
+				"url": "RedSkull.png",
+				"rare": "default"
+			},
+			{
+				"url": "RedSkull_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RedSkull_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RedSkull_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RedSkull_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RedSkull_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "레스큐",
+		"cost": "4",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 다음 턴에 이 구역에 카드를 낼 경우, +5 파워를 부여합니다.",
+		"eng": "Rescue",
+		"urls": [
+			{
+				"url": "Rescue.png",
+				"rare": "default"
+			},
+			{
+				"url": "Rescue_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rescue_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rescue_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Rescue_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "라이노",
+		"cost": "3",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "출현: 이 구역을 붕괴시킵니다. (능력 제거)",
+		"eng": "Rhino",
+		"urls": [
+			{
+				"url": "Rhino.png",
+				"rare": "default"
+			},
+			{
+				"url": "Rhino_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rhino_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rhino_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rhino_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rhino_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "로켓 라쿤",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 이번 턴에 상대가 이 구역에 카드를 한 장 낼 경우, +2 파워를 받습니다.",
+		"eng": "RocketRaccoon",
+		"urls": [
+			{
+				"url": "RocketRaccoon.png",
+				"rare": "default"
+			},
+			{
+				"url": "RocketRaccoon_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RocketRaccoon_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RocketRaccoon_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "RocketRaccoon_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "록슬라이드",
+		"cost": "4",
+		"power": "6",
+		"pool": "3그룹",
+		"disc": "출현: 상대의 덱에 록 2장을 섞어 넣습니다.",
+		"eng": "Rockslide",
+		"urls": [
+			{
+				"url": "Rockslide.png",
+				"rare": "default"
+			},
+			{
+				"url": "Rockslide_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rockslide_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Rockslide_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rockslide_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "로그",
+		"cost": "3",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역에 있는 상대 카드 중에서 지속 능력을 하나 무작위로 훔쳐 옵니다.",
+		"eng": "Rogue",
+		"urls": [
+			{
+				"url": "Rogue.png",
+				"rare": "default"
+			},
+			{
+				"url": "Rogue_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rogue_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rogue_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Rogue_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Rogue_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "집행관 로난",
+		"cost": "5",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "지속: 상대 손에 든 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "Ronan",
+		"urls": [
+			{
+				"url": "Ronan.png",
+				"rare": "default"
+			},
+			{
+				"url": "Ronan_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ronan_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ronan_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ronan_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ronan_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "세이버투스",
+		"cost": "3",
+		"power": "4",
+		"pool": "2그룹",
+		"disc": "이 카드는 파괴되면 내 손으로 돌아오며 비용이 0이 됩니다.",
+		"eng": "Sabretooth",
+		"urls": [
+			{
+				"url": "Sabretooth.png",
+				"rare": "default"
+			},
+			{
+				"url": "Sabretooth_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sabretooth_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sabretooth_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sabretooth_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sabretooth_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "샌드맨",
+		"cost": "4",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "지속: 양쪽 플레이어는 한 턴에 카드를 1장만 낼 수 있습니다.",
+		"eng": "Sandman",
+		"urls": [
+			{
+				"url": "Sandman.png",
+				"rare": "default"
+			},
+			{
+				"url": "Sandman_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sandman_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Sandman_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sandman_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스칼렛 위치",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역을 임의의 구역으로 대체합니다.",
+		"eng": "ScarletWitch",
+		"urls": [
+			{
+				"url": "ScarletWitch.png",
+				"rare": "default"
+			},
+			{
+				"url": "ScarletWitch_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ScarletWitch_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "ScarletWitch_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ScarletWitch_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ScarletWitch_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ScarletWitch_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스콜피온",
+		"cost": "2",
+		"power": "2",
+		"pool": "2그룹",
+		"disc": "출현: 상대가 들고 있는 카드에 -1 파워를 부여합니다.",
+		"eng": "Scorpion",
+		"urls": [
+			{
+				"url": "Scorpion.png",
+				"rare": "default"
+			},
+			{
+				"url": "Scorpion_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Scorpion_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Scorpion_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Scorpion_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "센티널",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "출현: 또 다른 센티널 한 장을 내 손에 추가합니다.",
+		"eng": "Sentinel",
+		"urls": [
+			{
+				"url": "Sentinel.png",
+				"rare": "default"
+			},
+			{
+				"url": "Sentinel_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sentinel_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sentinel_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sentinel_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "세라",
+		"cost": "5",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "지속: 내 손에 든 카드의 비용이 1 감소합니다. (최소 1)",
+		"eng": "Sera",
+		"urls": [
+			{
+				"url": "Sera.png",
+				"rare": "default"
+			},
+			{
+				"url": "Sera_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sera_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sera_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sera_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sera_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "샹치",
+		"cost": "4",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "출현: 이 구역에서 9 파워 이상의 상대 카드를 모두 파괴합니다.",
+		"eng": "ShangChi",
+		"urls": [
+			{
+				"url": "ShangChi.png",
+				"rare": "default"
+			},
+			{
+				"url": "ShangChi_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ShangChi_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "ShangChi_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ShangChi_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "ShangChi_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "쇼커",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "\"너를 날려 버리겠다!\"",
+		"eng": "Shocker",
+		"urls": [
+			{
+				"url": "Shocker.png",
+				"rare": "default"
+			},
+			{
+				"url": "Shocker_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Shocker_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Shocker_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Shocker_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스펙트럼",
+		"cost": "6",
+		"power": "5",
+		"pool": "1그룹",
+		"disc": "출현: 내 지속 카드에 +2 파워를 부여합니다.",
+		"eng": "Spectrum",
+		"urls": [
+			{
+				"url": "Spectrum.png",
+				"rare": "default"
+			},
+			{
+				"url": "Spectrum_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Spectrum_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Spectrum_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Spectrum_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Spectrum_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Spectrum_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스파이더맨",
+		"cost": "4",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 다음 턴에 상대는 이 구역에 카드를 낼 수 없습니다.",
+		"eng": "SpiderMan",
+		"urls": [
+			{
+				"url": "SpiderMan.png",
+				"rare": "default"
+			},
+			{
+				"url": "SpiderMan_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderMan_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "SpiderMan_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "SpiderMan_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderMan_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderMan_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스파이더우먼",
+		"cost": "5",
+		"power": "7",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에 배치된 상대 카드에 -1 파워를 부여합니다.",
+		"eng": "SpiderWoman",
+		"urls": [
+			{
+				"url": "SpiderWoman.png",
+				"rare": "default"
+			},
+			{
+				"url": "SpiderWoman_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderWoman_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderWoman_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "SpiderWoman_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "SpiderWoman_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SpiderWoman_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스쿼럴걸",
+		"cost": "1",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 모든 구역에 파워 1의 스쿼럴을(를) 추가합니다.",
+		"eng": "SquirrelGirl",
+		"urls": [
+			{
+				"url": "SquirrelGirl.png",
+				"rare": "default"
+			},
+			{
+				"url": "SquirrelGirl_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SquirrelGirl_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "SquirrelGirl_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SquirrelGirl_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스타로드",
+		"cost": "2",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 이번 턴에 상대가 이 구역에 카드를 한 장 낼 경우, +3 파워를 받습니다.",
+		"eng": "Starlord",
+		"urls": [
+			{
+				"url": "Starlord.png",
+				"rare": "default"
+			},
+			{
+				"url": "Starlord_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Starlord_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Starlord_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Starlord_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Starlord_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스톰",
+		"cost": "3",
+		"power": "2",
+		"pool": "2그룹",
+		"disc": "출현: 이 구역을 침수시킵니다. 다음 턴을 마지막으로 이 구역에는 더 이상 카드를 낼 수 없습니다.",
+		"eng": "Storm",
+		"urls": [
+			{
+				"url": "Storm.png",
+				"rare": "default"
+			},
+			{
+				"url": "Storm_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Storm_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Storm_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Storm_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Storm_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스트롱 가이",
+		"cost": "4",
+		"power": "4",
+		"pool": "1그룹",
+		"disc": "지속: 내 손에 카드가 없을 경우, +6 파워를 부여합니다.",
+		"eng": "StrongGuy",
+		"urls": [
+			{
+				"url": "StrongGuy.png",
+				"rare": "default"
+			},
+			{
+				"url": "StrongGuy_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "StrongGuy_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "StrongGuy_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "StrongGuy_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "선스팟",
+		"cost": "1",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "매 턴이 끝날 때마다, 미사용 에너지당 +1 파워를 획득합니다.",
+		"eng": "Sunspot",
+		"urls": [
+			{
+				"url": "Sunspot.png",
+				"rare": "default"
+			},
+			{
+				"url": "Sunspot_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sunspot_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sunspot_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sunspot_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Sunspot_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "스웜",
+		"cost": "2",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "이 카드를 손에서 버리면, 비용 0의 복제 카드 두 장이 내 손에 추가됩니다.",
+		"eng": "Swarm",
+		"urls": [
+			{
+				"url": "Swarm.png",
+				"rare": "default"
+			},
+			{
+				"url": "Swarm_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Swarm_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Swarm_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Swarm_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Swarm_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "소드마스터",
+		"cost": "3",
+		"power": "6",
+		"pool": "1그룹",
+		"disc": "출현: 내 손에서 카드 한 장을 버립니다.",
+		"eng": "SwordMaster",
+		"urls": [
+			{
+				"url": "SwordMaster.png",
+				"rare": "default"
+			},
+			{
+				"url": "SwordMaster_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SwordMaster_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SwordMaster_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SwordMaster_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "SwordMaster_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "태스크마스터",
+		"cost": "5",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "출현: 이 카드의 파워를 마지막으로 낸 카드의 파워와 동일하게 설정합니다.",
+		"eng": "Taskmaster",
+		"urls": [
+			{
+				"url": "Taskmaster.png",
+				"rare": "default"
+			},
+			{
+				"url": "Taskmaster_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Taskmaster_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Taskmaster_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Taskmaster_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "콜렉터",
+		"cost": "2",
+		"power": "1",
+		"pool": "2그룹",
+		"disc": "임의의 출처(내 덱은 제외)로부터 카드 한 장이 손에 들어올 때마다 +1 파워를 받습니다.",
+		"eng": "TheCollector",
+		"urls": [
+			{
+				"url": "TheCollector.png",
+				"rare": "default"
+			},
+			{
+				"url": "TheCollector_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheCollector_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "TheCollector_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheCollector_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheCollector_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheCollector_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "후드",
+		"cost": "1",
+		"power": "-2",
+		"pool": "3그룹",
+		"disc": "출현: 데몬 한 장을 내 손에 추가합니다.",
+		"eng": "TheHood",
+		"urls": [
+			{
+				"url": "TheHood.png",
+				"rare": "default"
+			},
+			{
+				"url": "TheHood_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheHood_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheHood_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheHood_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheHood_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "인피너트",
+		"cost": "6",
+		"power": "20",
+		"pool": "2그룹",
+		"disc": "지난 턴에 카드를 냈을 경우, 이 카드를 낼 수 없습니다.",
+		"eng": "TheInfinaut",
+		"urls": [
+			{
+				"url": "TheInfinaut.png",
+				"rare": "default"
+			},
+			{
+				"url": "TheInfinaut_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheInfinaut_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheInfinaut_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheInfinaut_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "씽",
+		"cost": "4",
+		"power": "6",
+		"pool": "1그룹",
+		"disc": "\"때려눕힐 시간이다!\"",
+		"eng": "TheThing",
+		"urls": [
+			{
+				"url": "TheThing.png",
+				"rare": "default"
+			},
+			{
+				"url": "TheThing_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheThing_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "TheThing_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "TheThing_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TheThing_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "토르",
+		"cost": "3",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현: 내 덱에 묠니르를 한 장 섞어 넣습니다.",
+		"eng": "Thor",
+		"urls": [
+			{
+				"url": "Thor.png",
+				"rare": "default"
+			},
+			{
+				"url": "Thor_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Thor_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Thor_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Thor_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "타이포이드 메리",
+		"cost": "4",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "지속: 내 다른 카드에 -1 파워를 부여합니다.",
+		"eng": "TyphoidMary",
+		"urls": [
+			{
+				"url": "TyphoidMary.png",
+				"rare": "default"
+			},
+			{
+				"url": "TyphoidMary_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TyphoidMary_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "TyphoidMary_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "TyphoidMary_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "주시자 우아투",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "이 카드가 손에 들어오면 공개되지 않은 구역을 볼 수 있습니다.",
+		"eng": "Uatu",
+		"urls": [
+			{
+				"url": "Uatu.png",
+				"rare": "default"
+			},
+			{
+				"url": "Uatu_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Uatu_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Uatu_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Uatu_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "울트론",
+		"cost": "6",
+		"power": "8",
+		"pool": "3그룹",
+		"disc": "출현: 1 파워의 드론을 카드를 놓은 구역을 제외한 내 구역의 모든 빈자리에 추가합니다.",
+		"eng": "Ultron",
+		"urls": [
+			{
+				"url": "Ultron.png",
+				"rare": "default"
+			},
+			{
+				"url": "Ultron_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ultron_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ultron_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Ultron_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ultron_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Ultron_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "베놈",
+		"cost": "3",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역의 내 다른 카드를 모두 파괴하고, 그 파워를 이 카드에 추가합니다.",
+		"eng": "Venom",
+		"urls": [
+			{
+				"url": "Venom.png",
+				"rare": "default"
+			},
+			{
+				"url": "Venom_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Venom_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Venom_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Venom_4.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Venom_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "바이퍼",
+		"cost": "2",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역에 있는 내 다른 카드 한 장이 무작위로 상대에게 넘어갑니다.",
+		"eng": "Viper",
+		"urls": [
+			{
+				"url": "Viper.png",
+				"rare": "default"
+			},
+			{
+				"url": "Viper_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Viper_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Viper_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Viper_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Viper_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "비전",
+		"cost": "5",
+		"power": "7",
+		"pool": "2그룹",
+		"disc": "이 카드는 턴마다 다른 구역으로 옮길 수 있습니다.",
+		"eng": "Vision",
+		"urls": [
+			{
+				"url": "Vision.png",
+				"rare": "default"
+			},
+			{
+				"url": "Vision_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vision_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vision_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vision_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vision_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vision_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "벌처",
+		"cost": "3",
+		"power": "3",
+		"pool": "2그룹",
+		"disc": "이 카드가 구역을 이동하면 +5 파워를 부여합니다.",
+		"eng": "Vulture",
+		"urls": [
+			{
+				"url": "Vulture.png",
+				"rare": "default"
+			},
+			{
+				"url": "Vulture_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vulture_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vulture_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Vulture_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Vulture_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "워패스",
+		"cost": "4",
+		"power": "5",
+		"pool": "2그룹",
+		"disc": "지속: 내 카드가 배치되지 않은 구역이 있을 경우, 이 카드에 +4 파워를 부여합니다.",
+		"eng": "Warpath",
+		"urls": [
+			{
+				"url": "Warpath.png",
+				"rare": "default"
+			},
+			{
+				"url": "Warpath_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Warpath_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Warpath_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Warpath_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "와스프",
+		"cost": "0",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "\"내 초능력은 문제를 해결하는 거야\"",
+		"eng": "Wasp",
+		"urls": [
+			{
+				"url": "Wasp.png",
+				"rare": "default"
+			},
+			{
+				"url": "Wasp_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wasp_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Wasp_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wasp_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wasp_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "웨이브",
+		"cost": "3",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 다음 턴에, 양쪽 플레이어가 들고 있는 카드의 비용이 4이(가) 됩니다.",
+		"eng": "Wave",
+		"urls": [
+			{
+				"url": "Wave.png",
+				"rare": "default"
+			},
+			{
+				"url": "Wave_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wave_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wave_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wave_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wave_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "화이트 퀸",
+		"cost": "4",
+		"power": "6",
+		"pool": "1그룹",
+		"disc": "출현: 상대의 손에서 비용이 가장 높은 카드의 복사본을 한 장 뽑습니다.",
+		"eng": "WhiteQueen",
+		"urls": [
+			{
+				"url": "WhiteQueen.png",
+				"rare": "default"
+			},
+			{
+				"url": "WhiteQueen_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "WhiteQueen_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "WhiteQueen_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "WhiteQueen_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "WhiteQueen_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "화이트 타이거",
+		"cost": "5",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 다른 구역에 파워 7의 호랑이를 추가합니다.",
+		"eng": "WhiteTiger",
+		"urls": [
+			{
+				"url": "WhiteTiger.png",
+				"rare": "default"
+			},
+			{
+				"url": "WhiteTiger_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "WhiteTiger_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "WhiteTiger_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "WhiteTiger_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "울프스베인",
+		"cost": "3",
+		"power": "1",
+		"pool": "1그룹",
+		"disc": "출현: 이 구역에 배치된 내 다른 카드 한 장당 +2 파워를 부여합니다.",
+		"eng": "Wolfsbane",
+		"urls": [
+			{
+				"url": "Wolfsbane.png",
+				"rare": "default"
+			},
+			{
+				"url": "Wolfsbane_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolfsbane_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Wolfsbane_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolfsbane_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolfsbane_5.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "울버린",
+		"cost": "2",
+		"power": "3",
+		"pool": "1그룹",
+		"disc": "이 카드는 버려지거나 파괴되었을 때 임의의 구역에 배치됩니다.",
+		"eng": "Wolverine",
+		"urls": [
+			{
+				"url": "Wolverine.png",
+				"rare": "default"
+			},
+			{
+				"url": "Wolverine_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolverine_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Wolverine_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolverine_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolverine_5.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wolverine_6.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "웡",
+		"cost": "4",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속: 이 구역에서 내 카드의 출현 능력이 두 번 발동합니다.",
+		"eng": "Wong",
+		"urls": [
+			{
+				"url": "Wong.png",
+				"rare": "default"
+			},
+			{
+				"url": "Wong_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wong_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Wong_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Wong_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "옐로재킷",
+		"cost": "0",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "출현: 이 구역에 배치된 내 다른 카드에 -1 파워를 부여합니다.",
+		"eng": "Yellowjacket",
+		"urls": [
+			{
+				"url": "Yellowjacket.png",
+				"rare": "default"
+			},
+			{
+				"url": "Yellowjacket_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Yellowjacket_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Yellowjacket_3.png",
+				"rare": "SuperRare"
+			}
+		]
+	},
+	{
+		"name": "욘두",
+		"cost": "1",
+		"power": "2",
+		"pool": "1그룹",
+		"disc": "출현: 상대의 덱에서 가장 위쪽에 있는 카드를 제거합니다.",
+		"eng": "Yondu",
+		"urls": [
+			{
+				"url": "Yondu.png",
+				"rare": "default"
+			},
+			{
+				"url": "Yondu_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Yondu_2.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Yondu_3.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Yondu_4.png",
+				"rare": "Rare"
+			}
+		]
+	},
+	{
+		"name": "제로",
+		"cost": "1",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현: 다음 번에 내는 카드의 능력을 제거합니다.",
+		"eng": "Zero",
+		"urls": [
+			{
+				"url": "Zero.png",
+				"rare": "default"
+			},
+			{
+				"url": "Zero_1.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Zero_2.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Zero_3.png",
+				"rare": "SuperRare"
+			},
+			{
+				"url": "Zero_4.png",
+				"rare": "Rare"
+			},
+			{
+				"url": "Zero_5.png",
+				"rare": "Rare"
+			}
+		]
+	}
+]

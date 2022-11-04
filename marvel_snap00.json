@@ -825,35 +825,35 @@
 		"power": "-2",
 		"pool": "3그룹",
 		"disc": "출현: 데몬 한 장을 내 손에 추가합니다.",
-		"eng": "TheHood",
+		"eng": "Hood",
 		"urls": [
 			{
-				"url": "TheHood.png",
+				"url": "Hood.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "TheHood_1.png",
+				"url": "Hood_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "TheHood_2.png",
+				"url": "Hood_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "TheHood_3.png",
+				"url": "Hood_3.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "TheHood_4.png",
+				"url": "Hood_4.png",
 				"rare": "Rare",
 				"category": "SD"
 			},
 			{
-				"url": "TheHood_5.png",
+				"url": "Hood_5.png",
 				"rare": "Rare",
 				"category": "Noir"
 			}
@@ -1120,35 +1120,35 @@
 		"power": "2",
 		"pool": "1그룹",
 		"disc": "출현: 동일한 파워를 가진 시니스터 클론 한 장을 이 구역에 추가합니다.",
-		"eng": "MisterSinister",
+		"eng": "MrSinister",
 		"urls": [
 			{
-				"url": "MisterSinister.png",
+				"url": "MrSinister.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "MisterSinister_1.png",
+				"url": "MrSinister_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "MisterSinister_2.png",
+				"url": "MrSinister_2.png",
 				"rare": "Rare",
 				"category": "Baby"
 			},
 			{
-				"url": "MisterSinister_3.png",
+				"url": "MrSinister_3.png",
 				"rare": "SuperRare",
 				"category": "None"
 			},
 			{
-				"url": "MisterSinister_4.png",
+				"url": "MrSinister_4.png",
 				"rare": "Rare",
 				"category": "Sinister London"
 			},
 			{
-				"url": "MisterSinister_5.png",
+				"url": "MrSinister_5.png",
 				"rare": "Rare",
 				"category": "Phoenix"
 			}
@@ -2715,25 +2715,25 @@
 		"power": "2",
 		"pool": "1그룹",
 		"disc": "지속: 인접한 구역이 +2 파워를 획득합니다.",
-		"eng": "MisterFantastic",
+		"eng": "MrFantastic",
 		"urls": [
 			{
-				"url": "MisterFantastic.png",
+				"url": "MrFantastic.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "MisterFantastic_1.png",
+				"url": "MrFantastic_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "MisterFantastic_2.png",
+				"url": "MrFantastic_2.png",
 				"rare": "SuperRare",
 				"category": "None"
 			},
 			{
-				"url": "MisterFantastic_3.png",
+				"url": "MrFantastic_3.png",
 				"rare": "SuperRare",
 				"category": "None"
 			}
@@ -4471,6 +4471,11 @@
 				"url": "ShangChi_5.png",
 				"rare": "Rare",
 				"category": "None"
+			},
+			{
+				"url": "ShangChi_6.png",
+				"rare": "Rare",
+				"category": "None"
 			}
 		]
 	},
@@ -4515,35 +4520,35 @@
 		"power": "-1",
 		"pool": "3그룹",
 		"disc": "출현: 내 덱에 있는 모든 카드의 파워와 비용을 맞바꿉니다.",
-		"eng": "MisterNegative",
+		"eng": "MrNegative",
 		"urls": [
 			{
-				"url": "MisterNegative.png",
+				"url": "MrNegative.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "MisterNegative_1.png",
+				"url": "MrNegative_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "MisterNegative_2.png",
+				"url": "MrNegative_2.png",
 				"rare": "Rare",
 				"category": "Demon Form"
 			},
 			{
-				"url": "MisterNegative_3.png",
+				"url": "MrNegative_3.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "MisterNegative_4.png",
+				"url": "MrNegative_4.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "MisterNegative_5.png",
+				"url": "MrNegative_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -6235,30 +6240,30 @@
 		"power": "20",
 		"pool": "2그룹",
 		"disc": "지난 턴에 카드를 냈을 경우, 이 카드를 낼 수 없습니다.",
-		"eng": "TheInfinaut",
+		"eng": "Infinaut",
 		"urls": [
 			{
-				"url": "TheInfinaut.png",
+				"url": "Infinaut.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "TheInfinaut_1.png",
+				"url": "Infinaut_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "TheInfinaut_2.png",
+				"url": "Infinaut_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "TheInfinaut_3.png",
+				"url": "Infinaut_3.png",
 				"rare": "SuperRare",
 				"category": "Steampunk"
 			},
 			{
-				"url": "TheInfinaut_4.png",
+				"url": "Infinaut_4.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -6345,35 +6350,35 @@
 		"power": "5",
 		"pool": "3그룹",
 		"disc": "출현: 모든 구역에 파워 5의 둠봇을(를) 추가합니다.",
-		"eng": "DoctorDoom",
+		"eng": "DrDoom",
 		"urls": [
 			{
-				"url": "DoctorDoom.png",
+				"url": "DrDoom.png",
 				"rare": "Default",
 				"category": "None"
 			},
 			{
-				"url": "DoctorDoom_1.png",
+				"url": "DrDoom_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "DoctorDoom_2.png",
+				"url": "DrDoom_2.png",
 				"rare": "SuperRare",
 				"category": "None"
 			},
 			{
-				"url": "DoctorDoom_3.png",
+				"url": "DrDoom_3.png",
 				"rare": "SuperRare",
 				"category": "None"
 			},
 			{
-				"url": "DoctorDoom_4.png",
+				"url": "DrDoom_4.png",
 				"rare": "Rare",
 				"category": "Baby"
 			},
 			{
-				"url": "DoctorDoom_5.png",
+				"url": "DrDoom_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}

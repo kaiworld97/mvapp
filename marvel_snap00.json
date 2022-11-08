@@ -1053,12 +1053,12 @@
 				"category": "SD"
 			},
 			{
-				"url": "Darkhawk_5.png",
+				"url": "Darkhawk_4.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "Darkhawk_6.png",
+				"url": "Darkhawk_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -1133,7 +1133,7 @@
 				"category": "Luchador"
 			},
 			{
-				"url": "Titania_5.png",
+				"url": "Titania_4.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -2168,7 +2168,7 @@
 				"category": "None"
 			},
 			{
-				"url": "LukeCage_5.png",
+				"url": "LukeCage_4.png",
 				"rare": "Rare Pool",
 				"category": "Sports"
 			}
@@ -2518,7 +2518,7 @@
 				"category": "SD"
 			},
 			{
-				"url": "MariaHill_5.png",
+				"url": "MariaHill_4.png",
 				"rare": "Rare Pool",
 				"category": "Noir"
 			}
@@ -4764,11 +4764,6 @@
 			},
 			{
 				"url": "ShangChi_5.png",
-				"rare": "Rare",
-				"category": "None"
-			},
-			{
-				"url": "ShangChi_6.png",
 				"rare": "Rare",
 				"category": "None"
 			}

@@ -913,12 +913,12 @@
 				"category": "None"
 			},
 			{
-				"url": "Bast_2.png",
+				"url": "Bast_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Bast_3.png",
+				"url": "Bast_2.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -938,17 +938,17 @@
 				"category": "None"
 			},
 			{
-				"url": "MBaku_2.png",
+				"url": "MBaku_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "MBaku_3.png",
+				"url": "MBaku_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "MBaku_4.png",
+				"url": "MBaku_3.png",
 				"rare": "Rare",
 				"category": "Luchador"
 			}
@@ -1038,17 +1038,17 @@
 				"category": "None"
 			},
 			{
-				"url": "Darkhawk_2.png",
+				"url": "Darkhawk_1.png",
 				"rare": "Rare",
 				"category": "Pixel Variant Darkhawk"
 			},
 			{
-				"url": "Darkhawk_3.png",
+				"url": "Darkhawk_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "Darkhawk_4.png",
+				"url": "Darkhawk_3.png",
 				"rare": "Rare",
 				"category": "SD"
 			},
@@ -1118,17 +1118,17 @@
 				"category": "None"
 			},
 			{
-				"url": "Titania_2.png",
+				"url": "Titania_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Titania_3.png",
+				"url": "Titania_2.png",
 				"rare": " Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "Titania_4.png",
+				"url": "Titania_3.png",
 				"rare": "Rare Pool",
 				"category": "Luchador"
 			},
@@ -2153,17 +2153,17 @@
 				"category": "None"
 			},
 			{
-				"url": "LukeCage_2.png",
+				"url": "LukeCage_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "LukeCage_3.png",
+				"url": "LukeCage_2.png",
 				"rare": "Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "LukeCage_4.png",
+				"url": "LukeCage_3.png",
 				"rare": "Rare Pool",
 				"category": "None"
 			},
@@ -2503,17 +2503,17 @@
 				"category": "None"
 			},
 			{
-				"url": "MariaHill_2.png",
+				"url": "MariaHill_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "MariaHill_3.png",
+				"url": "MariaHill_2.png",
 				"rare": "Super Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "MariaHill_4.png",
+				"url": "MariaHill_3.png",
 				"rare": "Rare Pool",
 				"category": "SD"
 			},
@@ -3683,22 +3683,22 @@
 				"category": "None"
 			},
 			{
-				"url": "SilverSurfer_2.png",
+				"url": "SilverSurfer_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "SilverSurfer_3.png",
+				"url": "SilverSurfer_2.png",
 				"rare": "Rare",
 				"category": "Baby"
 			},
 			{
-				"url": "SilverSurfer_4.png",
+				"url": "SilverSurfer_3.png",
 				"rare": "Unknown ",
 				"category": "None"
 			},
 			{
-				"url": "SilverSurfer_5.png",
+				"url": "SilverSurfer_4.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -4118,12 +4118,12 @@
 				"category": "None"
 			},
 			{
-				"url": "Shanna_2.png",
+				"url": "Shanna_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Shanna_3.png",
+				"url": "Shanna_2.png",
 				"rare": "Rare",
 				"category": "Savage Land"
 			}
@@ -4143,22 +4143,22 @@
 				"category": "None"
 			},
 			{
-				"url": "AgentCoulson_2.png",
+				"url": "AgentCoulson_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "AgentCoulson_3.png",
+				"url": "AgentCoulson_2.png",
 				"rare": "Rare Pool",
 				"category": "War on Midgard"
 			},
 			{
-				"url": "AgentCoulson_4.png",
+				"url": "AgentCoulson_3.png",
 				"rare": "Rare Pool",
 				"category": "SD"
 			},
 			{
-				"url": "AgentCoulson_5.png",
+				"url": "AgentCoulson_4.png",
 				"rare": "Rare Pool",
 				"category": "Noir"
 			}
@@ -4903,19 +4903,24 @@
 				"category": "None"
 			},
 			{
-				"url": "Shuri_2.png",
+				"url": "Shuri_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Shuri_3.png",
+				"url": "Shuri_2.png",
 				"rare": "Rare",
 				"category": "Savage Land"
 			},
 			{
-				"url": "Shuri_4.png",
+				"url": "Shuri_3.png",
 				"rare": "Rare",
 				"category": "Baby"
+			},
+			{
+				"url": "Shuri_4.png",
+				"rare": "Rare",
+				"category": "None"
 			},
 			{
 				"url": "Shuri_5.png",
@@ -4924,11 +4929,6 @@
 			},
 			{
 				"url": "Shuri_6.png",
-				"rare": "Rare",
-				"category": "None"
-			},
-			{
-				"url": "Shuri_7.png",
 				"rare": "Rare",
 				"category": "Black Panther"
 			}
@@ -4948,27 +4948,27 @@
 				"category": "None"
 			},
 			{
-				"url": "SuperSkrull_2.png",
+				"url": "SuperSkrull_1.png",
 				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
-				"url": "SuperSkrull_3.png",
+				"url": "SuperSkrull_2.png",
 				"rare": "Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "SuperSkrull_4.png",
+				"url": "SuperSkrull_3.png",
 				"rare": "Rare Pool",
 				"category": "SD"
 			},
 			{
-				"url": "SuperSkrull_5.png",
+				"url": "SuperSkrull_4.png",
 				"rare": "Super Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "SuperSkrull_6.png",
+				"url": "SuperSkrull_5.png",
 				"rare": "Super Rare Pool",
 				"category": "3099"
 			}
@@ -5113,27 +5113,27 @@
 				"category": "None"
 			},
 			{
-				"url": "AbsorbingMan_2.png",
+				"url": "AbsorbingMan_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "AbsorbingMan_3.png",
+				"url": "AbsorbingMan_2.png",
 				"rare": "Super Rare Pool",
 				"category": "Fear Itself"
 			},
 			{
-				"url": "AbsorbingMan_4.png",
+				"url": "AbsorbingMan_3.png",
 				"rare": "Rare Pool",
 				"category": "Sports"
 			},
 			{
-				"url": "AbsorbingMan_5.png",
+				"url": "AbsorbingMan_4.png",
 				"rare": "Rare Pool",
 				"category": "SD"
 			},
 			{
-				"url": "AbsorbingMan_6.png",
+				"url": "AbsorbingMan_5.png",
 				"rare": "Rare",
 				"category": "Noir"
 			}
@@ -5153,12 +5153,12 @@
 				"category": "None"
 			},
 			{
-				"url": "Dazzler_2.png",
+				"url": "Dazzler_1.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "Dazzler_3.png",
+				"url": "Dazzler_2.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -5468,22 +5468,22 @@
 				"category": "None"
 			},
 			{
-				"url": "Sentry_2.png",
+				"url": "Sentry_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Sentry_3.png",
+				"url": "Sentry_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "Sentry_4.png",
+				"url": "Sentry_3.png",
 				"rare": "Rare",
 				"category": "Luchador"
 			},
 			{
-				"url": "Sentry_5.png",
+				"url": "Sentry_4.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -5503,17 +5503,17 @@
 				"category": "None"
 			},
 			{
-				"url": "Attuma_2.png",
+				"url": "Attuma_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Attuma_3.png",
+				"url": "Attuma_2.png",
 				"rare": "Rare",
 				"category": "None"
 			},
 			{
-				"url": "Attuma_4.png",
+				"url": "Attuma_3.png",
 				"rare": "Rare",
 				"category": "Wakanda Forever"
 			}
@@ -6043,27 +6043,27 @@
 				"category": "None"
 			},
 			{
-				"url": "Kang_2.png",
+				"url": "Kang_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Kang_3.png",
+				"url": "Kang_2.png",
 				"rare": "Rare",
 				"category": "Savage Land"
 			},
 			{
-				"url": "Kang_4.png",
+				"url": "Kang_3.png",
 				"rare": "Rare",
 				"category": "Band"
 			},
 			{
-				"url": "Kang_5.png",
+				"url": "Kang_4.png",
 				"rare": "Rare",
 				"category": "Baby"
 			},
 			{
-				"url": "Kang_6.png",
+				"url": "Kang_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -6158,27 +6158,27 @@
 				"category": "None"
 			},
 			{
-				"url": "Valkyrie_2.png",
+				"url": "Valkyrie_1.png",
 				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
-				"url": "Valkyrie_3.png",
+				"url": "Valkyrie_2.png",
 				"rare": "Super Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "Valkyrie_4.png",
+				"url": "Valkyrie_3.png",
 				"rare": "Rare Pool",
 				"category": "Baby"
 			},
 			{
-				"url": "Valkyrie_5.png",
+				"url": "Valkyrie_4.png",
 				"rare": "Rare",
 				"category": "SD"
 			},
 			{
-				"url": "Valkyrie_6.png",
+				"url": "Valkyrie_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -6238,14 +6238,19 @@
 				"category": "None"
 			},
 			{
-				"url": "BlackPanther_2.png",
+				"url": "BlackPanther_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "BlackPanther_3.png",
+				"url": "BlackPanther_2.png",
 				"rare": "Rare",
 				"category": "Baby"
+			},
+			{
+				"url": "BlackPanther_3.png",
+				"rare": "Rare",
+				"category": "None"
 			},
 			{
 				"url": "BlackPanther_4.png",
@@ -6259,11 +6264,6 @@
 			},
 			{
 				"url": "BlackPanther_6.png",
-				"rare": "Rare",
-				"category": "None"
-			},
-			{
-				"url": "BlackPanther_7.png",
 				"rare": "Rare",
 				"category": "Ancestors"
 			}
@@ -6403,17 +6403,17 @@
 				"category": "None"
 			},
 			{
-				"url": "Zabu_2.png",
+				"url": "Zabu_1.png",
 				"rare": "Rare",
 				"category": "Savage Land"
 			},
 			{
-				"url": "Zabu_3.png",
+				"url": "Zabu_2.png",
 				"rare": "Rare",
 				"category": "3099"
 			},
 			{
-				"url": "Zabu_4.png",
+				"url": "Zabu_3.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -7038,22 +7038,22 @@
 				"category": "None"
 			},
 			{
-				"url": "LivingTribunal_2.png",
+				"url": "LivingTribunal_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "LivingTribunal_3.png",
+				"url": "LivingTribunal_2.png",
 				"rare": "Super Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "LivingTribunal_4.png",
+				"url": "LivingTribunal_3.png",
 				"rare": "Rare Pool",
 				"category": "SD"
 			},
 			{
-				"url": "LivingTribunal_5.png",
+				"url": "LivingTribunal_4.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -7188,22 +7188,22 @@
 				"category": "None"
 			},
 			{
-				"url": "SheHulk_2.png",
+				"url": "SheHulk_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "SheHulk_3.png",
+				"url": "SheHulk_2.png",
 				"rare": "Rare",
 				"category": "Savage Land"
 			},
 			{
-				"url": "SheHulk_4.png",
+				"url": "SheHulk_3.png",
 				"rare": "Super Rare Pool",
 				"category": "None"
 			},
 			{
-				"url": "SheHulk_5.png",
+				"url": "SheHulk_4.png",
 				"rare": "Rare",
 				"category": "Baby"
 			}
@@ -7223,12 +7223,12 @@
 				"category": "None"
 			},
 			{
-				"url": "Helicarrier_2.png",
+				"url": "Helicarrier_1.png",
 				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Helicarrier_3.png",
+				"url": "Helicarrier_2.png",
 				"rare": "Super Rare Pool",
 				"category": "3099"
 			}

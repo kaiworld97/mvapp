@@ -900,6 +900,61 @@
 		]
 	},
 	{
+		"name": "바스트",
+		"cost": "1",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "출현: 손에 들고 있는 모든 카드의 파워를 3으로 변경합니다.",
+		"eng": "Bast",
+		"urls": [
+			{
+				"url": "Bast.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Bast_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Bast_3.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "음바쿠",
+		"cost": "1",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "마지막 턴 후에, 내 덱에 이 카드가 있으면, 무작위 구역으로 점프합니다.",
+		"eng": "MBaku",
+		"urls": [
+			{
+				"url": "MBaku.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "MBaku_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "MBaku_3.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "MBaku_4.png",
+				"rare": "Rare",
+				"category": "Luchador"
+			}
+		]
+	},
+	{
 		"name": "퀸젯",
 		"cost": "1",
 		"power": "2",
@@ -970,6 +1025,46 @@
 		]
 	},
 	{
+		"name": "다크호크",
+		"cost": "1",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "내 카드가 이미 있는 구역에서만 이 카드를 낼 수 있습니다.",
+		"eng": "Darkhawk",
+		"urls": [
+			{
+				"url": "Darkhawk.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Darkhawk_2.png",
+				"rare": "Rare",
+				"category": "Pixel Variant Darkhawk"
+			},
+			{
+				"url": "Darkhawk_3.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Darkhawk_4.png",
+				"rare": "Rare",
+				"category": "SD"
+			},
+			{
+				"url": "Darkhawk_5.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Darkhawk_6.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
 		"name": "제로",
 		"cost": "1",
 		"power": "3",
@@ -1004,6 +1099,41 @@
 			},
 			{
 				"url": "Zero_5.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "티타니아",
+		"cost": "1",
+		"power": "5",
+		"pool": "3그룹",
+		"disc": "어떤 카드든 이 구역에 카드를 냈을 때, 이 카드는 다른 편으로 이동합니다.",
+		"eng": "Titania",
+		"urls": [
+			{
+				"url": "Titania.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Titania_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Titania_3.png",
+				"rare": " Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "Titania_4.png",
+				"rare": "Rare Pool",
+				"category": "Luchador"
+			},
+			{
+				"url": "Titania_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -2010,6 +2140,41 @@
 		]
 	},
 	{
+		"name": "루크 케이지",
+		"cost": "2",
+		"power": "1",
+		"pool": "3그룹",
+		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
+		"eng": "LukeCage",
+		"urls": [
+			{
+				"url": "LukeCage.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "LukeCage_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "LukeCage_3.png",
+				"rare": "Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "LukeCage_4.png",
+				"rare": "Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "LukeCage_5.png",
+				"rare": "Rare Pool",
+				"category": "Sports"
+			}
+		]
+	},
+	{
 		"name": "블랙 위도우",
 		"cost": "2",
 		"power": "1",
@@ -2321,6 +2486,41 @@
 				"url": "InvisibleWoman_5.png",
 				"rare": "Rare",
 				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "마리아 힐",
+		"cost": "2",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현 : 비용이 1인 무작위 카드를 내 손에 추가합니다.",
+		"eng": "MariaHill",
+		"urls": [
+			{
+				"url": "MariaHill.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "MariaHill_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "MariaHill_3.png",
+				"rare": "Super Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "MariaHill_4.png",
+				"rare": "Rare Pool",
+				"category": "SD"
+			},
+			{
+				"url": "MariaHill_5.png",
+				"rare": "Rare Pool",
+				"category": "Noir"
 			}
 		]
 	},
@@ -3470,6 +3670,41 @@
 		]
 	},
 	{
+		"name": "실버 서퍼",
+		"cost": "3",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "출현 : 비용이 6인 모든 카드의 파워를 2배로 만듭니다. (어디에 있든)",
+		"eng": "SilverSurfer",
+		"urls": [
+			{
+				"url": "SilverSurfer.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "SilverSurfer_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "SilverSurfer_3.png",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "SilverSurfer_4.png",
+				"rare": "Unknown ",
+				"category": "None"
+			},
+			{
+				"url": "SilverSurfer_5.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
 		"name": "갬빗",
 		"cost": "3",
 		"power": "1",
@@ -3866,6 +4101,66 @@
 				"url": "Juggernaut_4.png",
 				"rare": "Rare",
 				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "샤나",
+		"cost": "3",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "이 카드를 손에서 버리면, 무작위 구역으로 이동합니다.",
+		"eng": "Shanna",
+		"urls": [
+			{
+				"url": "Shanna.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Shanna_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Shanna_3.png",
+				"rare": "Rare",
+				"category": "Savage Land"
+			}
+		]
+	},
+	{
+		"name": "에이전트 콜슨",
+		"cost": "3",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현 : 비용이 4인 카드 1장과 비용이 5인 카드 1장을 내 손에 추가합니다.",
+		"eng": "AgentCoulson",
+		"urls": [
+			{
+				"url": "AgentCoulson.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "AgentCoulson_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "AgentCoulson_3.png",
+				"rare": "Rare Pool",
+				"category": "War on Midgard"
+			},
+			{
+				"url": "AgentCoulson_4.png",
+				"rare": "Rare Pool",
+				"category": "SD"
+			},
+			{
+				"url": "AgentCoulson_5.png",
+				"rare": "Rare Pool",
+				"category": "Noir"
 			}
 		]
 	},
@@ -4471,6 +4766,11 @@
 				"url": "ShangChi_5.png",
 				"rare": "Rare",
 				"category": "None"
+			},
+			{
+				"url": "ShangChi_6.png",
+				"rare": "Rare",
+				"category": "None"
 			}
 		]
 	},
@@ -4586,6 +4886,91 @@
 				"url": "Dracula_5.png",
 				"rare": "Rare",
 				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"name": "슈리",
+		"cost": "4",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "출현 : 내가 내는 다음 카드의 파워가 2배가 됩니다.",
+		"eng": "Shuri",
+		"urls": [
+			{
+				"url": "Shuri.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Shuri_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Shuri_3.png",
+				"rare": "Rare",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Shuri_4.png",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "Shuri_5.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Shuri_6.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Shuri_7.png",
+				"rare": "Rare",
+				"category": "Black Panther"
+			}
+		]
+	},
+	{
+		"name": "슈퍼 스컬",
+		"cost": "4",
+		"power": "2",
+		"pool": "3그룹",
+		"disc": "지속 : 모든 적 카드의 지속 효과를 가집니다.",
+		"eng": "SuperSkrull",
+		"urls": [
+			{
+				"url": "SuperSkrull.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "SuperSkrull_2.png",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "SuperSkrull_3.png",
+				"rare": "Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "SuperSkrull_4.png",
+				"rare": "Rare Pool",
+				"category": "SD"
+			},
+			{
+				"url": "SuperSkrull_5.png",
+				"rare": "Super Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "SuperSkrull_6.png",
+				"rare": "Super Rare Pool",
+				"category": "3099"
 			}
 		]
 	},
@@ -4711,6 +5096,71 @@
 				"url": "SpiderMan_6.png",
 				"rare": "Rare",
 				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"name": "업소빙맨",
+		"cost": "4",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현 : 내가 낸 마지막 카드가 출현 능력을 가졌다면, 그 카드의 능력을 복사합니다.",
+		"eng": "AbsorbingMan",
+		"urls": [
+			{
+				"url": "AbsorbingMan.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "AbsorbingMan_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "AbsorbingMan_3.png",
+				"rare": "Super Rare Pool",
+				"category": "Fear Itself"
+			},
+			{
+				"url": "AbsorbingMan_4.png",
+				"rare": "Rare Pool",
+				"category": "Sports"
+			},
+			{
+				"url": "AbsorbingMan_5.png",
+				"rare": "Rare Pool",
+				"category": "SD"
+			},
+			{
+				"url": "AbsorbingMan_6.png",
+				"rare": "Rare",
+				"category": "Noir"
+			}
+		]
+	},
+	{
+		"name": "대즐러",
+		"cost": "4",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "지속 : 각각의 구역마다 내 카드가 4장 있으면 +8 파워를 얻습니다.",
+		"eng": "Dazzler",
+		"urls": [
+			{
+				"url": "Dazzler.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Dazzler_2.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Dazzler_3.png",
+				"rare": "Rare",
+				"category": "None"
 			}
 		]
 	},
@@ -5001,6 +5451,71 @@
 				"url": "Crossbones_5.png",
 				"rare": "Rare",
 				"category": "Noir"
+			}
+		]
+	},
+	{
+		"name": "센트리",
+		"cost": "4",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "출현 : 7 파워의 보이드를 상대 구역에 추가합니다.",
+		"eng": "Sentry",
+		"urls": [
+			{
+				"url": "Sentry.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Sentry_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Sentry_3.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Sentry_4.png",
+				"rare": "Rare",
+				"category": "Luchador"
+			},
+			{
+				"url": "Sentry_5.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "아투마",
+		"cost": "4",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "턴이 끝날 때, 이 구역에 다른 카드가 있으면 이 카드를 파괴합니다.",
+		"eng": "Attuma",
+		"urls": [
+			{
+				"url": "Attuma.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Attuma_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Attuma_3.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "Attuma_4.png",
+				"rare": "Rare",
+				"category": "Wakanda Forever"
 			}
 		]
 	},
@@ -5515,6 +6030,46 @@
 		]
 	},
 	{
+		"name": "정복자 캉",
+		"cost": "5",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "출현 : 상대의 행동을 확인하고, 턴을 재시작합니다. (캉을 제외하고)",
+		"eng": "Kang",
+		"urls": [
+			{
+				"url": "Kang.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Kang_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Kang_3.png",
+				"rare": "Rare",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Kang_4.png",
+				"rare": "Rare",
+				"category": "Band"
+			},
+			{
+				"url": "Kang_5.png",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "Kang_6.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
 		"name": "태스크마스터",
 		"cost": "5",
 		"power": "0",
@@ -5590,6 +6145,46 @@
 		]
 	},
 	{
+		"name": "발키리",
+		"cost": "5",
+		"power": "3",
+		"pool": "3그룹",
+		"disc": "출현 : 이 구역에 있는 모든 카드의 파워를 3으로 만듭니다.",
+		"eng": "Valkyrie",
+		"urls": [
+			{
+				"url": "Valkyrie.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Valkyrie_2.png",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "Valkyrie_3.png",
+				"rare": "Super Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "Valkyrie_4.png",
+				"rare": "Rare Pool",
+				"category": "Baby"
+			},
+			{
+				"url": "Valkyrie_5.png",
+				"rare": "Rare",
+				"category": "SD"
+			},
+			{
+				"url": "Valkyrie_6.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
 		"name": "집행관 로난",
 		"cost": "5",
 		"power": "3",
@@ -5626,6 +6221,51 @@
 				"url": "Ronan_5.png",
 				"rare": "Rare",
 				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "블랙 팬서",
+		"cost": "5",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "출현 : 이 카드의 파워가 2배가 됩니다.",
+		"eng": "BlackPanther",
+		"urls": [
+			{
+				"url": "BlackPanther.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "BlackPanther_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "BlackPanther_3.png",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "BlackPanther_4.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "BlackPanther_5.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "BlackPanther_6.png",
+				"rare": "Rare",
+				"category": "None"
+			},
+			{
+				"url": "BlackPanther_7.png",
+				"rare": "Rare",
+				"category": "Ancestors"
 			}
 		]
 	},
@@ -5746,6 +6386,36 @@
 				"url": "NickFury_5.png",
 				"rare": "Rare",
 				"category": "Noir"
+			}
+		]
+	},
+	{
+		"name": "자부",
+		"cost": "5",
+		"power": "7",
+		"pool": "3그룹",
+		"disc": "내 손에 있는 카드를 버렸을 때, 그 카드를 다시 가져오고 이 카드를 대신 버립니다.",
+		"eng": "Zabu",
+		"urls": [
+			{
+				"url": "Zabu.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Zabu_2.png",
+				"rare": "Rare",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Zabu_3.png",
+				"rare": "Rare",
+				"category": "3099"
+			},
+			{
+				"url": "Zabu_4.png",
+				"rare": "Rare",
+				"category": "None"
 			}
 		]
 	},
@@ -6265,6 +6935,21 @@
 		]
 	},
 	{
+		"name": "널",
+		"cost": "6",
+		"power": "0",
+		"pool": "3그룹",
+		"disc": "이번 게임에서 파괴된 모든 카드의 힘을 가집니다.",
+		"eng": "Knull",
+		"urls": [
+			{
+				"url": "Knull.png",
+				"rare": "Default",
+				"category": "None"
+			}
+		]
+	},
+	{
 		"name": "아르님 졸라",
 		"cost": "6",
 		"power": "0",
@@ -6334,6 +7019,41 @@
 			},
 			{
 				"url": "Leader_5.png",
+				"rare": "Rare",
+				"category": "None"
+			}
+		]
+	},
+	{
+		"name": "리빙 트리뷰널",
+		"cost": "6",
+		"power": "4",
+		"pool": "3그룹",
+		"disc": "게임이 끝날 때, 내 전체 파워를 모든 구역에 균등하게 분배합니다.",
+		"eng": "LivingTribunal",
+		"urls": [
+			{
+				"url": "LivingTribunal.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "LivingTribunal_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "LivingTribunal_3.png",
+				"rare": "Super Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "LivingTribunal_4.png",
+				"rare": "Rare Pool",
+				"category": "SD"
+			},
+			{
+				"url": "LivingTribunal_5.png",
 				"rare": "Rare",
 				"category": "None"
 			}
@@ -6451,6 +7171,66 @@
 				"url": "Ultron_6.png",
 				"rare": "Rare",
 				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"name": "쉬헐크",
+		"cost": "6",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "지속 : 상대가 이 구역에 이 카드보다 더 높은 비용의 카드를 낸다면, +3 파워를 얻습니다.",
+		"eng": "SheHulk",
+		"urls": [
+			{
+				"url": "SheHulk.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "SheHulk_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "SheHulk_3.png",
+				"rare": "Rare",
+				"category": "Savage Land"
+			},
+			{
+				"url": "SheHulk_4.png",
+				"rare": "Super Rare Pool",
+				"category": "None"
+			},
+			{
+				"url": "SheHulk_5.png",
+				"rare": "Rare",
+				"category": "Baby"
+			}
+		]
+	},
+	{
+		"name": "헬리캐리어",
+		"cost": "6",
+		"power": "10",
+		"pool": "3그룹",
+		"disc": "이 카드를 손에서 버릴 때, 무작위 카드 3장을 내 손에 추가합니다.",
+		"eng": "Helicarrier",
+		"urls": [
+			{
+				"url": "Helicarrier.png",
+				"rare": "Default",
+				"category": "None"
+			},
+			{
+				"url": "Helicarrier_2.png",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Helicarrier_3.png",
+				"rare": "Super Rare Pool",
+				"category": "3099"
 			}
 		]
 	},

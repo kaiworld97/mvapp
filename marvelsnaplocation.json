@@ -1,0 +1,602 @@
+[
+	{
+		"title": "워리어 폴스",
+		"eng": "Warrior Falls",
+		"disc": "턴이 종료될 때마다 이곳의 카드가 전투를 벌입니다! 가장 약한 카드를 파괴합니다.",
+		"url": "WarriorFalls.webp"
+	},
+	{
+		"title": "슈리의 연구실",
+		"eng": "Shuri's Lab",
+		"disc": "이 구역에 카드를 내면 파워가 두 배로 증가합니다.",
+		"url": "ShurisLab.webp"
+	},
+	{
+		"title": "왕좌의 방",
+		"eng": "Throne Room",
+		"disc": "여기에서 가장 높은 파워를 가진 카드는 원래 파워의 두 배가 됩니다.",
+		"url": "WakandanThroneRoom.webp"
+	},
+	{
+		"title": "비브라늄 광산",
+		"eng": "Vibranium Mines",
+		"disc": "이 구역에 카드를 내면, 덱에 비브라늄을 3장 섞어 넣습니다.",
+		"url": "VibraniumMines.webp"
+	},
+	{
+		"title": "TVA",
+		"eng": "TVA",
+		"disc": "4번째 턴이 끝날 때 게임을 끝냅니다.",
+		"url": "Tva.webp"
+	},
+	{
+		"title": "감마 실험실",
+		"eng": "Gamma Lab",
+		"disc": "3번째 턴이 끝나면 이 구역의 모든 카드를 헐크로 바꿉니다.",
+		"url": "GammaLab.webp"
+	},
+	{
+		"title": "그랜드 센트럴 역",
+		"eng": "Grand Central",
+		"disc": "5번째 턴이 끝나면 각 플레이어의 손에 있는 카드 한 장을 이 구역에 냅니다.",
+		"url": "GrandCentral.webp"
+	},
+	{
+		"title": "금고",
+		"eng": "The Vault",
+		"disc": "6번째 턴에는 이 구역에 카드를 낼 수 없습니다.",
+		"url": "Vault.webp"
+	},
+	{
+		"title": "네거티브 존",
+		"eng": "Negative Zone",
+		"disc": "이 구역에 있는 모든 카드에 -3 파워를 부여합니다.",
+		"url": "NegativeZone.webp"
+	},
+	{
+		"title": "네크로샤",
+		"eng": "Necrosha",
+		"disc": "이 구역에 있는 모든 카드에 -2 파워를 부여합니다.",
+		"url": "Necrosha.webp"
+	},
+	{
+		"title": "넥서스",
+		"eng": "The Nexus",
+		"disc": "이 구역의 파워가 다른 구역에도 부여됩니다.",
+		"url": "TheNexus.webp"
+	},
+	{
+		"title": "노웨어",
+		"eng": "Knowhere",
+		"disc": "이 구역에서는 출현 효과가 발생하지 않습니다.",
+		"url": "Knowhere.webp"
+	},
+	{
+		"title": "뉴욕",
+		"eng": "New York",
+		"disc": "6째 턴에 이 구역으로 카드를 옮길 수 있습니다.",
+		"url": "NewYork.webp"
+	},
+	{
+		"title": "니다벨리르",
+		"eng": "Nidavellir",
+		"disc": "이 구역에 있는 모든 카드에 +5 파워를 부여합니다.",
+		"url": "Nidavellir.webp"
+	},
+	{
+		"title": "다크 디멘션",
+		"eng": "Dark Dimension",
+		"disc": "이 구역에 있는 카드는 게임이 끝날 때까지 공개되지 않습니다.",
+		"url": "DarkDimension.webp"
+	},
+	{
+		"title": "데스의 영역",
+		"eng": "Death's Domain",
+		"disc": "이 구역에 카드를 내면 해당 카드를 파괴합니다.",
+		"url": "DeathsDomain.webp"
+	},
+	{
+		"title": "데인저 룸",
+		"eng": "Danger Room",
+		"disc": "이 구역에 낸 카드는 25% 확률로 파괴됩니다.",
+		"url": "DangerRoom.webp"
+	},
+	{
+		"title": "드림 디멘션",
+		"eng": "Dream Dimension",
+		"disc": "5번째 턴에 카드 비용이 1 증가합니다.",
+		"url": "DreamDimension.webp"
+	},
+	{
+		"title": "디스트릭트 X",
+		"eng": "District X",
+		"disc": "각 플레이어의 덱에서 카드 10장을 무작위로 교체합니다.",
+		"url": "DistrictX.webp"
+	},
+	{
+		"title": "래프트",
+		"eng": "The Raft",
+		"disc": "이 구역을 먼저 채우는 플레이어는 비용이 6인 카드를 한 장 뽑습니다. 그 카드의 비용은 0입니다.",
+		"url": "Raft.webp"
+	},
+	{
+		"title": "레무리아",
+		"eng": "Lemuria",
+		"disc": "이 턴에는 카드가 공개되지 않습니다.",
+		"url": "Lemuria.webp"
+	},
+	{
+		"title": "레추길라",
+		"eng": "Lechuguilla",
+		"disc": "이 구역에 카드를 내면, 덱에 바위를 3장 섞어 넣습니다.",
+		"url": "Lechuguilla.webp"
+	},
+	{
+		"title": "로스 디아블로스 기지",
+		"eng": "Los Diablos Base",
+		"disc": "3번째 턴이 끝난 뒤 무작위 구역을 파괴시킵니다.",
+		"url": "LosDiablos.webp"
+	},
+	{
+		"title": "루크의 술집",
+		"eng": "Luke's Bar",
+		"disc": "이 구역에 카드를 내면 손으로 되돌아갑니다.",
+		"url": "LukesBar.webp"
+	},
+	{
+		"title": "림보",
+		"eng": "Limbo",
+		"disc": "이 게임에는 7번째 턴이 있습니다.",
+		"url": "Limbo.webp"
+	},
+	{
+		"title": "마인드스케이프",
+		"eng": "Mindscape",
+		"disc": "6번째 턴 시작 시 서로 손에 든 카드를 바꿉니다.",
+		"url": "Mindscape.webp"
+	},
+	{
+		"title": "머더월드",
+		"eng": "Murderworld",
+		"disc": "3번째 턴이 끝나면 이 구역에 있는 모든 카드를 파괴합니다.",
+		"url": "Murderworld.webp"
+	},
+	{
+		"title": "모조월드",
+		"eng": "Mojoworld",
+		"disc": "이 구역에서 카드를 더 많이 가지고 있는 플레이어가 +100 파워를 얻습니다.",
+		"url": "Mojoworld.webp"
+	},
+	{
+		"title": "몬스터 메트로폴리스",
+		"eng": "Monster Metropolis",
+		"disc": "이 구역에서 파워가 가장 높은 카드에게 +3 파워를 부여합니다.",
+		"url": "MonsterMetropolis.webp"
+	},
+	{
+		"title": "몬스터 아일랜드",
+		"eng": "Monster Island",
+		"disc": "이 구역에 파워가 9인 몬스터를 각 플레이어에게 추가합니다.",
+		"url": "MonsterIsland.webp"
+	},
+	{
+		"title": "뮤어 아일랜드",
+		"eng": "Muir Island",
+		"disc": "턴이 끝날 때마다 이 구역의 모든 카드에게 +1 파워를 부여합니다.",
+		"url": "MuirIsland.webp"
+	},
+	{
+		"title": "미러 디멘션",
+		"eng": "Mirror Dimension",
+		"disc": "4번째 턴에 다른 구역 중 하나로 바뀝니다.",
+		"url": "MirrorDimension.webp"
+	},
+	{
+		"title": "백스터 빌딩",
+		"eng": "Baxter Building",
+		"disc": "이 구역에서 이기고 있는 플레이어의 모든 영역이 +3 파워를 얻습니다.",
+		"url": "BaxterBuilding.webp"
+	},
+	{
+		"title": "복제소",
+		"eng": "Cloning Vats",
+		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본이 손에 한 장 추가됩니다.",
+		"url": "CloningVats.webp"
+	},
+	{
+		"title": "비프로스트",
+		"eng": "The Bifrost",
+		"disc": "4번째 턴이 끝난 뒤 모든 카드를 오른쪽으로 한 구역 옮깁니다.",
+		"url": "Bifrost.webp"
+	},
+	{
+		"title": "빅 하우스",
+		"eng": "The Big House",
+		"disc": "비용이 4, 5, 6인 카드는 이 구역에 낼 수 없습니다.",
+		"url": "TheBigHouse.webp"
+	},
+	{
+		"title": "사카아르",
+		"eng": "Sakaar",
+		"disc": "각 플레이어의 손에서 카드를 한 장씩 뽑아 이 구역에 놓습니다.",
+		"url": "Sakaar.webp"
+	},
+	{
+		"title": "더 피크",
+		"eng": "The Peak",
+		"disc": "손에 있는 카드의 파워와 비용이 뒤바뀝니다.",
+		"url": "ThePeak.webp"
+	},
+	{
+		"title": "새비지 랜드",
+		"eng": "Savage Land",
+		"disc": "이 구역의 양측에 랩터를 둘 추가합니다.",
+		"url": "SavageLand.webp"
+	},
+	{
+		"title": "생텀 생토럼",
+		"eng": "Sanctum Sanctorum",
+		"disc": "이 구역에 카드를 낼 수 없습니다.",
+		"url": "SanctumSanctorum.webp"
+	},
+	{
+		"title": "섀도우랜드",
+		"eng": "Shadowland",
+		"disc": "이 구역 양측에 -2 파워의 닌자를 추가합니다.",
+		"url": "Shadowland.webp"
+	},
+	{
+		"title": "서브테라니아",
+		"eng": "Subterranea",
+		"disc": "각 덱에 바위를 5장 섞어 넣습니다.",
+		"url": "Subterranea.webp"
+	},
+	{
+		"title": "센트럴 파크",
+		"eng": "Central Park",
+		"disc": "모든 영역에 스쿼럴을 추가합니다.",
+		"url": "CentralPark.webp"
+	},
+	{
+		"title": "소코비아",
+		"eng": "Sokovia",
+		"disc": "각 플레이어의 손에서 카드를 한 장 버립니다.",
+		"url": "Sokovia.webp"
+	},
+	{
+		"title": "슈퍼플로우",
+		"eng": "The Superflow",
+		"disc": "이 구역에 카드가 없다면 매 턴마다 에너지가 1 증가합니다.",
+		"url": "Superflow.webp"
+	},
+	{
+		"title": "스타라이트 시타델",
+		"eng": "Starlight Citadel",
+		"disc": "4번째 턴이 끝나면 모든 구역의 위치를 교체합니다.",
+		"url": "StarlightCitadel.webp"
+	},
+	{
+		"title": "스타크 타워",
+		"eng": "Stark Tower",
+		"disc": "5번째 턴이 끝나면 이 구역의 모든 카드에 +2 파워를 부여합니다.",
+		"url": "StarkTower.webp"
+	},
+	{
+		"title": "스트레인지 아카데미",
+		"eng": "Strange Academy",
+		"disc": "5번째 턴이 끝날 때, 이 영역의 모든 카드를 다른 무작위 영역으로 이동시킵니다.",
+		"url": "StrangeAcademy.webp"
+	},
+	{
+		"title": "시니스터 런던",
+		"eng": "Sinister London",
+		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본을 다른 구역에 추가합니다.",
+		"url": "SinisterLondon.webp"
+	},
+	{
+		"title": "신 로마",
+		"eng": "Nova Roma",
+		"disc": "카드를 한 장 뽑습니다.",
+		"url": "NovaRoma.webp"
+	},
+	{
+		"title": "아스가르드",
+		"eng": "Asgard",
+		"disc": "4번째 턴이 끝나면 이 구역에서 이긴 플레이어가 카드를 2장 뽑습니다.",
+		"url": "Asgard.webp"
+	},
+	{
+		"title": "아이스 박스",
+		"eng": "The Ice Box",
+		"disc": "각 플레이어의 손에 있는 카드의 비용이 1 증가합니다.",
+		"url": "TheIceBox.webp"
+	},
+	{
+		"title": "아틀란티스",
+		"eng": "Atlantis",
+		"disc": "이 구역에 카드가 하나만 있다면 해당 카드에 +5 파워를 부여합니다.",
+		"url": "Atlantis.webp"
+	},
+	{
+		"title": "아틸리안",
+		"eng": "Attilan",
+		"disc": "3턴 후에 손에 있는 카드를 덱에 섞어 넣습니다. 카드를 3장 뽑습니다.",
+		"url": "Attilan.webp"
+	},
+	{
+		"title": "어벤저스 본부",
+		"eng": "Avengers Compound",
+		"disc": "5번째 턴에 모든 카드를 반드시 이 구역에 내야 합니다.",
+		"url": "AvengersCompound.webp"
+	},
+	{
+		"title": "에고",
+		"eng": "Ego",
+		"disc": "에고가 플레이어 대신 카드를 냅니다.",
+		"url": "Ego.webp"
+	},
+	{
+		"title": "엑스 맨션",
+		"eng": "X-Mansion",
+		"disc": "3번째 턴이 끝나면 이 구역에 무작위 카드를 각 플레이어에게 추가합니다.",
+		"url": "XMansion.webp"
+	},
+	{
+		"title": "엘리시움",
+		"eng": "Elysium",
+		"disc": "카드 비용이 1 줄어듭니다.",
+		"url": "Elysium.webp"
+	},
+	{
+		"title": "오스코프 타워",
+		"eng": "Oscorp Tower",
+		"disc": "3번째 턴이 끝나면 이 구역의 모든 카드가 편을 바꿉니다.",
+		"url": "OscorpTower.webp"
+	},
+	{
+		"title": "온슬로트의 요새",
+		"eng": "Onslaught's Citadel",
+		"disc": "이 구역에서는 지속 효과가 두 배가 됩니다.",
+		"url": "OnslaughtsCitadel.webp"
+	},
+	{
+		"title": "올림피아",
+		"eng": "Olympia",
+		"disc": "카드를 두 장 뽑습니다.",
+		"url": "Olympia.webp"
+	},
+	{
+		"title": "와칸다",
+		"eng": "Wakanda",
+		"disc": "이 구역의 카드는 파괴될 수 없습니다.",
+		"url": "Wakanda.webp"
+	},
+	{
+		"title": "와칸다 대사관",
+		"eng": "Wakandan Embassy",
+		"disc": "플레이어의 손에 있는 모든 카드에 +2 파워를 부여합니다.",
+		"url": "WakandanEmbassy.webp"
+	},
+	{
+		"title": "요툰헤임",
+		"eng": "Jotunheim",
+		"disc": "턴이 끝날 때마다 이 구역의 모든 카드에 -1 파워를 부여합니다.",
+		"url": "Jotunheim.webp"
+	},
+	{
+		"title": "우주 왕좌",
+		"eng": "The Space Throne",
+		"disc": "이 구역에서 각 플레이어는 한 장의 카드만 놓을 수 있습니다.",
+		"url": "SpaceThrone.webp"
+	},
+	{
+		"title": "워싱턴 D.C.",
+		"eng": "Washington D.C.",
+		"disc": "지속: 이 구역의 능력이 없는 모든 카드에 +3 파워를 부여합니다.",
+		"url": "WashingtonDC.webp"
+	},
+	{
+		"title": "월드쉽",
+		"eng": "Worldship",
+		"disc": "다른 구역을 파괴합니다.",
+		"url": "Worldship.webp"
+	},
+	{
+		"title": "웨스트뷰",
+		"eng": "Westview",
+		"disc": "4번째 턴에 새로운 구역으로 바뀝니다.",
+		"url": "Westview.webp"
+	},
+	{
+		"title": "위어드월드",
+		"eng": "Weirdworld",
+		"disc": "두 플레이어가 상대방의 덱에서 카드를 뽑습니다.",
+		"url": "Weirdworld.webp"
+	},
+	{
+		"title": "이름 없는 술집",
+		"eng": "Bar With No Name",
+		"disc": "이 구역에서 파워가 가장 작은 플레이어가 승리합니다.",
+		"url": "BarWithNoName.webp"
+	},
+	{
+		"title": "잔다르",
+		"eng": "Xandar",
+		"disc": "이 영역의 모든 카드에 +1 파워를 부여합니다.",
+		"url": "Xandar.webp"
+	},
+	{
+		"title": "축소된 연구소",
+		"eng": "Miniaturized Lab",
+		"disc": "3,4,5번째 턴에는 이 구역에 카드를 추가할 수 없습니다.",
+		"url": "MiniaturizedLab.webp"
+	},
+	{
+		"title": "침묵의 섬",
+		"eng": "Isle of Silence",
+		"disc": "이 구역에 지속 카드를 내면 능력이 제거됩니다.",
+		"url": "IsleOfSilence.webp"
+	},
+	{
+		"title": "카마르 타지",
+		"eng": "Kamar-Taj",
+		"disc": "이 구역에서는 출현 효과가 두 번 발생합니다.",
+		"url": "KamarTaj.webp"
+	},
+	{
+		"title": "쿤룬",
+		"eng": "K'un-Lun",
+		"disc": "임의의 카드가 이 구역으로 이동해 오면 +2 파워를 부여합니다.",
+		"url": "KunLun.webp"
+	},
+	{
+		"title": "크림슨 코스모스",
+		"eng": "Crimson Cosmos",
+		"disc": "비용이 1, 2, 3인 카드는 이 구역에 낼 수 없습니다.",
+		"url": "CrimsonCosmos.webp"
+	},
+	{
+		"title": "킬른",
+		"eng": "Kyln",
+		"disc": "4번째 턴이 끝난 뒤 이 구역에 카드를 낼 수 없습니다.",
+		"url": "Kyln.webp"
+	},
+	{
+		"title": "타이탄",
+		"eng": "Titan",
+		"disc": "비용이 6인 카드의 비용이 1 줄어듭니다.",
+		"url": "Titan.webp"
+	},
+	{
+		"title": "트리스켈리온",
+		"eng": "The Triskelion",
+		"disc": "각 플레이어의 손을 무작위 카드로 채웁니다.",
+		"url": "Triskelion.webp"
+	},
+	{
+		"title": "팅커러의 작업실",
+		"eng": "Tinkerer's Workshop",
+		"disc": "이번 턴에 에너지를 1 더합니다.",
+		"url": "TinkerersWorkshop.webp"
+	},
+	{
+		"title": "폐허",
+		"eng": "Ruins",
+		"disc": "",
+		"url": "Ruins.webp"
+	},
+	{
+		"title": "프로젝트 페가수스",
+		"eng": "Project Pegasus",
+		"disc": "이번 턴에 에너지를 5 더합니다.",
+		"url": "ProjectPegasus.webp"
+	},
+	{
+		"title": "피스크 타워",
+		"eng": "Fisk Tower",
+		"disc": "카드가 이 구역으로 이동하면 파괴합니다.",
+		"url": "FiskTower.webp"
+	},
+	{
+		"title": "하수도",
+		"eng": "Sewer System",
+		"disc": "이 구역에 있는 카드에 -1 파워를 부여합니다.",
+		"url": "SewerSystem.webp"
+	},
+	{
+		"title": "할라",
+		"eng": "Hala",
+		"disc": "4번째 턴이 끝나면 이 구역에서 패배한 플레이어가 플레이한 모든 카드를 파괴합니다.",
+		"url": "Hala.webp"
+	},
+	{
+		"title": "허브",
+		"eng": "The Hub",
+		"disc": "각 플레이어의 손에 무작위 카드 한 장을 추가합니다.",
+		"url": "TheHub.webp"
+	},
+	{
+		"title": "헬스 키친",
+		"eng": "Hell's Kitchen",
+		"disc": "덱에서 비용이 1인 카드를 한 장 뽑습니다.",
+		"url": "HellsKitchen.webp"
+	},
+	{
+		"title": "헬파이어 클럽",
+		"eng": "Hellfire Club",
+		"disc": "비용이 1인 카드는 이 구역에 낼 수 없습니다.",
+		"url": "HellfireClub.webp"
+	},
+	{
+		"title": "데스의 제단",
+		"eng": "Altar of Death",
+		"disc": "이 구역에 카드를 냈을 때, 그 카드를 파괴하고 다음 턴에 +2 에너지를 얻습니다.",
+		"url": "AltarOfDeath.webp"
+	},
+	{
+		"title": "바 시니스터",
+		"eng": "Bar Sinister",
+		"disc": "이 구역에 카드를 내면 이 구역을 해당 카드의 사본으로 채웁니다.",
+		"url": "BarSinister.webp"
+	},
+	{
+		"title": "붕괴된 광산",
+		"eng": "Collapsed Mine",
+		"disc": "이 구역을 바위로 가득 채웁니다. 턴을 넘겨서 내 바위를 파괴하세요.",
+		"url": "CollapsedMine.webp"
+	},
+	{
+		"title": "데일리 뷰글",
+		"eng": "Daily Bugle",
+		"disc": "상대 손에 있는 카드 중 하나를 복제합니다.",
+		"url": "DailyBugle.webp"
+	},
+	{
+		"title": "이터니티 레인지",
+		"eng": "Eternity Range",
+		"disc": "3번째 턴 후에, 이 구역에서 지는 플레이어에게 바위를 추가합니다.",
+		"url": "EternityRange.webp"
+	},
+	{
+		"title": "클린타르",
+		"eng": "Klyntar",
+		"disc": "4턴에, 이 구역에 있는 내 카드를 심비오트와(과) 합체합니다.",
+		"url": "Klyntar.webp"
+	},
+	{
+		"title": "라멘티스-1",
+		"eng": "Lamentis-1",
+		"disc": "카드를 3장 뽑습니다. 두 플레이어의 덱을 파괴합니다. ",
+		"url": "Lamentis1.webp"
+	},
+	{
+		"title": "머신월드",
+		"eng": "Machineworld",
+		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본을 상대방의 손에 한 장 추가합니다.",
+		"url": ".webp"
+	},
+	{
+		"title": "모라그",
+		"eng": "Morag",
+		"disc": "각 턴마다 첫 카드를 이 구역에 낼 수 없습니다.",
+		"url": "Morag.webp"
+	},
+	{
+		"title": "플런더 성",
+		"eng": "Plunder Castle",
+		"disc": "비용 6의 카드만 여기에 낼 수 있습니다.",
+		"url": "PlunderCastle.webp"
+	},
+	{
+		"title": "리케티 다리",
+		"eng": "Rickety Bridge",
+		"disc": "턴이 끝날 때마다 이 구역에 한 장 이상 있으면 이 구역에 있는 모든 카드를 모두 파괴합니다.",
+		"url": "RicketyBridge.webp"
+	},
+	{
+		"title": "보르미르",
+		"eng": "Vormir",
+		"disc": "이 구역에 처음 낸 카드는 파괴됩니다.",
+		"url": "Vormir.webp"
+	}
+]

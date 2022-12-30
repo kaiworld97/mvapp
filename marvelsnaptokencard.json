@@ -1,0 +1,202 @@
+[
+	{
+		"name": "닌자",
+		"eng": "Ninja",
+		"cost": "1",
+		"power": "-2",
+		"disc": "나는 핸드를 섬긴다.",
+		"url": "ninja.webp"
+	},
+	{
+		"name": "데몬",
+		"eng": "Demon",
+		"cost": "1",
+		"power": "6",
+		"disc": "거래는 거래다.",
+		"url": "demon.webp"
+	},
+	{
+		"name": "둠봇",
+		"eng": "Doombot",
+		"cost": "6",
+		"power": "5",
+		"disc": "\"닥터 둠이 지배한다!!\"",
+		"url": "doombot.webp"
+	},
+	{
+		"name": "드론",
+		"eng": "Drone",
+		"cost": "1",
+		"power": "1",
+		"disc": "\"윙윙윙윙!\"",
+		"url": "drone.webp"
+	},
+	{
+		"name": "랩터",
+		"eng": "Raptor",
+		"cost": "1",
+		"power": "1",
+		"disc": "꾸에에엑",
+		"url": "raptor.webp"
+	},
+	{
+		"name": "바위",
+		"eng": "Rock",
+		"cost": "1",
+		"power": "0",
+		"disc": "흠, 쓸데없군...",
+		"url": "rock.webp"
+	},
+	{
+		"name": "리얼리티 스톤",
+		"eng": "Reality Stone",
+		"cost": "1",
+		"power": "1",
+		"disc": "출현: 이 구역을 새로운 구역으로 바꿉니다. 카드 한 장을 뽑습니다.",
+		"url": "reality-stone.webp"
+	},
+	{
+		"name": "마인드 스톤",
+		"eng": "Mind Stone",
+		"cost": "1",
+		"power": "1",
+		"disc": "출현: 내 덱에서 스톤을 2장 뽑습니다.",
+		"url": "mind-stone.webp"
+	},
+	{
+		"name": "몬스터",
+		"eng": "Monster",
+		"cost": "6",
+		"power": "9",
+		"disc": "조심하십시오... 부수는 것을 좋아합니다.",
+		"url": "monster.webp"
+	},
+	{
+		"name": "묠니르",
+		"eng": "Mjolnir",
+		"cost": "0",
+		"power": "0",
+		"disc": "출현: 토르에 +6 파워를 부여합니다.",
+		"url": "mjolnir.webp"
+	},
+	{
+		"name": "미스테리오?",
+		"eng": "Mysterio?",
+		"cost": "2",
+		"power": "0",
+		"disc": "어느 쪽이 진짜 미스테리오 일까요? 진짜는 4의 파워를 가집니다.",
+		"url": "mysterio-.webp"
+	},
+	{
+		"name": "브루드링",
+		"eng": "Broodling",
+		"cost": "3",
+		"power": "2",
+		"disc": "\"우리는 브루드, 브루드 월드에서 왔다. 네 놈을 점심으로 먹어 주지.\"",
+		"url": "broodling.webp"
+	},
+	{
+		"name": "비브라늄",
+		"eng": "Vibranium",
+		"cost": "1",
+		"power": "4",
+		"disc": "지속: 파괴가 불가능합니다.",
+		"url": "vibranium.webp"
+	},
+	{
+		"name": "소울 스톤",
+		"eng": "Soul Stone",
+		"cost": "1",
+		"power": "1",
+		"disc": "출현: 카드 한 장을 뽑습니다. 지속: 이 구역에 배치된 상대 카드에 -1 파워를 부여합니다.",
+		"url": "soul-stone.webp"
+	},
+	{
+		"name": "스쿼럴",
+		"eng": "Squirrel",
+		"cost": "1",
+		"power": "1",
+		"disc": "찍!",
+		"url": "squirrel.webp"
+	},
+	{
+		"name": "스페이스 스톤",
+		"eng": "Space Stone",
+		"cost": "1",
+		"power": "1",
+		"disc": "출현: 다음 턴에 이 구역의 카드 한 장을 이동할 수 있습니다. 카드 한 장을 뽑습니다.",
+		"url": "space-stone.webp"
+	},
+	{
+		"name": "시니스터 클론",
+		"eng": "Sinister Clone",
+		"cost": "2",
+		"power": "2",
+		"disc": "\"시니스터는 조직이다. 시니스터는 종이다. 만물이 곧 시니스터다.\"",
+		"url": "sinister-clone.webp"
+	},
+	{
+		"name": "심비오트",
+		"eng": "Symbiote",
+		"cost": "1",
+		"power": "0",
+		"disc": "맛있겠다!!!",
+		"url": "symbiote.webp"
+	},
+	{
+		"name": "위도우즈 바이트",
+		"eng": "Widow's Bite",
+		"cost": "0",
+		"power": "0",
+		"disc": "이 카드가 손에 있으면 덱의 카드를 뽑을 수 없습니다.",
+		"url": "widows-bite.webp"
+	},
+	{
+		"name": "윈터 솔저",
+		"eng": "Winter Soldier",
+		"cost": "2",
+		"power": "6",
+		"disc": "\"과거를 마주할 때가 되었다.\"",
+		"url": "winter-soldier.webp"
+	},
+	{
+		"name": "일루전!",
+		"eng": "Illusion!",
+		"cost": "2",
+		"power": "0",
+		"disc": "가짜 미스테리오입니다!",
+		"url": "illusion.webp"
+	},
+	{
+		"name": "타이거 스피릿",
+		"eng": "Tiger Spirit",
+		"cost": "5",
+		"power": "7",
+		"disc": "\"복수는 나의 것!\"",
+		"url": "tiger-spirit.webp"
+	},
+	{
+		"name": "타임 스톤",
+		"eng": "Time Stone",
+		"cost": "1",
+		"power": "1",
+		"disc": "출현: 카드 한 장을 뽑습니다. 다음 턴에 에너지를 1 획득합니다.",
+		"url": "time-stone.webp"
+	},
+	{
+		"name": "파워 스톤",
+		"eng": "Power Stone",
+		"cost": "1",
+		"power": "3",
+		"disc": "지속: 스톤 여섯 장을 모두 냈을 경우, 타노스에 +10 파워를 부여합니다. (위치 불문)",
+		"url": "power-stone.webp"
+	},
+	{
+		"name": "보이드",
+		"eng": "The Void",
+		"cost": "4",
+		"power": "-8",
+		"disc": "안녕하세요...",
+		"url": "the-void.webp"
+	}
+]

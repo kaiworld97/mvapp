@@ -970,6 +970,61 @@
 		]
 	},
 	{
+		"eng": "Bast",
+		"name": "바스트",
+		"cost": "1",
+		"power": "1",
+		"pool": "5풀",
+		"disc": "출현: 내 손에 든 모든 카드의 파워를 3으로 맞춥니다.",
+		"urls": [
+			{
+				"url": "Bast.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Bast_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Bast_02.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"eng": "MBaku",
+		"name": "음바쿠",
+		"cost": "1",
+		"power": "2",
+		"pool": "4풀",
+		"disc": "게임이 끝날 때까지 이 카드가 덱에 남아 있을 경우 임의의 구역으로 배치됩니다.",
+		"urls": [
+			{
+				"url": "MBaku.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "MBaku_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "MBaku_02.webp",
+				"rare": "Unknown",
+				"category": "Kael"
+			},
+			{
+				"url": "MBaku_03.webp",
+				"rare": "Unknown",
+				"category": "Luchador"
+			}
+		]
+	},
+	{
 		"eng": "Quinjet",
 		"name": "퀸젯",
 		"cost": "1",
@@ -1050,6 +1105,46 @@
 		]
 	},
 	{
+		"eng": "Darkhawk",
+		"name": "다크호크",
+		"cost": "4",
+		"power": "1",
+		"pool": "5풀",
+		"disc": "지속: 상대 덱에 든 카드 한 장당 +2 파워를 부여합니다.",
+		"urls": [
+			{
+				"url": "Darkhawk.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Darkhawk_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Darkhawk_02.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Darkhawk_03.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
+			},
+			{
+				"url": "Darkhawk_04.webp",
+				"rare": "Unknown",
+				"category": "Flaviano"
+			},
+			{
+				"url": "Darkhawk_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			}
+		]
+	},
+	{
 		"eng": "Zero",
 		"name": "제로",
 		"cost": "1",
@@ -1121,81 +1216,6 @@
 				"url": "Titania_04.webp",
 				"rare": "Unknown",
 				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "Bast",
-		"name": "바스트",
-		"cost": "1",
-		"power": "1",
-		"pool": "5풀",
-		"disc": "출현: 내 손에 든 모든 카드의 파워를 3으로 맞춥니다.",
-		"urls": [
-			{
-				"url": "Bast.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Bast_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Bast_02.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "Ghost",
-		"name": "고스트",
-		"cost": "1",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "지속: 내 카드는 항상 늦게 뒤집어 집니다.(출현 능력이 마지막에 발동됩니다.)",
-		"urls": [
-			{
-				"url": "Ghost.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Ghost_04.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "MBaku",
-		"name": "음바쿠",
-		"cost": "1",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "게임이 끝날 때까지 이 카드가 덱에 남아 있을 경우 임의의 구역으로 배치됩니다.",
-		"urls": [
-			{
-				"url": "MBaku.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "MBaku_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "MBaku_02.webp",
-				"rare": "Unknown",
-				"category": "Kael"
-			},
-			{
-				"url": "MBaku_03.webp",
-				"rare": "Unknown",
-				"category": "Luchador"
 			}
 		]
 	},
@@ -2250,6 +2270,41 @@
 		]
 	},
 	{
+		"eng": "LukeCage",
+		"name": "루크 케이지",
+		"cost": "2",
+		"power": "1",
+		"pool": "4풀",
+		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
+		"urls": [
+			{
+				"url": "LukeCage.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "LukeCage_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "LukeCage_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "LukeCage_03.webp",
+				"rare": "Rare Pool",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "LukeCage_04.webp",
+				"rare": "Rare Pool",
+				"category": "Sports"
+			}
+		]
+	},
+	{
 		"eng": "BlackWidow",
 		"name": "블랙 위도우",
 		"cost": "2",
@@ -2585,6 +2640,41 @@
 		]
 	},
 	{
+		"eng": "MariaHill",
+		"name": "마리아 힐",
+		"cost": "2",
+		"power": "3",
+		"pool": "4풀",
+		"disc": "출현: 내 손에 비용 1의 카드 한 장을 무작위로 추가합니다.",
+		"urls": [
+			{
+				"url": "MariaHill.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "MariaHill_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "MariaHill_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "MariaHill_03.webp",
+				"rare": "Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "MariaHill_04.webp",
+				"rare": "Rare Pool",
+				"category": "Noir"
+			}
+		]
+	},
+	{
 		"eng": "BaronMordo",
 		"name": "모르도 남작",
 		"cost": "2",
@@ -2740,46 +2830,6 @@
 		]
 	},
 	{
-		"eng": "Mysterio",
-		"name": "미스테리오",
-		"cost": "2",
-		"power": "4",
-		"pool": "3풀",
-		"disc": "이 카드를 내면 다른 구역에 환상을 펼칩니다. 이 카드는 게임이 끝날 때까지 환상으로 위장합니다.",
-		"urls": [
-			{
-				"url": "Mysterio.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Mysterio_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "Mysterio_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "Mysterio_03.webp",
-				"rare": "Unknown",
-				"category": "3099"
-			},
-			{
-				"url": "Mysterio_04.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Mysterio_05.webp",
-				"rare": "Rare Pool",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
 		"eng": "ColleenWing",
 		"name": "콜린 윙",
 		"cost": "2",
@@ -2820,72 +2870,42 @@
 		]
 	},
 	{
-		"eng": "LukeCage",
-		"name": "루크 케이지",
+		"eng": "Mysterio",
+		"name": "미스테리오",
 		"cost": "2",
-		"power": "1",
-		"pool": "4풀",
-		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
+		"power": "4",
+		"pool": "3풀",
+		"disc": "이 카드를 내면 다른 구역에 환상을 펼칩니다. 이 카드는 게임이 끝날 때까지 환상으로 위장합니다.",
 		"urls": [
 			{
-				"url": "LukeCage.webp",
+				"url": "Mysterio.webp",
 				"rare": "Default",
 				"category": "Base"
 			},
 			{
-				"url": "LukeCage_01.webp",
-				"rare": "Unknown",
+				"url": "Mysterio_01.webp",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
-				"url": "LukeCage_02.webp",
+				"url": "Mysterio_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "Mysterio_03.webp",
+				"rare": "Unknown",
+				"category": "3099"
+			},
+			{
+				"url": "Mysterio_04.webp",
 				"rare": "Super Rare Pool",
 				"category": "Variant"
 			},
 			{
-				"url": "LukeCage_03.webp",
+				"url": "Mysterio_05.webp",
 				"rare": "Rare Pool",
 				"category": "Dan Hipp"
-			},
-			{
-				"url": "LukeCage_04.webp",
-				"rare": "Rare Pool",
-				"category": "Sports"
-			}
-		]
-	},
-	{
-		"eng": "MariaHill",
-		"name": "마리아 힐",
-		"cost": "2",
-		"power": "3",
-		"pool": "4풀",
-		"disc": "출현: 내 손에 비용 1의 카드 한 장을 무작위로 추가합니다.",
-		"urls": [
-			{
-				"url": "MariaHill.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "MariaHill_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "MariaHill_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "MariaHill_03.webp",
-				"rare": "Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "MariaHill_04.webp",
-				"rare": "Rare Pool",
-				"category": "Noir"
 			}
 		]
 	},
@@ -3915,6 +3935,46 @@
 		]
 	},
 	{
+		"eng": "SilverSurfer",
+		"name": "실버 서퍼",
+		"cost": "3",
+		"power": "0",
+		"pool": "5풀",
+		"disc": "출현: 내 다른 비용 3 카드에 +3 파워를 부여합니다.",
+		"urls": [
+			{
+				"url": "SilverSurfer.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "SilverSurfer_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "SilverSurfer_02.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "SilverSurfer_03.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "SilverSurfer_05.webp",
+				"rare": "Unknown",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "SilverSurfer_06.webp",
+				"rare": "Unknown",
+				"category": "Kim Jacinto"
+			}
+		]
+	},
+	{
 		"eng": "Gambit",
 		"name": "갬빗",
 		"cost": "3",
@@ -4360,6 +4420,66 @@
 		]
 	},
 	{
+		"eng": "Shanna",
+		"name": "샤나",
+		"cost": "4",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "출현: 각 구역에 비용 1의 무작위 카드를 추가합니다.",
+		"urls": [
+			{
+				"url": "Shanna.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Shanna_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Shanna_02.webp",
+				"rare": "Unknown",
+				"category": "Savage Land"
+			}
+		]
+	},
+	{
+		"eng": "AgentCoulson",
+		"name": "에이전트 콜슨",
+		"cost": "3",
+		"power": "4",
+		"pool": "4풀",
+		"disc": "출현: 내 손에 비용 4 및 5의 카드 한 장씩을 무작위로 추가합니다.",
+		"urls": [
+			{
+				"url": "AgentCoulson.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "AgentCoulson_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "AgentCoulson_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "War on Midgard"
+			},
+			{
+				"url": "AgentCoulson_03.webp",
+				"rare": "Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "AgentCoulson_04.webp",
+				"rare": "Super Rare Pool",
+				"category": "Noir"
+			}
+		]
+	},
+	{
 		"eng": "Kingpin",
 		"name": "킹핀",
 		"cost": "3",
@@ -4551,136 +4671,6 @@
 				"url": "Maximus_04.webp",
 				"rare": "Rare Pool",
 				"category": "Giulio Rincione"
-			}
-		]
-	},
-	{
-		"eng": "AgentCoulson",
-		"name": "에이전트 콜슨",
-		"cost": "3",
-		"power": "4",
-		"pool": "4풀",
-		"disc": "출현: 내 손에 비용 4 및 5의 카드 한 장씩을 무작위로 추가합니다.",
-		"urls": [
-			{
-				"url": "AgentCoulson.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "AgentCoulson_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "AgentCoulson_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "War on Midgard"
-			},
-			{
-				"url": "AgentCoulson_03.webp",
-				"rare": "Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "AgentCoulson_04.webp",
-				"rare": "Super Rare Pool",
-				"category": "Noir"
-			}
-		]
-	},
-	{
-		"eng": "SilverSurfer",
-		"name": "실버 서퍼",
-		"cost": "3",
-		"power": "0",
-		"pool": "5풀",
-		"disc": "출현: 내 다른 비용 3 카드에 +3 파워를 부여합니다.",
-		"urls": [
-			{
-				"url": "SilverSurfer.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "SilverSurfer_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "SilverSurfer_02.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "SilverSurfer_03.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "SilverSurfer_05.webp",
-				"rare": "Unknown",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "SilverSurfer_06.webp",
-				"rare": "Unknown",
-				"category": "Kim Jacinto"
-			}
-		]
-	},
-	{
-		"eng": "Zabu",
-		"name": "자부",
-		"cost": "3",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "지속: 내 비용 4 카드의 비용이 2 감소합니다. (최소 1)",
-		"urls": [
-			{
-				"url": "Zabu.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Zabu_02.webp",
-				"rare": "Unknown",
-				"category": "Savage Land"
-			},
-			{
-				"url": "Zabu_03.webp",
-				"rare": "Unknown",
-				"category": "3099"
-			},
-			{
-				"url": "Zabu_04.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Zabu_05.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			}
-		]
-	},
-	{
-		"eng": "Sauron",
-		"name": "사우론",
-		"cost": "3",
-		"power": "3",
-		"pool": "5풀",
-		"disc": "출현: 내 손과 덱에 있는 모든 지속 카드의 능력이 제거됩니다.",
-		"urls": [
-			{
-				"url": "Sauron.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Sauron_02.webp",
-				"rare": "Unknown",
-				"category": "3099"
 			}
 		]
 	},
@@ -5133,6 +5123,11 @@
 				"category": "Variant"
 			},
 			{
+				"url": "ShangChi_05.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
 				"url": "ShangChi_06.webp",
 				"rare": "Unknown",
 				"category": "Peach Momoko"
@@ -5271,6 +5266,96 @@
 				"url": "Dracula_06.webp",
 				"rare": "Unknown",
 				"category": "Ivan Shavrin"
+			}
+		]
+	},
+	{
+		"eng": "Shuri",
+		"name": "슈리",
+		"cost": "4",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "출현: 다음 번에 내는 카드의 파워가 두 배로 증가합니다.",
+		"urls": [
+			{
+				"url": "Shuri.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Shuri_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Shuri_02.webp",
+				"rare": "Unknown",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Shuri_03.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "Shuri_04.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Shuri_05.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Shuri_06.webp",
+				"rare": "Unknown",
+				"category": "Black Panther"
+			}
+		]
+	},
+	{
+		"eng": "SuperSkrull",
+		"name": "슈퍼 스크럴",
+		"cost": "4",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "지속: 상대 카드의 모든 지속 효과를 획득합니다.",
+		"urls": [
+			{
+				"url": "SuperSkrull.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "SuperSkrull_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "SuperSkrull_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "SuperSkrull_03.webp",
+				"rare": "Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "SuperSkrull_04.webp",
+				"rare": "Super Rare Pool",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "SuperSkrull_05.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "SuperSkrull_06.webp",
+				"rare": "Super Rare Pool",
+				"category": "3099"
 			}
 		]
 	},
@@ -5416,6 +5501,76 @@
 				"url": "SpiderMan_10.webp",
 				"rare": "Unknown",
 				"category": "Chibi"
+			}
+		]
+	},
+	{
+		"eng": "AbsorbingMan",
+		"name": "업소빙맨",
+		"cost": "4",
+		"power": "3",
+		"pool": "4풀",
+		"disc": "출현: 마지막으로 낸 카드가 출현 능력을 갖고 있을 경우, 이 카드가 그 능력을 복제합니다.",
+		"urls": [
+			{
+				"url": "AbsorbingMan.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "AbsorbingMan_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "AbsorbingMan_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Fear Itself"
+			},
+			{
+				"url": "AbsorbingMan_03.webp",
+				"rare": "Rare Pool",
+				"category": "Sports"
+			},
+			{
+				"url": "AbsorbingMan_04.webp",
+				"rare": "Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "AbsorbingMan_05.webp",
+				"rare": "Unknown",
+				"category": "Noir"
+			}
+		]
+	},
+	{
+		"eng": "Dazzler",
+		"name": "대즐러",
+		"cost": "4",
+		"power": "4",
+		"pool": "5풀",
+		"disc": "지속 : 각각의 구역마다 내 카드가 4장 있으면 +6 파워를 얻습니다.",
+		"urls": [
+			{
+				"url": "Dazzler.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Dazzler_02.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Dazzler_03.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Dazzler_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -5735,296 +5890,6 @@
 		]
 	},
 	{
-		"eng": "TyphoidMary",
-		"name": "타이포이드 메리",
-		"cost": "4",
-		"power": "10",
-		"pool": "3풀",
-		"disc": "지속: 내 다른 카드에 -1 파워를 부여합니다.",
-		"urls": [
-			{
-				"url": "TyphoidMary.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "TyphoidMary_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "TyphoidMary_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Mutant Zero"
-			},
-			{
-				"url": "TyphoidMary_03.webp",
-				"rare": "Rare Pool",
-				"category": "Venomized"
-			},
-			{
-				"url": "TyphoidMary_05.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "AbsorbingMan",
-		"name": "업소빙맨",
-		"cost": "4",
-		"power": "3",
-		"pool": "4풀",
-		"disc": "출현: 마지막으로 낸 카드가 출현 능력을 갖고 있을 경우, 이 카드가 그 능력을 복제합니다.",
-		"urls": [
-			{
-				"url": "AbsorbingMan.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "AbsorbingMan_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "AbsorbingMan_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Fear Itself"
-			},
-			{
-				"url": "AbsorbingMan_03.webp",
-				"rare": "Rare Pool",
-				"category": "Sports"
-			},
-			{
-				"url": "AbsorbingMan_04.webp",
-				"rare": "Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "AbsorbingMan_05.webp",
-				"rare": "Unknown",
-				"category": "Noir"
-			}
-		]
-	},
-	{
-		"eng": "Attuma",
-		"name": "아투마",
-		"cost": "4",
-		"power": "10",
-		"pool": "4풀",
-		"disc": "턴이 끝날 때 이 구역에 내 다른 카드가 있을 경우, 이 카드를 파괴합니다.",
-		"urls": [
-			{
-				"url": "Attuma.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Attuma_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Attuma_02.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Attuma_03.webp",
-				"rare": "Unknown",
-				"category": "Wakanda Forever"
-			}
-		]
-	},
-	{
-		"eng": "Darkhawk",
-		"name": "다크호크",
-		"cost": "4",
-		"power": "1",
-		"pool": "5풀",
-		"disc": "지속: 상대 덱에 든 카드 한 장당 +2 파워를 부여합니다.",
-		"urls": [
-			{
-				"url": "Darkhawk.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Darkhawk_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Darkhawk_02.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Darkhawk_03.webp",
-				"rare": "Unknown",
-				"category": "Chibi"
-			},
-			{
-				"url": "Darkhawk_04.webp",
-				"rare": "Unknown",
-				"category": "Flaviano"
-			},
-			{
-				"url": "Darkhawk_06.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			}
-		]
-	},
-	{
-		"eng": "Shanna",
-		"name": "샤나",
-		"cost": "4",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "출현: 각 구역에 비용 1의 무작위 카드를 추가합니다.",
-		"urls": [
-			{
-				"url": "Shanna.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Shanna_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Shanna_02.webp",
-				"rare": "Unknown",
-				"category": "Savage Land"
-			}
-		]
-	},
-	{
-		"eng": "Shuri",
-		"name": "슈리",
-		"cost": "4",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "출현: 다음 번에 내는 카드의 파워가 두 배로 증가합니다.",
-		"urls": [
-			{
-				"url": "Shuri.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Shuri_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Shuri_02.webp",
-				"rare": "Unknown",
-				"category": "Savage Land"
-			},
-			{
-				"url": "Shuri_03.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "Shuri_04.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Shuri_05.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Shuri_06.webp",
-				"rare": "Unknown",
-				"category": "Black Panther"
-			}
-		]
-	},
-	{
-		"eng": "SuperSkrull",
-		"name": "슈퍼 스크럴",
-		"cost": "4",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "지속: 상대 카드의 모든 지속 효과를 획득합니다.",
-		"urls": [
-			{
-				"url": "SuperSkrull.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "SuperSkrull_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "SuperSkrull_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "SuperSkrull_03.webp",
-				"rare": "Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "SuperSkrull_04.webp",
-				"rare": "Super Rare Pool",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "SuperSkrull_05.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "SuperSkrull_06.webp",
-				"rare": "Super Rare Pool",
-				"category": "3099"
-			}
-		]
-	},
-	{
-		"eng": "Dazzler",
-		"name": "대즐러",
-		"cost": "4",
-		"power": "4",
-		"pool": "5풀",
-		"disc": "지속 : 각각의 구역마다 내 카드가 4장 있으면 +6 파워를 얻습니다.",
-		"urls": [
-			{
-				"url": "Dazzler.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Dazzler_02.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Dazzler_03.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Dazzler_04.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
 		"eng": "Sentry",
 		"name": "센트리",
 		"cost": "4",
@@ -6061,6 +5926,71 @@
 				"url": "Sentry_05.webp",
 				"rare": "Unknown",
 				"category": "Kim Jacinto"
+			}
+		]
+	},
+	{
+		"eng": "Attuma",
+		"name": "아투마",
+		"cost": "4",
+		"power": "10",
+		"pool": "4풀",
+		"disc": "턴이 끝날 때 이 구역에 내 다른 카드가 있을 경우, 이 카드를 파괴합니다.",
+		"urls": [
+			{
+				"url": "Attuma.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Attuma_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Attuma_02.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Attuma_03.webp",
+				"rare": "Unknown",
+				"category": "Wakanda Forever"
+			}
+		]
+	},
+	{
+		"eng": "TyphoidMary",
+		"name": "타이포이드 메리",
+		"cost": "4",
+		"power": "10",
+		"pool": "3풀",
+		"disc": "지속: 내 다른 카드에 -1 파워를 부여합니다.",
+		"urls": [
+			{
+				"url": "TyphoidMary.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "TyphoidMary_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "TyphoidMary_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Mutant Zero"
+			},
+			{
+				"url": "TyphoidMary_03.webp",
+				"rare": "Rare Pool",
+				"category": "Venomized"
+			},
+			{
+				"url": "TyphoidMary_05.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -6560,6 +6490,46 @@
 		]
 	},
 	{
+		"eng": "Kang",
+		"name": "정복자 캉",
+		"cost": "5",
+		"power": "0",
+		"pool": "5풀",
+		"disc": "출현 : 상대의 행동을 확인하고, 턴을 재시작합니다. (캉을 제외하고)",
+		"urls": [
+			{
+				"url": "Kang.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Kang_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Kang_02.webp",
+				"rare": "Unknown",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Kang_03.webp",
+				"rare": "Unknown",
+				"category": "Band"
+			},
+			{
+				"url": "Kang_05.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "Kang_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			}
+		]
+	},
+	{
 		"eng": "Taskmaster",
 		"name": "태스크마스터",
 		"cost": "5",
@@ -6645,6 +6615,46 @@
 		]
 	},
 	{
+		"eng": "Valkyrie",
+		"name": "발키리",
+		"cost": "5",
+		"power": "3",
+		"pool": "5풀",
+		"disc": "출현: 이 구역에 있는 모든 카드의 파워를 3으로 설정합니다.",
+		"urls": [
+			{
+				"url": "Valkyrie.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Valkyrie_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "Valkyrie_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "Valkyrie_03.webp",
+				"rare": "Rare Pool",
+				"category": "Baby"
+			},
+			{
+				"url": "Valkyrie_04.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
+			},
+			{
+				"url": "Valkyrie_05.webp",
+				"rare": "Unknown",
+				"category": "Rian Gonzales"
+			}
+		]
+	},
+	{
 		"eng": "Ronan",
 		"name": "집행관 로난",
 		"cost": "5",
@@ -6681,6 +6691,61 @@
 				"url": "Ronan_05.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			}
+		]
+	},
+	{
+		"eng": "BlackPanther",
+		"name": "블랙 팬서",
+		"cost": "5",
+		"power": "4",
+		"pool": "4풀",
+		"disc": "출현 : 이 카드의 파워가 2배가 됩니다.",
+		"urls": [
+			{
+				"url": "BlackPanther.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "BlackPanther_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "BlackPanther_02.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "BlackPanther_03.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "BlackPanther_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "BlackPanther_05.webp",
+				"rare": "Unknown",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "BlackPanther_06.webp",
+				"rare": "Unknown",
+				"category": "Ancestors"
+			},
+			{
+				"url": "BlackPanther_07.webp",
+				"rare": "Unknown",
+				"category": "Phoenix Force"
+			},
+			{
+				"url": "BlackPanther_08.webp",
+				"rare": "Ultimate",
+				"category": "Hero"
 			}
 		]
 	},
@@ -6816,6 +6881,41 @@
 				"url": "NickFury_09.webp",
 				"rare": "Unknown",
 				"category": "Signed"
+			}
+		]
+	},
+	{
+		"eng": "Zabu",
+		"name": "자부",
+		"cost": "3",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "지속: 내 비용 4 카드의 비용이 2 감소합니다. (최소 1)",
+		"urls": [
+			{
+				"url": "Zabu.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Zabu_02.webp",
+				"rare": "Unknown",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Zabu_03.webp",
+				"rare": "Unknown",
+				"category": "3099"
+			},
+			{
+				"url": "Zabu_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Zabu_05.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -7034,191 +7134,6 @@
 			},
 			{
 				"url": "RedSkull_05.webp",
-				"rare": "Unknown",
-				"category": "Giulio Rincione"
-			}
-		]
-	},
-	{
-		"eng": "Kang",
-		"name": "정복자 캉",
-		"cost": "5",
-		"power": "0",
-		"pool": "5풀",
-		"disc": "출현 : 상대의 행동을 확인하고, 턴을 재시작합니다. (캉을 제외하고)",
-		"urls": [
-			{
-				"url": "Kang.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Kang_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Kang_02.webp",
-				"rare": "Unknown",
-				"category": "Savage Land"
-			},
-			{
-				"url": "Kang_03.webp",
-				"rare": "Unknown",
-				"category": "Band"
-			},
-			{
-				"url": "Kang_05.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "Kang_06.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			}
-		]
-	},
-	{
-		"eng": "Valkyrie",
-		"name": "발키리",
-		"cost": "5",
-		"power": "3",
-		"pool": "5풀",
-		"disc": "출현: 이 구역에 있는 모든 카드의 파워를 3으로 설정합니다.",
-		"urls": [
-			{
-				"url": "Valkyrie.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Valkyrie_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "Valkyrie_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Valkyrie_03.webp",
-				"rare": "Rare Pool",
-				"category": "Baby"
-			},
-			{
-				"url": "Valkyrie_04.webp",
-				"rare": "Unknown",
-				"category": "Chibi"
-			},
-			{
-				"url": "Valkyrie_05.webp",
-				"rare": "Unknown",
-				"category": "Rian Gonzales"
-			}
-		]
-	},
-	{
-		"eng": "BlackPanther",
-		"name": "블랙 팬서",
-		"cost": "5",
-		"power": "4",
-		"pool": "5풀",
-		"disc": "출현 : 이 카드의 파워가 2배가 됩니다.",
-		"urls": [
-			{
-				"url": "BlackPanther.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "BlackPanther_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "BlackPanther_02.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "BlackPanther_03.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "BlackPanther_04.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "BlackPanther_05.webp",
-				"rare": "Unknown",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "BlackPanther_06.webp",
-				"rare": "Unknown",
-				"category": "Ancestors"
-			},
-			{
-				"url": "BlackPanther_07.webp",
-				"rare": "Unknown",
-				"category": "Phoenix Force"
-			},
-			{
-				"url": "BlackPanther_08.webp",
-				"rare": "Ultimate",
-				"category": "Hero"
-			}
-		]
-	},
-	{
-		"eng": "Stature",
-		"name": "스테쳐",
-		"cost": "5",
-		"power": "7",
-		"pool": "5풀",
-		"disc": "이번 게임에서 상대가 카드를 버렸다면 이 카드의 비용이 1이(가) 됩니다.",
-		"urls": [
-			{
-				"url": "Stature.webp",
-				"rare": "Default",
-				"category": "Base"
-			}
-		]
-	},
-	{
-		"eng": "Modok",
-		"name": "모독",
-		"cost": "5",
-		"power": "8",
-		"pool": "5풀",
-		"disc": "출현: 내 손에서 카드 한 장을 버립니다.",
-		"urls": [
-			{
-				"url": "Modok.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Modok_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Modok_02.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Modok_03.webp",
-				"rare": "Unknown",
-				"category": "Baby"
-			},
-			{
-				"url": "Modok_04.webp",
 				"rare": "Unknown",
 				"category": "Giulio Rincione"
 			}
@@ -7488,6 +7403,11 @@
 				"category": "Pixel"
 			},
 			{
+				"url": "Hulk_02.webp",
+				"rare": "Unknown",
+				"category": "Weapon H"
+			},
+			{
 				"url": "Hulk_03.webp",
 				"rare": "Unknown",
 				"category": "Max Grecke"
@@ -7546,6 +7466,66 @@
 				"url": "Infinaut_04.webp",
 				"rare": "Unknown",
 				"category": "Flaviano"
+			}
+		]
+	},
+	{
+		"eng": "Knull",
+		"name": "널",
+		"cost": "6",
+		"power": "0",
+		"pool": "5풀",
+		"disc": "지속: 이 카드의 파워는 이 게임에서 파괴된 모든 카드 파워의 합입니다.",
+		"urls": [
+			{
+				"url": "Knull.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Knull_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Knull_02.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Knull_03.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
+			},
+			{
+				"url": "Knull_04.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Knull_05.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Knull_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Knull_07.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
+			},
+			{
+				"url": "Knull_08.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Knull_09.webp",
+				"rare": "Unknown",
+				"category": "Kim Jacinto"
 			}
 		]
 	},
@@ -7621,6 +7601,41 @@
 				"url": "Leader_05.webp",
 				"rare": "Unknown",
 				"category": "Luca Claretti"
+			}
+		]
+	},
+	{
+		"eng": "LivingTribunal",
+		"name": "리빙 트리뷰널",
+		"cost": "6",
+		"power": "4",
+		"pool": "5풀",
+		"disc": "게임이 끝날 때, 내 전체 파워를 모든 구역에 균등하게 분배합니다.",
+		"urls": [
+			{
+				"url": "LivingTribunal.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "LivingTribunal_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "LivingTribunal_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Flaviano"
+			},
+			{
+				"url": "LivingTribunal_03.webp",
+				"rare": "Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "LivingTribunal_04.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -7741,6 +7756,71 @@
 				"url": "Ultron_06.webp",
 				"rare": "Unknown",
 				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"eng": "SheHulk",
+		"name": "쉬헐크",
+		"cost": "6",
+		"power": "10",
+		"pool": "4풀",
+		"disc": "지난 턴에 소비하지 않은 에너지당 비용이 1 감소합니다.",
+		"urls": [
+			{
+				"url": "SheHulk.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "SheHulk_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "SheHulk_02.webp",
+				"rare": "Unknown",
+				"category": "Savage Land"
+			},
+			{
+				"url": "SheHulk_03.webp",
+				"rare": "Super Rare Pool",
+				"category": "Artgerm"
+			},
+			{
+				"url": "SheHulk_04.webp",
+				"rare": "Rare Pool",
+				"category": "Baby"
+			},
+			{
+				"url": "SheHulk_05.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
+			}
+		]
+	},
+	{
+		"eng": "Helicarrier",
+		"name": "헬리캐리어",
+		"cost": "6",
+		"power": "10",
+		"pool": "4풀",
+		"disc": "이 카드를 손에서 버리면, 임의의 카드 3장으로 대체됩니다.",
+		"urls": [
+			{
+				"url": "Helicarrier.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Helicarrier_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "Helicarrier_03.webp",
+				"rare": "Super Rare Pool",
+				"category": "3099"
 			}
 		]
 	},
@@ -7905,6 +7985,46 @@
 		]
 	},
 	{
+		"eng": "Death",
+		"name": "데스",
+		"cost": "9",
+		"power": "12",
+		"pool": "3풀",
+		"disc": "이번 게임에서 파괴된 카드 한 장당 이 카드의 비용이 1 감소합니다.",
+		"urls": [
+			{
+				"url": "Death.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Death_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "Death_02.webp",
+				"rare": "Rare Pool",
+				"category": "First Form"
+			},
+			{
+				"url": "Death_03.webp",
+				"rare": "Super Rare Pool",
+				"category": "Chibi"
+			},
+			{
+				"url": "Death_04.webp",
+				"rare": "Super Rare Pool",
+				"category": "Flaviano"
+			},
+			{
+				"url": "Death_05.webp",
+				"rare": "Rare Pool",
+				"category": "Giulio Rincione"
+			}
+		]
+	},
+	{
 		"eng": "Orka",
 		"name": "오르카",
 		"cost": "6",
@@ -7941,106 +8061,6 @@
 				"url": "Orka_05.webp",
 				"rare": "Unknown",
 				"category": "Giulio Rincione"
-			}
-		]
-	},
-	{
-		"eng": "SheHulk",
-		"name": "쉬헐크",
-		"cost": "6",
-		"power": "10",
-		"pool": "4풀",
-		"disc": "지난 턴에 소비하지 않은 에너지당 비용이 1 감소합니다.",
-		"urls": [
-			{
-				"url": "SheHulk.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "SheHulk_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "SheHulk_02.webp",
-				"rare": "Unknown",
-				"category": "Savage Land"
-			},
-			{
-				"url": "SheHulk_03.webp",
-				"rare": "Super Rare Pool",
-				"category": "Artgerm"
-			},
-			{
-				"url": "SheHulk_04.webp",
-				"rare": "Rare Pool",
-				"category": "Baby"
-			},
-			{
-				"url": "SheHulk_05.webp",
-				"rare": "Unknown",
-				"category": "Peach Momoko"
-			}
-		]
-	},
-	{
-		"eng": "Knull",
-		"name": "널",
-		"cost": "6",
-		"power": "0",
-		"pool": "5풀",
-		"disc": "지속: 이 카드의 파워는 이 게임에서 파괴된 모든 카드 파워의 합입니다.",
-		"urls": [
-			{
-				"url": "Knull.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Knull_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Knull_02.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Knull_03.webp",
-				"rare": "Unknown",
-				"category": "Peach Momoko"
-			},
-			{
-				"url": "Knull_04.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Knull_05.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Knull_06.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Knull_07.webp",
-				"rare": "Unknown",
-				"category": "Peach Momoko"
-			},
-			{
-				"url": "Knull_08.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Knull_09.webp",
-				"rare": "Unknown",
-				"category": "Kim Jacinto"
 			}
 		]
 	},
@@ -8095,41 +8115,6 @@
 		]
 	},
 	{
-		"eng": "LivingTribunal",
-		"name": "리빙 트리뷰널",
-		"cost": "6",
-		"power": "4",
-		"pool": "5풀",
-		"disc": "게임이 끝날 때, 내 전체 파워를 모든 구역에 균등하게 분배합니다.",
-		"urls": [
-			{
-				"url": "LivingTribunal.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "LivingTribunal_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "LivingTribunal_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Flaviano"
-			},
-			{
-				"url": "LivingTribunal_03.webp",
-				"rare": "Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "LivingTribunal_04.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			}
-		]
-	},
-	{
 		"eng": "Thanos",
 		"name": "타노스",
 		"cost": "6",
@@ -8175,67 +8160,92 @@
 		]
 	},
 	{
-		"eng": "Helicarrier",
-		"name": "헬리캐리어",
-		"cost": "6",
-		"power": "10",
+		"eng": "Ghost",
+		"name": "고스트",
+		"cost": "1",
+		"power": "2",
 		"pool": "5풀",
-		"disc": "이 카드를 손에서 버리면, 임의의 카드 3장으로 대체됩니다.",
+		"disc": "지속: 내 카드는 항상 늦게 뒤집어 집니다.(출현 능력이 마지막에 발동됩니다.)",
 		"urls": [
 			{
-				"url": "Helicarrier.webp",
+				"url": "Ghost.webp",
 				"rare": "Default",
 				"category": "Base"
 			},
 			{
-				"url": "Helicarrier_01.webp",
-				"rare": "Rare Pool",
+				"url": "Ghost_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
+		"eng": "Modok",
+		"name": "모독",
+		"cost": "5",
+		"power": "8",
+		"pool": "5풀",
+		"disc": "출현: 내 손에서 카드 한 장을 버립니다.",
+		"urls": [
+			{
+				"url": "Modok.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Modok_01.webp",
+				"rare": "Unknown",
 				"category": "Pixel"
 			},
 			{
-				"url": "Helicarrier_03.webp",
-				"rare": "Super Rare Pool",
+				"url": "Modok_02.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Modok_03.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "Modok_04.webp",
+				"rare": "Unknown",
+				"category": "Giulio Rincione"
+			}
+		]
+	},
+	{
+		"eng": "Sauron",
+		"name": "사우론",
+		"cost": "3",
+		"power": "3",
+		"pool": "5풀",
+		"disc": "출현: 내 손과 덱에 있는 모든 지속 카드의 능력이 제거됩니다.",
+		"urls": [
+			{
+				"url": "Sauron.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Sauron_02.webp",
+				"rare": "Unknown",
 				"category": "3099"
 			}
 		]
 	},
 	{
-		"eng": "Death",
-		"name": "데스",
-		"cost": "9",
-		"power": "12",
-		"pool": "3풀",
-		"disc": "이번 게임에서 파괴된 카드 한 장당 이 카드의 비용이 1 감소합니다.",
+		"eng": "Stature",
+		"name": "스테쳐",
+		"cost": "5",
+		"power": "7",
+		"pool": "5풀",
+		"disc": "이번 게임에서 상대가 카드를 버렸다면 이 카드의 비용이 1이(가) 됩니다.",
 		"urls": [
 			{
-				"url": "Death.webp",
+				"url": "Stature.webp",
 				"rare": "Default",
 				"category": "Base"
-			},
-			{
-				"url": "Death_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "Death_02.webp",
-				"rare": "Rare Pool",
-				"category": "First Form"
-			},
-			{
-				"url": "Death_03.webp",
-				"rare": "Super Rare Pool",
-				"category": "Chibi"
-			},
-			{
-				"url": "Death_04.webp",
-				"rare": "Super Rare Pool",
-				"category": "Flaviano"
-			},
-			{
-				"url": "Death_05.webp",
-				"rare": "Rare Pool",
-				"category": "Giulio Rincione"
 			}
 		]
 	}

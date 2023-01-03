@@ -1,29 +1,5 @@
 [
 	{
-		"title": "워리어 폴스",
-		"eng": "Warrior Falls",
-		"disc": "턴이 종료될 때마다 이곳의 카드가 전투를 벌입니다! 가장 약한 카드를 파괴합니다.",
-		"url": "WarriorFalls.webp"
-	},
-	{
-		"title": "슈리의 연구실",
-		"eng": "Shuri's Lab",
-		"disc": "이 구역에 카드를 내면 파워가 두 배로 증가합니다.",
-		"url": "ShurisLab.webp"
-	},
-	{
-		"title": "왕좌의 방",
-		"eng": "Throne Room",
-		"disc": "여기에서 가장 높은 파워를 가진 카드는 원래 파워의 두 배가 됩니다.",
-		"url": "WakandanThroneRoom.webp"
-	},
-	{
-		"title": "비브라늄 광산",
-		"eng": "Vibranium Mines",
-		"disc": "이 구역에 카드를 내면, 덱에 비브라늄을 3장 섞어 넣습니다.",
-		"url": "VibraniumMines.webp"
-	},
-	{
 		"title": "TVA",
 		"eng": "TVA",
 		"disc": "4번째 턴이 끝날 때 게임을 끝냅니다.",
@@ -90,16 +66,34 @@
 		"url": "DarkDimension.webp"
 	},
 	{
+		"title": "더 피크",
+		"eng": "The Peak",
+		"disc": "손에 있는 카드의 파워와 비용이 뒤바뀝니다.",
+		"url": "ThePeak.webp"
+	},
+	{
 		"title": "데스의 영역",
 		"eng": "Death's Domain",
 		"disc": "이 구역에 카드를 내면 해당 카드를 파괴합니다.",
 		"url": "DeathsDomain.webp"
 	},
 	{
+		"title": "데스의 제단",
+		"eng": "Altar of Death",
+		"disc": "이 구역에 카드를 냈을 때, 그 카드를 파괴하고 다음 턴에 +2 에너지를 얻습니다.",
+		"url": "AltarOfDeath.webp"
+	},
+	{
 		"title": "데인저 룸",
 		"eng": "Danger Room",
 		"disc": "이 구역에 낸 카드는 25% 확률로 파괴됩니다.",
 		"url": "DangerRoom.webp"
+	},
+	{
+		"title": "데일리 뷰글",
+		"eng": "Daily Bugle",
+		"disc": "상대 손에 있는 카드 중 하나를 복제합니다.",
+		"url": "DailyBugle.webp"
 	},
 	{
 		"title": "드림 디멘션",
@@ -112,6 +106,12 @@
 		"eng": "District X",
 		"disc": "각 플레이어의 덱에서 카드 10장을 무작위로 교체합니다.",
 		"url": "DistrictX.webp"
+	},
+	{
+		"title": "라멘티스-1",
+		"eng": "Lamentis-1",
+		"disc": "카드를 3장 뽑습니다. 두 플레이어의 덱을 파괴합니다. ",
+		"url": "Lamentis1.webp"
 	},
 	{
 		"title": "래프트",
@@ -144,6 +144,12 @@
 		"url": "LukesBar.webp"
 	},
 	{
+		"title": "리케티 다리",
+		"eng": "Rickety Bridge",
+		"disc": "턴이 끝날 때마다 이 구역에 한 장 이상 있으면 이 구역에 있는 모든 카드를 모두 파괴합니다.",
+		"url": "RicketyBridge.webp"
+	},
+	{
 		"title": "림보",
 		"eng": "Limbo",
 		"disc": "이 게임에는 7번째 턴이 있습니다.",
@@ -160,6 +166,18 @@
 		"eng": "Murderworld",
 		"disc": "3번째 턴이 끝나면 이 구역에 있는 모든 카드를 파괴합니다.",
 		"url": "Murderworld.webp"
+	},
+	{
+		"title": "머신월드",
+		"eng": "Machineworld",
+		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본을 상대방의 손에 한 장 추가합니다.",
+		"url": ".webp"
+	},
+	{
+		"title": "모라그",
+		"eng": "Morag",
+		"disc": "각 턴마다 첫 카드를 이 구역에 낼 수 없습니다.",
+		"url": "Morag.webp"
 	},
 	{
 		"title": "모조월드",
@@ -192,16 +210,40 @@
 		"url": "MirrorDimension.webp"
 	},
 	{
+		"title": "바 시니스터",
+		"eng": "Bar Sinister",
+		"disc": "이 구역에 카드를 내면 이 구역을 해당 카드의 사본으로 채웁니다.",
+		"url": "BarSinister.webp"
+	},
+	{
 		"title": "백스터 빌딩",
 		"eng": "Baxter Building",
 		"disc": "이 구역에서 이기고 있는 플레이어의 모든 영역이 +3 파워를 얻습니다.",
 		"url": "BaxterBuilding.webp"
 	},
 	{
+		"title": "보르미르",
+		"eng": "Vormir",
+		"disc": "이 구역에 처음 낸 카드는 파괴됩니다.",
+		"url": "Vormir.webp"
+	},
+	{
 		"title": "복제소",
 		"eng": "Cloning Vats",
 		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본이 손에 한 장 추가됩니다.",
 		"url": "CloningVats.webp"
+	},
+	{
+		"title": "붕괴된 광산",
+		"eng": "Collapsed Mine",
+		"disc": "이 구역을 바위로 가득 채웁니다. 턴을 넘겨서 내 바위를 파괴하세요.",
+		"url": "CollapsedMine.webp"
+	},
+	{
+		"title": "비브라늄 광산",
+		"eng": "Vibranium Mines",
+		"disc": "이 구역에 카드를 내면, 덱에 비브라늄을 3장 섞어 넣습니다.",
+		"url": "VibraniumMines.webp"
 	},
 	{
 		"title": "비프로스트",
@@ -220,12 +262,6 @@
 		"eng": "Sakaar",
 		"disc": "각 플레이어의 손에서 카드를 한 장씩 뽑아 이 구역에 놓습니다.",
 		"url": "Sakaar.webp"
-	},
-	{
-		"title": "더 피크",
-		"eng": "The Peak",
-		"disc": "손에 있는 카드의 파워와 비용이 뒤바뀝니다.",
-		"url": "ThePeak.webp"
 	},
 	{
 		"title": "새비지 랜드",
@@ -262,6 +298,12 @@
 		"eng": "Sokovia",
 		"disc": "각 플레이어의 손에서 카드를 한 장 버립니다.",
 		"url": "Sokovia.webp"
+	},
+	{
+		"title": "슈리의 연구실",
+		"eng": "Shuri's Lab",
+		"disc": "이 구역에 카드를 내면 파워가 두 배로 증가합니다.",
+		"url": "ShurisLab.webp"
 	},
 	{
 		"title": "슈퍼플로우",
@@ -378,6 +420,12 @@
 		"url": "WakandanEmbassy.webp"
 	},
 	{
+		"title": "왕좌의 방",
+		"eng": "Throne Room",
+		"disc": "여기에서 가장 높은 파워를 가진 카드는 원래 파워의 두 배가 됩니다.",
+		"url": "WakandanThroneRoom.webp"
+	},
+	{
 		"title": "요툰헤임",
 		"eng": "Jotunheim",
 		"disc": "턴이 끝날 때마다 이 구역의 모든 카드에 -1 파워를 부여합니다.",
@@ -388,6 +436,12 @@
 		"eng": "The Space Throne",
 		"disc": "이 구역에서 각 플레이어는 한 장의 카드만 놓을 수 있습니다.",
 		"url": "SpaceThrone.webp"
+	},
+	{
+		"title": "워리어 폴스",
+		"eng": "Warrior Falls",
+		"disc": "턴이 종료될 때마다 이곳의 카드가 전투를 벌입니다! 가장 약한 카드를 파괴합니다.",
+		"url": "WarriorFalls.webp"
 	},
 	{
 		"title": "워싱턴 D.C.",
@@ -418,6 +472,12 @@
 		"eng": "Bar With No Name",
 		"disc": "이 구역에서 파워가 가장 작은 플레이어가 승리합니다.",
 		"url": "BarWithNoName.webp"
+	},
+	{
+		"title": "이터니티 레인지",
+		"eng": "Eternity Range",
+		"disc": "3번째 턴 후에, 이 구역에서 지는 플레이어에게 바위를 추가합니다.",
+		"url": "EternityRange.webp"
 	},
 	{
 		"title": "잔다르",
@@ -456,6 +516,12 @@
 		"url": "CrimsonCosmos.webp"
 	},
 	{
+		"title": "클린타르",
+		"eng": "Klyntar",
+		"disc": "4턴에, 이 구역에 있는 내 카드를 심비오트와(과) 합체합니다.",
+		"url": "Klyntar.webp"
+	},
+	{
 		"title": "킬른",
 		"eng": "Kyln",
 		"disc": "4번째 턴이 끝난 뒤 이 구역에 카드를 낼 수 없습니다.",
@@ -492,6 +558,12 @@
 		"url": "ProjectPegasus.webp"
 	},
 	{
+		"title": "플런더 성",
+		"eng": "Plunder Castle",
+		"disc": "비용 6의 카드만 여기에 낼 수 있습니다.",
+		"url": "PlunderCastle.webp"
+	},
+	{
 		"title": "피스크 타워",
 		"eng": "Fisk Tower",
 		"disc": "카드가 이 구역으로 이동하면 파괴합니다.",
@@ -526,77 +598,5 @@
 		"eng": "Hellfire Club",
 		"disc": "비용이 1인 카드는 이 구역에 낼 수 없습니다.",
 		"url": "HellfireClub.webp"
-	},
-	{
-		"title": "데스의 제단",
-		"eng": "Altar of Death",
-		"disc": "이 구역에 카드를 냈을 때, 그 카드를 파괴하고 다음 턴에 +2 에너지를 얻습니다.",
-		"url": "AltarOfDeath.webp"
-	},
-	{
-		"title": "바 시니스터",
-		"eng": "Bar Sinister",
-		"disc": "이 구역에 카드를 내면 이 구역을 해당 카드의 사본으로 채웁니다.",
-		"url": "BarSinister.webp"
-	},
-	{
-		"title": "붕괴된 광산",
-		"eng": "Collapsed Mine",
-		"disc": "이 구역을 바위로 가득 채웁니다. 턴을 넘겨서 내 바위를 파괴하세요.",
-		"url": "CollapsedMine.webp"
-	},
-	{
-		"title": "데일리 뷰글",
-		"eng": "Daily Bugle",
-		"disc": "상대 손에 있는 카드 중 하나를 복제합니다.",
-		"url": "DailyBugle.webp"
-	},
-	{
-		"title": "이터니티 레인지",
-		"eng": "Eternity Range",
-		"disc": "3번째 턴 후에, 이 구역에서 지는 플레이어에게 바위를 추가합니다.",
-		"url": "EternityRange.webp"
-	},
-	{
-		"title": "클린타르",
-		"eng": "Klyntar",
-		"disc": "4턴에, 이 구역에 있는 내 카드를 심비오트와(과) 합체합니다.",
-		"url": "Klyntar.webp"
-	},
-	{
-		"title": "라멘티스-1",
-		"eng": "Lamentis-1",
-		"disc": "카드를 3장 뽑습니다. 두 플레이어의 덱을 파괴합니다. ",
-		"url": "Lamentis1.webp"
-	},
-	{
-		"title": "머신월드",
-		"eng": "Machineworld",
-		"disc": "이 구역에 카드를 내면, 해당 카드의 복사본을 상대방의 손에 한 장 추가합니다.",
-		"url": ".webp"
-	},
-	{
-		"title": "모라그",
-		"eng": "Morag",
-		"disc": "각 턴마다 첫 카드를 이 구역에 낼 수 없습니다.",
-		"url": "Morag.webp"
-	},
-	{
-		"title": "플런더 성",
-		"eng": "Plunder Castle",
-		"disc": "비용 6의 카드만 여기에 낼 수 있습니다.",
-		"url": "PlunderCastle.webp"
-	},
-	{
-		"title": "리케티 다리",
-		"eng": "Rickety Bridge",
-		"disc": "턴이 끝날 때마다 이 구역에 한 장 이상 있으면 이 구역에 있는 모든 카드를 모두 파괴합니다.",
-		"url": "RicketyBridge.webp"
-	},
-	{
-		"title": "보르미르",
-		"eng": "Vormir",
-		"disc": "이 구역에 처음 낸 카드는 파괴됩니다.",
-		"url": "Vormir.webp"
 	}
 ]

@@ -78,12 +78,6 @@
 		"url": "DeathsDomain.webp"
 	},
 	{
-		"title": "데스의 제단",
-		"eng": "Altar of Death",
-		"disc": "이 구역에 카드를 냈을 때, 그 카드를 파괴하고 다음 턴에 +2 에너지를 얻습니다.",
-		"url": "AltarOfDeath.webp"
-	},
-	{
 		"title": "데인저 룸",
 		"eng": "Danger Room",
 		"disc": "이 구역에 낸 카드는 25% 확률로 파괴됩니다.",
@@ -476,7 +470,7 @@
 	{
 		"title": "이터니티 레인지",
 		"eng": "Eternity Range",
-		"disc": "3번째 턴 후에, 이 구역에서 지는 플레이어에게 바위를 추가합니다.",
+		"disc": "3턴 이후, 패배한 플레이어에게 바위 한 장을 추가합니다",
 		"url": "EternityRange.webp"
 	},
 	{
@@ -484,6 +478,12 @@
 		"eng": "Xandar",
 		"disc": "이 영역의 모든 카드에 +1 파워를 부여합니다.",
 		"url": "Xandar.webp"
+	},
+	{
+		"title": "죽음의 제단",
+		"eng": "Altar of Death",
+		"disc": "이 구역에 카드를 내면, 해당 카드를 파괴하고 다음 턴에 +2 에너지를 얻습니다.",
+		"url": "AltarOfDeath.webp"
 	},
 	{
 		"title": "축소된 연구소",

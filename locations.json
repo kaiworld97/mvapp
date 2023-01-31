@@ -1,0 +1,1045 @@
+[
+    {
+        "name": "altar of death",
+        "ability": "when you play a card here, destroy it to get +2 energy next turn.",
+        "cid": "424",
+        "status": "released",
+        "carddefid": "AltarOfDeath",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "asgard",
+        "ability": "after turn 4, whoever is winning here draws 2 cards.",
+        "cid": "15",
+        "status": "released",
+        "carddefid": "Asgard",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "asteroid m",
+        "ability": "when you play a 3 or 4-cost card, move it here.",
+        "cid": "326",
+        "status": "released",
+        "carddefid": "AsteroidM",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "atlantis",
+        "ability": "if you only have one card here, it has +5 power.",
+        "cid": "16",
+        "status": "released",
+        "carddefid": "Atlantis",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "attilan",
+        "ability": "on turn 4, shuffle your hand into your deck. draw 3 cards.",
+        "cid": "327",
+        "status": "released",
+        "carddefid": "Attilan",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "avengers compound",
+        "ability": "on turn 5, all cards must be played here.",
+        "cid": "17",
+        "status": "released",
+        "carddefid": "AvengersCompound",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "bar sinister",
+        "ability": "when you play a card here, fill this location with copies of it.",
+        "cid": "328",
+        "status": "released",
+        "carddefid": "BarSinister",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "bar with no name",
+        "ability": "whoever has the least power here wins.",
+        "cid": "259",
+        "status": "released",
+        "carddefid": "BarWithNoName",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "baxter building",
+        "ability": "whoever is winning this location gets +3 power at the others.",
+        "cid": "19",
+        "status": "released",
+        "carddefid": "BaxterBuilding",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "central park",
+        "ability": "add a squirrel to each location.",
+        "cid": "38",
+        "status": "released",
+        "carddefid": "CentralPark",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "cloning vats",
+        "ability": "when you play a card here, add a copy to your hand.",
+        "cid": "41",
+        "status": "released",
+        "carddefid": "CloningVats",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "collapsed mine",
+        "ability": "fill this location with rocks. skip a turn to destroy your rocks.",
+        "cid": "425",
+        "status": "released",
+        "carddefid": "CollapsedMine",
+        "rarity": "uncommon",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "counter-earth",
+        "ability": "when you play a card here, create a copy at this location.",
+        "cid": "329",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "crimson cosmos",
+        "ability": "cards that cost 1, 2, or 3 can't be played here.",
+        "cid": "45",
+        "status": "released",
+        "carddefid": "CrimsonCosmos",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "crystal towers",
+        "ability": "shuffle your hand into your deck. draw 3 cards.",
+        "cid": "330",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "daily bugle",
+        "ability": "get a copy of a card in your opponent's hand.",
+        "cid": "50",
+        "status": "released",
+        "carddefid": "DailyBugle",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "danger room",
+        "ability": "cards played here have a 25% chance to be destroyed.",
+        "cid": "51",
+        "status": "released",
+        "carddefid": "DangerRoom",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "dark dimension",
+        "ability": "cards here are not revealed until the game ends.",
+        "cid": "53",
+        "status": "released",
+        "carddefid": "DarkDimension",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "death's domain",
+        "ability": "when you play a card here, destroy it.",
+        "cid": "365",
+        "status": "released",
+        "carddefid": "DeathsDomain",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "deep space",
+        "ability": "on reveal abilities won't happen at this location.",
+        "cid": "331",
+        "status": "released",
+        "carddefid": "DeepSpace",
+        "rarity": "common",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "district x",
+        "ability": "replace both decks with 10 random cards.",
+        "cid": "63",
+        "status": "released",
+        "carddefid": "DistrictX",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "dream dimension",
+        "ability": "on turn 5, cards cost 1 more.",
+        "cid": "71",
+        "status": "released",
+        "carddefid": "DreamDimension",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "ego",
+        "ability": "ego takes over and plays your cards for you.",
+        "cid": "74",
+        "status": "released",
+        "carddefid": "Ego",
+        "rarity": "ultra-rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "elysium",
+        "ability": "cards cost 1 less.",
+        "cid": "78",
+        "status": "released",
+        "carddefid": "Elysium",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "eternity range",
+        "ability": "after turn 3, add a rock to the losing player's side.",
+        "cid": "426",
+        "status": "released",
+        "carddefid": "EternityRange",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "fisk tower",
+        "ability": "when a card moves here, destroy it.",
+        "cid": "332",
+        "status": "released",
+        "carddefid": "FiskTower",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "flooded",
+        "ability": "cards can't be played here.",
+        "cid": "348",
+        "status": "released",
+        "carddefid": "Flooded",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "flooding",
+        "ability": "this is the last turn cards can be played here.",
+        "cid": "349",
+        "status": "released",
+        "carddefid": "Flooding",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "fogwell's gym",
+        "ability": "both players get double card xp this game.",
+        "cid": "333",
+        "status": "released",
+        "carddefid": "FogwellsGym",
+        "rarity": "rare",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "gamma lab",
+        "ability": "after turn 3, transform all cards here into the hulk.",
+        "cid": "405",
+        "status": "released",
+        "carddefid": "GammaLab",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "genosha",
+        "ability": "you can move cards to this location.",
+        "cid": "334",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "grand central",
+        "ability": "after turn 5, put a card from each player's hand here.",
+        "cid": "89",
+        "status": "released",
+        "carddefid": "GrandCentral",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "hala",
+        "ability": "after turn 4, destroy all cards controlled by the player losing here.",
+        "cid": "92",
+        "status": "released",
+        "carddefid": "Hala",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "hell's kitchen",
+        "ability": "draw a 1-cost card from your deck.",
+        "cid": "335",
+        "status": "released",
+        "carddefid": "HellsKitchen",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "hellfire club",
+        "ability": "1-cost cards can't be played here.",
+        "cid": "98",
+        "status": "released",
+        "carddefid": "HellfireClub",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "isle of silence",
+        "ability": "ongoing effects are disabled here.",
+        "cid": "336",
+        "status": "released",
+        "carddefid": "IsleOfSilence",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "jotunheim",
+        "ability": "after each turn, cards here lose 1 power.",
+        "cid": "337",
+        "status": "released",
+        "carddefid": "Jotunheim",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "k'un-lun",
+        "ability": "when a card moves here, give it +2 power.",
+        "cid": "114",
+        "status": "released",
+        "carddefid": "KunLun",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "kamar-taj",
+        "ability": "on reveal effects happen twice at this location.",
+        "cid": "115",
+        "status": "released",
+        "carddefid": "KamarTaj",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "klyntar",
+        "ability": "after turn 4, merge your cards here into a symbiote.",
+        "cid": "122",
+        "status": "released",
+        "carddefid": "Klyntar",
+        "rarity": "uncommon",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "knowhere",
+        "ability": "on reveal effects do not happen at this location.",
+        "cid": "123",
+        "status": "released",
+        "carddefid": "Knowhere",
+        "rarity": "uncommon",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "krakoa",
+        "ability": "on turn 6, takes over and plays both players' cards for them.",
+        "cid": "345",
+        "status": "released",
+        "carddefid": "Krakoa",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "kyln",
+        "ability": "you can't play cards here after turn 4.",
+        "cid": "126",
+        "status": "released",
+        "carddefid": "Kyln",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "lamentis-1",
+        "ability": "draw 3 cards. destroy both decks.",
+        "cid": "418",
+        "status": "released",
+        "carddefid": "Lamentis1",
+        "rarity": "rare",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "lechuguilla",
+        "ability": "when you play a card here, shuffle 3 rocks into your deck.",
+        "cid": "130",
+        "status": "released",
+        "carddefid": "Lechuguilla",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "lemuria",
+        "ability": "no cards are revealed this turn.",
+        "cid": "338",
+        "status": "released",
+        "carddefid": "Lemuria",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "limbo",
+        "ability": "there is a turn 7 this game.",
+        "cid": "133",
+        "status": "released",
+        "carddefid": "Limbo",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "los diablos base",
+        "ability": "after turn 3, ruin a random location.",
+        "cid": "137",
+        "status": "released",
+        "carddefid": "LosDiablos",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "luke's bar",
+        "ability": "when you play a card here, return it to your hand.",
+        "cid": "404",
+        "status": "released",
+        "carddefid": "LukesBar",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "machineworld",
+        "ability": "when you play a card here, add a copy to the opponent's hand.",
+        "cid": "339",
+        "status": "released",
+        "carddefid": "Machineworld",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "madripoor",
+        "ability": "you can move cards from this location.",
+        "cid": "340",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "mindscape",
+        "ability": "at the start of turn 6, swap hands.",
+        "cid": "149",
+        "status": "released",
+        "carddefid": "Mindscape",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "miniaturized lab",
+        "ability": "on turns 3, 4, and 5, no cards can be added here.",
+        "cid": "150",
+        "status": "released",
+        "carddefid": "MiniaturizedLab",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "mirror dimension",
+        "ability": "on turn 4, transform into one of the other locations.",
+        "cid": "152",
+        "status": "released",
+        "carddefid": "MirrorDimension",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "mojoworld",
+        "ability": "whoever has more cards here gets +100 power.",
+        "cid": "159",
+        "status": "released",
+        "carddefid": "Mojoworld",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "monster island",
+        "ability": "add a 9-power monster here for each player.",
+        "cid": "161",
+        "status": "released",
+        "carddefid": "MonsterIsland",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "monster metropolis",
+        "ability": "the cards with the highest power here get +3 power.",
+        "cid": "162",
+        "status": "released",
+        "carddefid": "MonsterMetropolis",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "morag",
+        "ability": "you can't play your first card here each turn.",
+        "cid": "341",
+        "status": "released",
+        "carddefid": "Morag",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "mother mold",
+        "ability": "when you play a card here, add a sentinel to your hand.",
+        "cid": "342",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "mt. wundagore",
+        "ability": "when you play a card here, discard a card.",
+        "cid": "343",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "muir island",
+        "ability": "after each turn, give cards here +1 power.",
+        "cid": "168",
+        "status": "released",
+        "carddefid": "MuirIsland",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "murderworld",
+        "ability": "after turn 3, destroy all cards here.",
+        "cid": "170",
+        "status": "released",
+        "carddefid": "Murderworld",
+        "rarity": "common",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "necrosha",
+        "ability": "cards here have -2 power.",
+        "cid": "344",
+        "status": "released",
+        "carddefid": "Necrosha",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "negative zone",
+        "ability": "cards here have\n-3 power.",
+        "cid": "178",
+        "status": "released",
+        "carddefid": "NegativeZone",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "new york",
+        "ability": "on turn 6, you can move cards to this location.",
+        "cid": "179",
+        "status": "released",
+        "carddefid": "NewYork",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "nidavellir",
+        "ability": "cards here have\n+5 power.",
+        "cid": "346",
+        "status": "released",
+        "carddefid": "Nidavellir",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "nova roma",
+        "ability": "draw a card.",
+        "cid": "183",
+        "status": "released",
+        "carddefid": "NovaRoma",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "olympia",
+        "ability": "draw 2 cards.",
+        "cid": "186",
+        "status": "released",
+        "carddefid": "Olympia",
+        "rarity": "rare",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "onslaught's citadel",
+        "ability": "ongoing effects here are doubled.",
+        "cid": "189",
+        "status": "released",
+        "carddefid": "OnslaughtsCitadel",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "oscorp tower",
+        "ability": "after turn 3, all cards here swap sides.",
+        "cid": "347",
+        "status": "released",
+        "carddefid": "OscorpTower",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "pleasant hill",
+        "ability": "when you play a card here, draw a card.",
+        "cid": "350",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "plunder castle",
+        "ability": "only cards that cost 6 can be played here.",
+        "cid": "427",
+        "status": "released",
+        "carddefid": "PlunderCastle",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "project pegasus",
+        "ability": "+5 energy this turn.",
+        "cid": "351",
+        "status": "released",
+        "carddefid": "ProjectPegasus",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "quantum realm",
+        "ability": "when you play a card here, set its power to 2.",
+        "cid": "352",
+        "status": "released",
+        "carddefid": "QuantumRealm",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "rickety bridge",
+        "ability": "after each turn, if there is more than one card here, destroy them.",
+        "cid": "428",
+        "status": "released",
+        "carddefid": "RicketyBridge",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "ruins",
+        "ability": "a wasteland of destruction.",
+        "cid": "211",
+        "status": "released",
+        "carddefid": "Ruins",
+        "rarity": "common",
+        "difficulty": "Basic"
+    },
+    {
+        "name": "sakaar",
+        "ability": "put a card from each player's hand here.",
+        "cid": "213",
+        "status": "released",
+        "carddefid": "Sakaar",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "sanctum sanctorum",
+        "ability": "cards can't be played here.",
+        "cid": "214",
+        "status": "released",
+        "carddefid": "SanctumSanctorum",
+        "rarity": "common",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "savage land",
+        "ability": "add two raptors on each side of this location.",
+        "cid": "216",
+        "status": "released",
+        "carddefid": "SavageLand",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "sewer system",
+        "ability": "cards here have\n-1 power.",
+        "cid": "353",
+        "status": "released",
+        "carddefid": "SewerSystem",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "shadowland",
+        "ability": "add a ninja to each side with -2 power.",
+        "cid": "223",
+        "status": "released",
+        "carddefid": "Shadowland",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "shuri's lab",
+        "ability": "when you play a card here, double its power.",
+        "cid": "416",
+        "status": "released",
+        "carddefid": "ShurisLab",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "sinister london",
+        "ability": "when you play a card here, add a copy to another location.",
+        "cid": "233",
+        "status": "released",
+        "carddefid": "SinisterLondon",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "sokovia",
+        "ability": "discard a card from each player's hand.",
+        "cid": "236",
+        "status": "released",
+        "carddefid": "Sokovia",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "stark tower",
+        "ability": "after turn 5, give all cards here +2 power.",
+        "cid": "246",
+        "status": "released",
+        "carddefid": "StarkTower",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "starlight citadel",
+        "ability": "after turn 4, swap the position of each location.",
+        "cid": "364",
+        "status": "released",
+        "carddefid": "StarlightCitadel",
+        "rarity": "uncommon",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "strange academy",
+        "ability": "at the end of turn 5, move all cards here to other random locations.",
+        "cid": "248",
+        "status": "released",
+        "carddefid": "StrangeAcademy",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "subterranea",
+        "ability": "shuffle 5 rocks into each deck.",
+        "cid": "251",
+        "status": "released",
+        "carddefid": "Subterranea",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "t.a.h.i.t.i.",
+        "ability": "when a card is discarded or destroyed, add a copy here.",
+        "cid": "354",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "the bifrost",
+        "ability": "after turn 4, move all cards one location to the right.",
+        "cid": "355",
+        "status": "released",
+        "carddefid": "Bifrost",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "the big house",
+        "ability": "4, 5, and 6-cost cards can't be played here.",
+        "cid": "260",
+        "status": "released",
+        "carddefid": "TheBigHouse",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "the hub",
+        "ability": "add a random card to each player's hand.",
+        "cid": "263",
+        "status": "released",
+        "carddefid": "TheHub",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "the ice box",
+        "ability": "give a card in each player’s hand +1 cost.",
+        "cid": "356",
+        "status": "released",
+        "carddefid": "TheIceBox",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "the nexus",
+        "ability": "your power here is granted to other locations as well.",
+        "cid": "357",
+        "status": "released",
+        "carddefid": "TheNexus",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "the peak",
+        "ability": "each card in your hand swaps its power and cost.",
+        "cid": "406",
+        "status": "released",
+        "carddefid": "ThePeak",
+        "rarity": "rare",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "the raft",
+        "ability": "whoever fills this location first draws a 6-cost card. it costs 0.",
+        "cid": "358",
+        "status": "released",
+        "carddefid": "Raft",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "the space throne",
+        "ability": "only one card can be here for each player.",
+        "cid": "267",
+        "status": "released",
+        "carddefid": "SpaceThrone",
+        "rarity": "uncommon",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "the superflow",
+        "ability": "if you have no cards here, +1 energy each turn.",
+        "cid": "268",
+        "status": "released",
+        "carddefid": "Superflow",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "the triskelion",
+        "ability": "fill each player's hand with random cards.",
+        "cid": "359",
+        "status": "released",
+        "carddefid": "Triskelion",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "the vault",
+        "ability": "on turn 6, cards can't be played here.",
+        "cid": "270",
+        "status": "released",
+        "carddefid": "Vault",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "throne room",
+        "ability": "card(s) here with the highest power have their power doubled.",
+        "cid": "419",
+        "status": "released",
+        "carddefid": "WakandanThroneRoom",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "tinkerer's workshop",
+        "ability": "+1 energy this turn.",
+        "cid": "275",
+        "status": "released",
+        "carddefid": "TinkerersWorkshop",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "titan",
+        "ability": "6-cost cards cost 1 less.",
+        "cid": "276",
+        "status": "released",
+        "carddefid": "Titan",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "transia",
+        "ability": "swap the positions of each location.",
+        "cid": "278",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "tva",
+        "ability": "at the end of turn 4, end the game.",
+        "cid": "360",
+        "status": "released",
+        "carddefid": "Tva",
+        "rarity": "rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "utopia",
+        "ability": "at the end of turn 4, whoever is winning here draws 2 cards.",
+        "cid": "361",
+        "status": "unreleased",
+        "carddefid": "",
+        "rarity": "common"
+    },
+    {
+        "name": "vibranium mines",
+        "ability": "when you play a card here, shuffle 3 vibranium into your deck.",
+        "cid": "414",
+        "status": "released",
+        "carddefid": "VibraniumMines",
+        "rarity": "common",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "vormir",
+        "ability": "the first card you play here is destroyed.",
+        "cid": "362",
+        "status": "released",
+        "carddefid": "Vormir",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "wakanda",
+        "ability": "cards here can't be destroyed.",
+        "cid": "288",
+        "status": "released",
+        "carddefid": "Wakanda",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "wakandan embassy",
+        "ability": "give +2 power to cards in players' hands.",
+        "cid": "289",
+        "status": "released",
+        "carddefid": "WakandanEmbassy",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "warrior falls",
+        "ability": "after each turn, cards here fight! destroy the weakest one(s).",
+        "cid": "363",
+        "status": "released",
+        "carddefid": "WarriorFalls",
+        "rarity": "uncommon",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "washington d.c.",
+        "ability": "cards here with no abilities have +3 power.",
+        "cid": "292",
+        "status": "released",
+        "carddefid": "WashingtonDC",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "weirdworld",
+        "ability": "both players draw from their opponent's decks.",
+        "cid": "295",
+        "status": "released",
+        "carddefid": "Weirdworld",
+        "rarity": "rare",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "westview",
+        "ability": "turns into a new location on turn 4.",
+        "cid": "296",
+        "status": "released",
+        "carddefid": "Westview",
+        "rarity": "common",
+        "difficulty": "Standard"
+    },
+    {
+        "name": "worldship",
+        "ability": "destroy the other locations.",
+        "cid": "304",
+        "status": "released",
+        "carddefid": "Worldship",
+        "rarity": "ultra-rare",
+        "difficulty": "Complex"
+    },
+    {
+        "name": "x-mansion",
+        "ability": "after turn 3, add a random card here for each player.",
+        "cid": "305",
+        "status": "released",
+        "carddefid": "XMansion",
+        "rarity": "common",
+        "difficulty": "Advanced"
+    },
+    {
+        "name": "xandar",
+        "ability": "cards here have\n+1 power.",
+        "cid": "306",
+        "status": "released",
+        "carddefid": "Xandar",
+        "rarity": "common",
+        "difficulty": "Standard"
+    }
+]

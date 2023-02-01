@@ -169,7 +169,7 @@
 		"name": "바스트",
 		"cost": "1",
 		"power": "1",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현: 내 손에 든 모든 카드의 파워를 3으로 맞춥니다.",
 		"urls": [
 			{
@@ -739,7 +739,7 @@
 		"name": "음바쿠",
 		"cost": "1",
 		"power": "2",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "게임이 끝날 때까지 이 카드가 덱에 남아 있을 경우 임의의 구역으로 배치됩니다.",
 		"urls": [
 			{
@@ -1134,7 +1134,7 @@
 		"name": "타이타니아",
 		"cost": "1",
 		"power": "5",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "누구든 이 구역에 카드를 내면 이 카드가 진영을 변경합니다.",
 		"urls": [
 			{
@@ -1484,7 +1484,7 @@
 		"name": "루크 케이지",
 		"cost": "2",
 		"power": "1",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
 		"urls": [
 			{
@@ -2170,6 +2170,51 @@
 		]
 	},
 	{
+		"eng": "Wolverine",
+		"name": "울버린",
+		"cost": "2",
+		"power": "2",
+		"pool": "1풀",
+		"disc": "이 카드는 버려지거나 파괴되었을 때 임의의 구역에 재생성되어 +2 파워를 부여합니다.",
+		"urls": [
+			{
+				"url": "Wolverine.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Wolverine_01.webp",
+				"rare": "Rare Pool",
+				"category": "Pixel"
+			},
+			{
+				"url": "Wolverine_02.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "Wolverine_03.webp",
+				"rare": "Rare Pool",
+				"category": "Baby"
+			},
+			{
+				"url": "Wolverine_04.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Wolverine_05.webp",
+				"rare": "Unknown",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "Wolverine_06.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
 		"eng": "Armor",
 		"name": "아머",
 		"cost": "2",
@@ -2686,51 +2731,6 @@
 				"url": "Viper_06.webp",
 				"rare": "Unknown",
 				"category": "Noir"
-			}
-		]
-	},
-	{
-		"eng": "Wolverine",
-		"name": "울버린",
-		"cost": "2",
-		"power": "3",
-		"pool": "1풀",
-		"disc": "이 카드는 버려지거나 파괴되었을 때 임의의 구역에 배치됩니다.",
-		"urls": [
-			{
-				"url": "Wolverine.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Wolverine_01.webp",
-				"rare": "Rare Pool",
-				"category": "Pixel"
-			},
-			{
-				"url": "Wolverine_02.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Wolverine_03.webp",
-				"rare": "Rare Pool",
-				"category": "Baby"
-			},
-			{
-				"url": "Wolverine_04.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
-				"url": "Wolverine_05.webp",
-				"rare": "Unknown",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "Wolverine_06.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -4820,7 +4820,7 @@
 		"cost": "4",
 		"power": "1",
 		"pool": "2풀",
-		"disc": "출현: 덱에서 카드 한 장을 이 구역에 냅니다.",
+		"disc": "출현: 덱의 카드 한 장을 이 구역에 추가합니다.",
 		"urls": [
 			{
 				"url": "Jubilee.webp",
@@ -4934,7 +4934,7 @@
 		"name": "슈리",
 		"cost": "4",
 		"power": "2",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현: 다음 번에 내는 카드의 파워가 두 배로 증가합니다.",
 		"urls": [
 			{
@@ -4979,7 +4979,7 @@
 		"name": "슈퍼 스크럴",
 		"cost": "4",
 		"power": "2",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "지속: 상대 카드의 모든 지속 효과를 획득합니다.",
 		"urls": [
 			{
@@ -5059,7 +5059,7 @@
 		"name": "업소빙맨",
 		"cost": "4",
 		"power": "3",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "출현: 마지막으로 낸 카드가 출현 능력을 갖고 있을 경우, 이 카드가 그 능력을 복제합니다.",
 		"urls": [
 			{
@@ -5985,7 +5985,7 @@
 		"cost": "4",
 		"power": "8",
 		"pool": "5풀",
-		"disc": "오른쪽 구역에 낼 수 없습니다. 출현: 오른쪽 구역에 파워 -8의 보이드를 추가합니다.",
+		"disc": "이 카드는 오른쪽 구역에 낼 수 없습니다. 출현: 오른쪽 구역에 파워 -8의 보이드를 추가합니다.",
 		"urls": [
 			{
 				"url": "Sentry.webp",
@@ -6539,7 +6539,7 @@
 		"name": "발키리",
 		"cost": "5",
 		"power": "3",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현: 이 구역에 있는 모든 카드의 파워를 3으로 설정합니다.",
 		"urls": [
 			{
@@ -6579,7 +6579,7 @@
 		"name": "블랙 팬서",
 		"cost": "5",
 		"power": "4",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현 : 이 카드의 파워가 2배가 됩니다.",
 		"urls": [
 			{
@@ -7390,46 +7390,6 @@
 		]
 	},
 	{
-		"eng": "Leader",
-		"name": "리더",
-		"cost": "6",
-		"power": "3",
-		"pool": "3풀",
-		"disc": "출현: 상대가 이번 턴에 낸 모든 카드를 내 진영에 복제합니다.",
-		"urls": [
-			{
-				"url": "Leader.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Leader_01.webp",
-				"rare": "Unknown",
-				"category": "Pixel"
-			},
-			{
-				"url": "Leader_02.webp",
-				"rare": "Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Leader_03.webp",
-				"rare": "Super Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Leader_04.webp",
-				"rare": "Rare Pool",
-				"category": "Variant"
-			},
-			{
-				"url": "Leader_05.webp",
-				"rare": "Unknown",
-				"category": "Luca Claretti"
-			}
-		]
-	},
-	{
 		"eng": "LivingTribunal",
 		"name": "리빙 트리뷰널",
 		"cost": "6",
@@ -7560,7 +7520,7 @@
 		"cost": "6",
 		"power": "6",
 		"pool": "3풀",
-		"disc": "출현: 손에서 버린 모든 카드를 각각 임의의 구역에 배치합니다.",
+		"disc": "출현: 손에서 버린 모든 카드가 각각 임의의 구역에서 부활합니다.",
 		"urls": [
 			{
 				"url": "Hela.webp",
@@ -7581,6 +7541,46 @@
 				"url": "Hela_03.webp",
 				"rare": "Rare Pool",
 				"category": "Chibi"
+			}
+		]
+	},
+	{
+		"eng": "Leader",
+		"name": "리더",
+		"cost": "6",
+		"power": "7",
+		"pool": "3풀",
+		"disc": "출현: 상대가 이 구역 오른쪽에 낸 모든 카드를 내 진영에 복제합니다.",
+		"urls": [
+			{
+				"url": "Leader.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Leader_01.webp",
+				"rare": "Unknown",
+				"category": "Pixel"
+			},
+			{
+				"url": "Leader_02.webp",
+				"rare": "Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "Leader_03.webp",
+				"rare": "Super Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "Leader_04.webp",
+				"rare": "Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "Leader_05.webp",
+				"rare": "Unknown",
+				"category": "Luca Claretti"
 			}
 		]
 	},
@@ -7919,7 +7919,7 @@
 		"name": "헬리캐리어",
 		"cost": "6",
 		"power": "10",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "이 카드를 손에서 버리면, 임의의 카드 3장으로 대체됩니다.",
 		"urls": [
 			{
@@ -7944,7 +7944,7 @@
 		"name": "쉬헐크",
 		"cost": "6",
 		"power": "10",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "지난 턴에 소비하지 않은 에너지당 비용이 1 감소합니다.",
 		"urls": [
 			{

@@ -138,12 +138,6 @@
 		"url": "LukesBar.webp"
 	},
 	{
-		"title": "리케티 다리",
-		"eng": "Rickety Bridge",
-		"disc": "턴이 끝날 때마다 이 구역에 한 장 이상 있으면 이 구역에 있는 모든 카드를 모두 파괴합니다.",
-		"url": "RicketyBridge.webp"
-	},
-	{
 		"title": "림보",
 		"eng": "Limbo",
 		"disc": "이 게임에는 7번째 턴이 있습니다.",
@@ -228,9 +222,15 @@
 		"url": "CloningVats.webp"
 	},
 	{
+		"title": "부서지리 것 같은 다리",
+		"eng": "Rickety Bridge",
+		"disc": "턴이 끝날 때마다 이 구역에 카드가 두 개 이상 있다면 해당 구역에 있는 모든 카드가 파괴됩니다.",
+		"url": "RicketyBridge.webp"
+	},
+	{
 		"title": "붕괴된 광산",
 		"eng": "Collapsed Mine",
-		"disc": "이 구역을 바위로 가득 채웁니다. 턴을 넘겨서 내 바위를 파괴하세요.",
+		"disc": "이 구역을 바위로 채우세요. 턴을 건너뛰면 바위가 파괴됩니다.",
 		"url": "CollapsedMine.webp"
 	},
 	{
@@ -558,9 +558,9 @@
 		"url": "ProjectPegasus.webp"
 	},
 	{
-		"title": "플런더 성",
+		"title": "플런더 캐슬",
 		"eng": "Plunder Castle",
-		"disc": "비용 6의 카드만 여기에 낼 수 있습니다.",
+		"disc": "이 구역에는 비용 6의 카드만 낼 수 있습니다.",
 		"url": "PlunderCastle.webp"
 	},
 	{

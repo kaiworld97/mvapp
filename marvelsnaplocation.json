@@ -110,7 +110,7 @@
 	{
 		"title": "래프트",
 		"eng": "The Raft",
-		"disc": "이 구역을 먼저 채우는 플레이어는 비용이 6인 카드를 한 장 뽑습니다. 그 카드의 비용은 0입니다.",
+		"disc": "이 구역을 먼저 채우면 비용이 6인 카드가 탈출합니다. 그 카드의 비용은 0(이)가 됩니다",
 		"url": "Raft.webp"
 	},
 	{
@@ -336,6 +336,12 @@
 		"url": "NovaRoma.webp"
 	},
 	{
+		"title": "신성한 타임라인",
+		"eng": "The Sacred Timeline",
+		"disc": "이 구역을 먼저 채우면 맨 처음 자신의 손에 들어온 모든 카드의 복사본을 획득합니다.",
+		"url": "SacredTimeline.webp"
+	},
+	{
 		"title": "아스가르드",
 		"eng": "Asgard",
 		"disc": "4번째 턴이 끝나면 이 구역에서 이긴 플레이어가 카드를 2장 뽑습니다.",
@@ -358,6 +364,18 @@
 		"eng": "Attilan",
 		"disc": "3턴 후에 손에 있는 카드를 덱에 섞어 넣습니다. 카드를 3장 뽑습니다.",
 		"url": "Attilan.webp"
+	},
+	{
+		"title": "양자 영역",
+		"eng": "Quantum Realm",
+		"disc": "이 구역에 카드를 내면 해당 카드의 기본 파워가 2가 됩니다.",
+		"url": "QuantumRealm.webp"
+	},
+	{
+		"title": "양자 터널",
+		"eng": "Quantum Tunnel",
+		"disc": "이 구역에 카드 한 장을 내면, 해당 카드를 내 덱에 있는 카드 한 장과 교체합니다.",
+		"url": "QuantumTunnel.webp"
 	},
 	{
 		"title": "어벤저스 본부",
@@ -502,6 +520,12 @@
 		"eng": "Kamar-Taj",
 		"disc": "이 구역에서는 출현 효과가 두 번 발생합니다.",
 		"url": "KamarTaj.webp"
+	},
+	{
+		"title": "캠프 리하이",
+		"eng": "Camp Lehigh",
+		"disc": "각 플레이어의 손에 무작위 비용 3 카드 한 장을 추가합니다.",
+		"url": "CampLehigh.webp"
 	},
 	{
 		"title": "쿤룬",

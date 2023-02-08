@@ -116,6 +116,11 @@
 				"url": "Hood_05.webp",
 				"rare": "Unknown",
 				"category": "Noir"
+			},
+			{
+				"url": "Hood_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -184,8 +189,13 @@
 			},
 			{
 				"url": "Bast_02.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
+			},
+			{
+				"url": "Bast_05.webp",
+				"rare": "Unknown",
+				"category": "Fiona Hsieh"
 			}
 		]
 	},
@@ -235,7 +245,7 @@
 			{
 				"url": "Deadpool_08.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Skottie Young"
 			}
 		]
 	},
@@ -275,7 +285,7 @@
 			{
 				"url": "Elektra_06.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "R1c0"
 			},
 			{
 				"url": "Elektra_08.webp",
@@ -491,6 +501,11 @@
 				"url": "Agent13_05.webp",
 				"rare": "Super Rare Pool",
 				"category": "Luca Claretti"
+			},
+			{
+				"url": "Agent13_06.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -529,7 +544,7 @@
 			},
 			{
 				"url": "Angel_05.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Classic"
 			},
 			{
@@ -545,12 +560,17 @@
 		"cost": "1",
 		"power": "2",
 		"pool": "5풀",
-		"disc": "지속: 내 카드는 항상 늦게 뒤집어 집니다.(출현 능력이 마지막에 발동됩니다.)",
+		"disc": "지속: 본인의 카드가 항상 마지막에 공개됩니다.(카드의 출현 능력이 마지막에 발동합니다.)",
 		"urls": [
 			{
 				"url": "Ghost.webp",
 				"rare": "Default",
 				"category": "Base"
+			},
+			{
+				"url": "Ghost_03.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			},
 			{
 				"url": "Ghost_04.webp",
@@ -589,7 +609,7 @@
 			},
 			{
 				"url": "HumanTorch_04.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Kim Jacinto"
 			},
 			{
@@ -605,7 +625,7 @@
 			{
 				"url": "HumanTorch_07.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Hero"
 			}
 		]
 	},
@@ -651,6 +671,11 @@
 				"url": "Iceman_06.webp",
 				"rare": "Unknown",
 				"category": "Mech"
+			},
+			{
+				"url": "Iceman_07.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -695,6 +720,36 @@
 		]
 	},
 	{
+		"eng": "KittyPryde",
+		"name": "키티 프라이드",
+		"cost": "1",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "이 카드를 내 손으로 다시 가져오고 +1 파워를 얻을 수 있습니다.",
+		"urls": [
+			{
+				"url": "KittyPryde.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "KittyPryde_02.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "KittyPryde_03.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "KittyPryde_04.webp",
+				"rare": "Unknown",
+				"category": "Wedding"
+			}
+		]
+	},
+	{
 		"eng": "Korg",
 		"name": "코르그",
 		"cost": "1",
@@ -714,7 +769,7 @@
 			},
 			{
 				"url": "Korg_02.webp",
-				"rare": "Rare Pool",
+				"rare": "Rare Pool ",
 				"category": "Chibi"
 			},
 			{
@@ -729,7 +784,7 @@
 			},
 			{
 				"url": "Korg_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			}
 		]
@@ -749,18 +804,23 @@
 			},
 			{
 				"url": "MBaku_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "MBaku_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Kael"
 			},
 			{
 				"url": "MBaku_03.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Luchador"
+			},
+			{
+				"url": "MBaku_04.webp",
+				"rare": "Unknown",
+				"category": "Venomized"
 			}
 		]
 	},
@@ -836,6 +896,11 @@
 				"url": "MistyKnight_04.webp",
 				"rare": "Unknown",
 				"category": "Sports"
+			},
+			{
+				"url": "MistyKnight_05.webp",
+				"rare": "Unknown",
+				"category": "Noir"
 			}
 		]
 	},
@@ -854,7 +919,7 @@
 			},
 			{
 				"url": "Nightcrawler_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
@@ -913,9 +978,19 @@
 				"category": "Variant"
 			},
 			{
+				"url": "Quicksilver_04.webp",
+				"rare": "Unknown",
+				"category": "Venomized"
+			},
+			{
 				"url": "Quicksilver_06.webp",
 				"rare": "Unknown",
 				"category": "Dan Hipp"
+			},
+			{
+				"url": "Quicksilver_07.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			}
 		]
 	},
@@ -981,6 +1056,11 @@
 				"url": "RocketRaccoon_04.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "RocketRaccoon_06.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			}
 		]
 	},
@@ -1016,6 +1096,11 @@
 				"url": "Uatu_04.webp",
 				"rare": "Rare Pool",
 				"category": "Chibi"
+			},
+			{
+				"url": "Uatu_05.webp",
+				"rare": "Unknown",
+				"category": "Chewatu"
 			}
 		]
 	},
@@ -1051,6 +1136,11 @@
 				"url": "Yondu_04.webp",
 				"rare": "Rare Pool",
 				"category": "Dan Hipp"
+			},
+			{
+				"url": "Yondu_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -1084,7 +1174,7 @@
 			},
 			{
 				"url": "Blade_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Boy-Thing"
 			}
 		]
@@ -1214,7 +1304,7 @@
 			},
 			{
 				"url": "AdamWarlock_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
@@ -1234,7 +1324,7 @@
 			},
 			{
 				"url": "AdamWarlock_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			},
 			{
@@ -1280,7 +1370,7 @@
 			{
 				"url": "Angela_06.webp",
 				"rare": "Unknown",
-				"category": "Anime"
+				"category": "Hero"
 			}
 		]
 	},
@@ -1359,12 +1449,12 @@
 			},
 			{
 				"url": "BlackWidow_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Max Grecke"
 			},
 			{
 				"url": "BlackWidow_06.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Knullified"
 			}
 		]
@@ -1399,7 +1489,7 @@
 			},
 			{
 				"url": "BuckyBarnes_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Sidecar"
 			},
 			{
@@ -1494,7 +1584,7 @@
 			},
 			{
 				"url": "LukeCage_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
@@ -1556,6 +1646,11 @@
 				"url": "Psylocke_06.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "Psylocke_07.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
 			}
 		]
 	},
@@ -1639,7 +1734,7 @@
 			},
 			{
 				"url": "Beast_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			}
 		]
@@ -1675,7 +1770,7 @@
 			{
 				"url": "Cable_04.webp",
 				"rare": "Rare Pool",
-				"category": "Variant"
+				"category": " Variant"
 			},
 			{
 				"url": "Cable_06.webp",
@@ -1726,6 +1821,16 @@
 				"url": "Carnage_05.webp",
 				"rare": "Unknown",
 				"category": "Kim Jacinto"
+			},
+			{
+				"url": "Carnage_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Carnage_07.webp",
+				"rare": "Unknown",
+				"category": "Fiona Hsieh"
 			}
 		]
 	},
@@ -1764,13 +1869,13 @@
 			},
 			{
 				"url": "Daredevil_05.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Knullified"
 			},
 			{
 				"url": "Daredevil_06.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Watercolor"
 			}
 		]
 	},
@@ -1803,8 +1908,13 @@
 				"category": "Luca Claretti"
 			},
 			{
-				"url": "Goose_05.webp",
+				"url": "Goose_04.webp",
 				"rare": "Unknown",
+				"category": "Venomized"
+			},
+			{
+				"url": "Goose_05.webp",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			}
 		]
@@ -1890,7 +2000,7 @@
 			{
 				"url": "InvisibleWoman_06.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Hero"
 			}
 		]
 	},
@@ -1931,6 +2041,26 @@
 				"url": "Kraven_06.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			}
+		]
+	},
+	{
+		"eng": "MasterMold",
+		"name": "마스터 몰드",
+		"cost": "2",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "출현: 상대 손패에 센티넬 2장을 추가합니다.",
+		"urls": [
+			{
+				"url": "MasterMold.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "MasterMold_02.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -2004,7 +2134,7 @@
 			},
 			{
 				"url": "Mojo_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Giulio Rincione"
 			}
 		]
@@ -2051,6 +2181,11 @@
 				"url": "MrSinister_07.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "MrSinister_08.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -2125,7 +2260,7 @@
 			{
 				"url": "Scorpion_04.webp",
 				"rare": "Rare Pool",
-				"category": "Variant"
+				"category": " Variant"
 			}
 		]
 	},
@@ -2166,6 +2301,11 @@
 				"url": "Starlord_05.webp",
 				"rare": "Unknown",
 				"category": "Chibi"
+			},
+			{
+				"url": "Starlord_07.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -2211,6 +2351,16 @@
 				"url": "Wolverine_06.webp",
 				"rare": "Unknown",
 				"category": "Dan Hipp"
+			},
+			{
+				"url": "Wolverine_09.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "Wolverine_10.webp",
+				"rare": "Unknown",
+				"category": "Anime"
 			}
 		]
 	},
@@ -2241,6 +2391,11 @@
 				"url": "Armor_03.webp",
 				"rare": "Unknown",
 				"category": "Summer Vacation"
+			},
+			{
+				"url": "Armor_04.webp",
+				"rare": "Unknown",
+				"category": "Steampunk"
 			},
 			{
 				"url": "Armor_05.webp",
@@ -2404,7 +2559,7 @@
 			},
 			{
 				"url": "Falcon_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "3099"
 			},
 			{
@@ -2544,7 +2699,7 @@
 			},
 			{
 				"url": "ScarletWitch_02.webp",
-				"rare": "Super Rare Pool",
+				"rare": "Super Rare Pool ",
 				"category": "Variant"
 			},
 			{
@@ -2721,6 +2876,11 @@
 				"url": "Viper_03.webp",
 				"rare": "Super Rare Pool",
 				"category": "Steampunk"
+			},
+			{
+				"url": "Viper_04.webp",
+				"rare": "Unknown",
+				"category": "Venomized"
 			},
 			{
 				"url": "Viper_05.webp",
@@ -2999,7 +3159,7 @@
 			},
 			{
 				"url": "Ironheart_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Jeff Dekal"
 			},
 			{
@@ -3069,7 +3229,7 @@
 			},
 			{
 				"url": "Mystique_02.webp",
-				"rare": "Rare Pool",
+				"rare": "Rare Pool ",
 				"category": "Variant"
 			},
 			{
@@ -3119,7 +3279,7 @@
 			},
 			{
 				"url": "SilverSurfer_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
@@ -3191,6 +3351,11 @@
 				"url": "Bishop_07.webp",
 				"rare": "Unknown",
 				"category": "Jim Lee"
+			},
+			{
+				"url": "Bishop_08.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -3225,7 +3390,12 @@
 			{
 				"url": "Gambit_06.webp",
 				"rare": "Unknown",
-				"category": "90s"
+				"category": "Hero"
+			},
+			{
+				"url": "Gambit_07.webp",
+				"rare": "Unknown",
+				"category": "Casual"
 			}
 		]
 	},
@@ -3284,7 +3454,7 @@
 			},
 			{
 				"url": "Rogue_02.webp",
-				"rare": "Unknown",
+				"rare": "Ultimate",
 				"category": "Savage Land"
 			},
 			{
@@ -3299,7 +3469,7 @@
 			},
 			{
 				"url": "Rogue_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -3310,7 +3480,7 @@
 			{
 				"url": "Rogue_07.webp",
 				"rare": "Unknown",
-				"category": "90s"
+				"category": "Hero"
 			}
 		]
 	},
@@ -3394,7 +3564,7 @@
 			},
 			{
 				"url": "Wolfsbane_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			},
 			{
@@ -3481,6 +3651,11 @@
 				"url": "Electro_05.webp",
 				"rare": "Rare Pool",
 				"category": "Chibi"
+			},
+			{
+				"url": "Electro_06.webp",
+				"rare": "Unknown",
+				"category": "Kim Jacinto"
 			}
 		]
 	},
@@ -3555,7 +3730,7 @@
 			{
 				"url": "MrFantastic_07.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Hero"
 			}
 		]
 	},
@@ -3595,6 +3770,26 @@
 		]
 	},
 	{
+		"eng": "NegasonicTeenageWarhead",
+		"name": "네가소닉 틴에이지 워헤드",
+		"cost": "3",
+		"power": "2",
+		"pool": "5풀",
+		"disc": "이 구역에 카드를 내면, 이 카드와 낸 카드를 파괴합니다.",
+		"urls": [
+			{
+				"url": "NegasonicTeenageWarhead.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "NegasonicTeenageWarhead_02.webp",
+				"rare": "Unknown",
+				"category": "New X-Men"
+			}
+		]
+	},
+	{
 		"eng": "Punisher",
 		"name": "퍼니셔",
 		"cost": "3",
@@ -3621,6 +3816,11 @@
 				"url": "Punisher_03.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "Punisher_04.webp",
+				"rare": "Unknown",
+				"category": "3099"
 			},
 			{
 				"url": "Punisher_05.webp",
@@ -3664,7 +3864,7 @@
 			},
 			{
 				"url": "Storm_04.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -3679,8 +3879,13 @@
 			},
 			{
 				"url": "Storm_08.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Knullified"
+			},
+			{
+				"url": "Storm_09.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			},
 			{
 				"url": "Storm_10.webp",
@@ -3764,7 +3969,7 @@
 			},
 			{
 				"url": "CaptainAmerica_07.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Wakandan Shield"
 			},
 			{
@@ -3941,6 +4146,11 @@
 				"url": "Juggernaut_04.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "Juggernaut_07.webp",
+				"rare": "Unknown",
+				"category": "Fantasy"
 			}
 		]
 	},
@@ -3964,7 +4174,7 @@
 			},
 			{
 				"url": "Killmonger_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Kael"
 			},
 			{
@@ -4018,6 +4228,11 @@
 				"category": "Baby"
 			},
 			{
+				"url": "MoonKnight_06.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
+			},
+			{
 				"url": "MoonKnight_07.webp",
 				"rare": "Unknown",
 				"category": "Variant"
@@ -4054,7 +4269,7 @@
 			},
 			{
 				"url": "Rhino_04.webp",
-				"rare": "Unknown",
+				"rare": "Unknown ",
 				"category": "Dan Hipp"
 			},
 			{
@@ -4079,7 +4294,7 @@
 			},
 			{
 				"url": "Sauron_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "3099"
 			}
 		]
@@ -4161,6 +4376,11 @@
 				"url": "Wave_05.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "Wave_06.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			}
 		]
 	},
@@ -4281,6 +4501,11 @@
 				"url": "Groot_04.webp",
 				"rare": "Super Rare Pool",
 				"category": "Variant"
+			},
+			{
+				"url": "Groot_05.webp",
+				"rare": "Unknown",
+				"category": "Baby"
 			}
 		]
 	},
@@ -4304,7 +4529,7 @@
 			},
 			{
 				"url": "Hulkbuster_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Wakanda Buster"
 			},
 			{
@@ -4424,7 +4649,7 @@
 			},
 			{
 				"url": "Sabretooth_03.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "3099"
 			},
 			{
@@ -4481,6 +4706,11 @@
 				"url": "Thor_07.webp",
 				"rare": "Ultimate",
 				"category": "Knullified"
+			},
+			{
+				"url": "Thor_08.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -4601,6 +4831,11 @@
 				"url": "SwordMaster_05.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "SwordMaster_07.webp",
+				"rare": "Unknown",
+				"category": "Lunar New Year"
 			}
 		]
 	},
@@ -4789,12 +5024,12 @@
 			},
 			{
 				"url": "Darkhawk_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "Darkhawk_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -4804,8 +5039,13 @@
 			},
 			{
 				"url": "Darkhawk_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Flaviano"
+			},
+			{
+				"url": "Darkhawk_05.webp",
+				"rare": "Unknown",
+				"category": "Kim Jacinto"
 			},
 			{
 				"url": "Darkhawk_06.webp",
@@ -4861,6 +5101,11 @@
 				"url": "Jubilee_07.webp",
 				"rare": "Unknown",
 				"category": "Rian Gonzales"
+			},
+			{
+				"url": "Jubilee_08.webp",
+				"rare": "Unknown",
+				"category": "Lunar New Year"
 			}
 		]
 	},
@@ -4900,7 +5145,7 @@
 			{
 				"url": "Sandman_07.webp",
 				"rare": "Unknown",
-				"category": "Chibi"
+				"category": "Hero"
 			}
 		]
 	},
@@ -4924,8 +5169,13 @@
 			},
 			{
 				"url": "Shanna_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Savage Land"
+			},
+			{
+				"url": "Shanna_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -4944,22 +5194,22 @@
 			},
 			{
 				"url": "Shuri_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "Shuri_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Savage Land"
 			},
 			{
 				"url": "Shuri_03.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Baby"
 			},
 			{
 				"url": "Shuri_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -5146,6 +5396,11 @@
 				"url": "GhostRider_08.webp",
 				"rare": "Unknown",
 				"category": "Knullified"
+			},
+			{
+				"url": "GhostRider_09.webp",
+				"rare": "Unknown",
+				"category": "Peach Momoko"
 			}
 		]
 	},
@@ -5166,6 +5421,21 @@
 				"url": "ShadowKing_01.webp",
 				"rare": "Unknown",
 				"category": "Pixel"
+			},
+			{
+				"url": "ShadowKing_02.webp",
+				"rare": "Unknown",
+				"category": "Luca Claretti"
+			},
+			{
+				"url": "ShadowKing_03.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "ShadowKing_04.webp",
+				"rare": "Unknown",
+				"category": "Revealed"
 			}
 		]
 	},
@@ -5200,6 +5470,11 @@
 			{
 				"url": "ShangChi_04.webp",
 				"rare": "Rare Pool",
+				"category": "Variant"
+			},
+			{
+				"url": "ShangChi_05.webp",
+				"rare": "Unknown",
 				"category": "Variant"
 			},
 			{
@@ -5270,7 +5545,7 @@
 			{
 				"url": "SpiderMan_10.webp",
 				"rare": "Unknown",
-				"category": "Chibi"
+				"category": "Hero"
 			}
 		]
 	},
@@ -5324,7 +5599,7 @@
 			},
 			{
 				"url": "Dazzler_02.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -5374,7 +5649,7 @@
 			},
 			{
 				"url": "Enchantress_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Alex Horley"
 			}
 		]
@@ -5564,7 +5839,7 @@
 			},
 			{
 				"url": "StrongGuy_04.webp",
-				"rare": "Unknown",
+				"rare": "Unknown ",
 				"category": "Luchador"
 			}
 		]
@@ -5644,6 +5919,31 @@
 			},
 			{
 				"url": "MilesMorales_07.webp",
+				"rare": "Unknown",
+				"category": "Variant"
+			},
+			{
+				"url": "MilesMorales_09.webp",
+				"rare": "Unknown",
+				"category": "Penny Arcade"
+			},
+			{
+				"url": "MilesMorales_10.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
+			},
+			{
+				"url": "MilesMorales_11.webp",
+				"rare": "Unknown",
+				"category": "Baby"
+			},
+			{
+				"url": "MilesMorales_12.webp",
+				"rare": "Unknown",
+				"category": "Knullified"
+			},
+			{
+				"url": "MilesMorales_13.webp",
 				"rare": "Unknown",
 				"category": "Variant"
 			}
@@ -5756,6 +6056,11 @@
 				"url": "Warpath_04.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "Warpath_06.webp",
+				"rare": "Unknown",
+				"category": "Jim Lee"
 			}
 		]
 	},
@@ -5883,6 +6188,11 @@
 				"category": "Variant"
 			},
 			{
+				"url": "TheThing_07.webp",
+				"rare": "Unknown",
+				"category": "Ryan Brown"
+			},
+			{
 				"url": "TheThing_08.webp",
 				"rare": "Unknown",
 				"category": "Knullified"
@@ -5890,7 +6200,7 @@
 			{
 				"url": "TheThing_09.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Hero"
 			}
 		]
 	},
@@ -5924,7 +6234,7 @@
 			},
 			{
 				"url": "WhiteQueen_04.webp",
-				"rare": "Unknown",
+				"rare": "Ultimate",
 				"category": "Venomized"
 			},
 			{
@@ -5994,12 +6304,12 @@
 			},
 			{
 				"url": "Sentry_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "Sentry_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Variant"
 			},
 			{
@@ -6009,8 +6319,8 @@
 			},
 			{
 				"url": "Sentry_04.webp",
-				"rare": "Unknown",
-				"category": "Variant"
+				"rare": "Super Rare Pool",
+				"category": "Void Merged"
 			},
 			{
 				"url": "Sentry_05.webp",
@@ -6034,17 +6344,17 @@
 			},
 			{
 				"url": "Attuma_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "Attuma_02.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			},
 			{
 				"url": "Attuma_03.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Wakanda Forever"
 			}
 		]
@@ -6076,6 +6386,11 @@
 				"url": "TyphoidMary_03.webp",
 				"rare": "Rare Pool",
 				"category": "Venomized"
+			},
+			{
+				"url": "TyphoidMary_04.webp",
+				"rare": "Unknown",
+				"category": "Fantasy"
 			},
 			{
 				"url": "TyphoidMary_05.webp",
@@ -6169,8 +6484,13 @@
 			},
 			{
 				"url": "IronMan_07.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Vibranium Armor"
+			},
+			{
+				"url": "IronMan_08.webp",
+				"rare": "Unknown",
+				"category": "Chibi"
 			},
 			{
 				"url": "IronMan_09.webp",
@@ -6190,7 +6510,7 @@
 		"cost": "5",
 		"power": "0",
 		"pool": "5풀",
-		"disc": "출현 : 상대의 행동을 확인하고, 턴을 재시작합니다. (캉을 제외하고)",
+		"disc": "출현 : 상대의 플레이 확인 후, 턴을 다시 시작합니다. (캉은 사라집니다.)",
 		"urls": [
 			{
 				"url": "Kang.webp",
@@ -6211,6 +6531,11 @@
 				"url": "Kang_03.webp",
 				"rare": "Unknown",
 				"category": "Band"
+			},
+			{
+				"url": "Kang_04.webp",
+				"rare": "Unknown",
+				"category": "Rama-Tut"
 			},
 			{
 				"url": "Kang_05.webp",
@@ -6404,7 +6729,7 @@
 			},
 			{
 				"url": "Leech_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			}
 		]
@@ -6491,6 +6816,11 @@
 				"url": "ProfessorX_04.webp",
 				"rare": "Unknown",
 				"category": "Noir"
+			},
+			{
+				"url": "ProfessorX_06.webp",
+				"rare": "Unknown",
+				"category": "Jim Lee"
 			}
 		]
 	},
@@ -6589,27 +6919,27 @@
 			},
 			{
 				"url": "BlackPanther_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "BlackPanther_02.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Baby"
 			},
 			{
 				"url": "BlackPanther_03.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Variant"
 			},
 			{
 				"url": "BlackPanther_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			},
 			{
 				"url": "BlackPanther_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Max Grecke"
 			},
 			{
@@ -6654,7 +6984,7 @@
 			},
 			{
 				"url": "Klaw_03.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Flaviano"
 			},
 			{
@@ -6710,7 +7040,32 @@
 			{
 				"url": "Sera_06.webp",
 				"rare": "Unknown",
-				"category": "Anime"
+				"category": "Hero"
+			}
+		]
+	},
+	{
+		"eng": "Nimrod",
+		"name": "님로드",
+		"cost": "5",
+		"power": "5",
+		"pool": "5풀",
+		"disc": "이 카드가 파괴되면, 이 카드를 내 다른 구역에 복사합니다.",
+		"urls": [
+			{
+				"url": "Nimrod.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Nimrod_02.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Nimrod_03.webp",
+				"rare": "Unknown",
+				"category": "Kim Jacinto"
 			}
 		]
 	},
@@ -6840,12 +7195,22 @@
 			{
 				"url": "Gamora_05.webp",
 				"rare": "Ultimate",
-				"category": "Deadliest Woman"
+				"category": "Variant"
 			},
 			{
 				"url": "Gamora_06.webp",
 				"rare": "Unknown",
 				"category": "Chibi"
+			},
+			{
+				"url": "Gamora_07.webp",
+				"rare": "Unknown",
+				"category": "Anime"
+			},
+			{
+				"url": "Gamora_09.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -6879,7 +7244,7 @@
 			},
 			{
 				"url": "NickFury_04.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			},
 			{
@@ -6934,7 +7299,7 @@
 			},
 			{
 				"url": "SpiderWoman_06.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Knullified"
 			}
 		]
@@ -6945,12 +7310,17 @@
 		"cost": "5",
 		"power": "7",
 		"pool": "5풀",
-		"disc": "이번 게임에서 상대가 카드를 버렸다면 이 카드의 비용이 1이(가) 됩니다.",
+		"disc": "이번 게임에서 상대가 손에서 카드를 버린 경우, 비용이 1이 됩니다.",
 		"urls": [
 			{
 				"url": "Stature.webp",
 				"rare": "Default",
 				"category": "Base"
+			},
+			{
+				"url": "Stature_04.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -6990,11 +7360,11 @@
 			{
 				"url": "Vision_05.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Vision Returns"
 			},
 			{
 				"url": "Vision_06.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Max Grecke"
 			}
 		]
@@ -7069,7 +7439,7 @@
 			},
 			{
 				"url": "JaneFoster_02.webp",
-				"rare": "Rare Pool",
+				"rare": "Rare Pool ",
 				"category": "Baby"
 			},
 			{
@@ -7096,11 +7466,11 @@
 	},
 	{
 		"eng": "Modok",
-		"name": "모독",
+		"name": "M.O.D.O.K.",
 		"cost": "5",
 		"power": "8",
 		"pool": "5풀",
-		"disc": "출현: 내 손에서 카드 한 장을 버립니다.",
+		"disc": "출현: 손에 든 카드를 모두 버립니다.",
 		"urls": [
 			{
 				"url": "Modok.webp",
@@ -7115,7 +7485,7 @@
 			{
 				"url": "Modok_02.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Assassin"
 			},
 			{
 				"url": "Modok_03.webp",
@@ -7126,6 +7496,11 @@
 				"url": "Modok_04.webp",
 				"rare": "Unknown",
 				"category": "Giulio Rincione"
+			},
+			{
+				"url": "Modok_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -7265,7 +7640,7 @@
 			{
 				"url": "ArnimZola_02.webp",
 				"rare": "Rare Pool",
-				"category": "Ultimate"
+				"category": "Earth-1610"
 			},
 			{
 				"url": "ArnimZola_03.webp",
@@ -7276,6 +7651,11 @@
 				"url": "ArnimZola_04.webp",
 				"rare": "Rare Pool",
 				"category": "Chibi"
+			},
+			{
+				"url": "ArnimZola_06.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -7294,7 +7674,7 @@
 			},
 			{
 				"url": "Knull_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
@@ -7304,7 +7684,7 @@
 			},
 			{
 				"url": "Knull_03.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Peach Momoko"
 			},
 			{
@@ -7334,7 +7714,7 @@
 			},
 			{
 				"url": "Knull_09.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Kim Jacinto"
 			}
 		]
@@ -7374,7 +7754,7 @@
 			},
 			{
 				"url": "Galactus_05.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Flaviano"
 			},
 			{
@@ -7421,6 +7801,11 @@
 				"url": "LivingTribunal_04.webp",
 				"rare": "Unknown",
 				"category": "Variant"
+			},
+			{
+				"url": "LivingTribunal_05.webp",
+				"rare": "Unknown",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -7465,7 +7850,7 @@
 			{
 				"url": "DrDoom_07.webp",
 				"rare": "Unknown",
-				"category": "Variant"
+				"category": "Hero"
 			}
 		]
 	},
@@ -7541,6 +7926,16 @@
 				"url": "Hela_03.webp",
 				"rare": "Rare Pool",
 				"category": "Chibi"
+			},
+			{
+				"url": "Hela_04.webp",
+				"rare": "Unknown",
+				"category": "Gardening"
+			},
+			{
+				"url": "Hela_06.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -7819,7 +8214,7 @@
 			},
 			{
 				"url": "Ultron_04.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Flaviano"
 			},
 			{
@@ -7871,6 +8266,11 @@
 				"url": "AmericaChavez_05.webp",
 				"rare": "Unknown",
 				"category": "Rian Gonzales"
+			},
+			{
+				"url": "AmericaChavez_07.webp",
+				"rare": "Unknown",
+				"category": "Variant"
 			}
 		]
 	},
@@ -7889,12 +8289,12 @@
 			},
 			{
 				"url": "Orka_01.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Pixel"
 			},
 			{
 				"url": "Orka_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Classic"
 			},
 			{
@@ -7959,7 +8359,7 @@
 			},
 			{
 				"url": "SheHulk_02.webp",
-				"rare": "Unknown",
+				"rare": "Super Rare Pool",
 				"category": "Savage Land"
 			},
 			{
@@ -7998,6 +8398,11 @@
 				"category": "Pixel"
 			},
 			{
+				"url": "Hulk_02.webp",
+				"rare": "Unknown",
+				"category": "Weapon H"
+			},
+			{
 				"url": "Hulk_03.webp",
 				"rare": "Unknown",
 				"category": "Max Grecke"
@@ -8021,6 +8426,11 @@
 				"url": "Hulk_07.webp",
 				"rare": "Unknown",
 				"category": "Taco"
+			},
+			{
+				"url": "Hulk_09.webp",
+				"rare": "Unknown",
+				"category": "Alex Horley"
 			}
 		]
 	},
@@ -8144,7 +8554,7 @@
 			},
 			{
 				"url": "Giganto_05.webp",
-				"rare": "Unknown",
+				"rare": "Rare Pool",
 				"category": "Dan Hipp"
 			}
 		]

@@ -2056,11 +2056,6 @@
 				"url": "MasterMold.webp",
 				"rare": "Default",
 				"category": "Base"
-			},
-			{
-				"url": "MasterMold_02.webp",
-				"rare": "Unknown",
-				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -5473,11 +5468,6 @@
 				"category": "Variant"
 			},
 			{
-				"url": "ShangChi_05.webp",
-				"rare": "Unknown",
-				"category": "Variant"
-			},
-			{
 				"url": "ShangChi_06.webp",
 				"rare": "Unknown",
 				"category": "Peach Momoko"
@@ -8396,11 +8386,6 @@
 				"url": "Hulk_01.webp",
 				"rare": "Rare Pool",
 				"category": "Pixel"
-			},
-			{
-				"url": "Hulk_02.webp",
-				"rare": "Unknown",
-				"category": "Weapon H"
 			},
 			{
 				"url": "Hulk_03.webp",

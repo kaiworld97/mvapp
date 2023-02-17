@@ -294,6 +294,12 @@
 		"url": "Sokovia.webp"
 	},
 	{
+		"title": "소행성 M",
+		"eng": "Asteroid M",
+		"disc": "비용이 3이나 4인 카드를 내면, 그 카드를 이 구역으로 이동합니다.",
+		"url": "AsteroidM.webp"
+	},
+	{
 		"title": "슈리의 연구실",
 		"eng": "Shuri's Lab",
 		"disc": "이 구역에 카드를 내면 파워가 두 배로 증가합니다.",
@@ -406,6 +412,12 @@
 		"eng": "Oscorp Tower",
 		"disc": "3번째 턴이 끝나면 이 구역의 모든 카드가 편을 바꿉니다.",
 		"url": "OscorpTower.webp"
+	},
+	{
+		"title": "오키스 포지",
+		"eng": "Orchis Forge",
+		"disc": "이 구역에 카드를 내면, 센티넬 카드 한 장을 손에 추가합니다.",
+		"url": "OrchisForge.webp"
 	},
 	{
 		"title": "온슬로트의 요새",
@@ -532,6 +544,12 @@
 		"eng": "K'un-Lun",
 		"disc": "임의의 카드가 이 구역으로 이동해 오면 +2 파워를 부여합니다.",
 		"url": "KunLun.webp"
+	},
+	{
+		"title": "크라코아",
+		"eng": "Krakoa",
+		"disc": "6번째 턴에, 대신해서 카드를 냅니다.",
+		"url": "krakoa.webp"
 	},
 	{
 		"title": "크림슨 코스모스",

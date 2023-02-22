@@ -133,5 +133,20 @@
     "title": "올해의 게임",
     "disc": "22년 올해의 게임 선정 보상",
     "url": "GOTY.png"
+  },
+  {
+    "title": "정복자 캉",
+    "disc": "23년 1월 시즌 패스",
+    "url": "Kang.png"
+  },
+  {
+    "title": "인피니트 정복자 캉",
+    "disc": "23년 1월 인피니트 보상",
+    "url": "InfiniteKang.png"
+  },
+  {
+    "title": "앤트맨",
+    "disc": "23년 1월 시즌 패스",
+    "url": "Antman.png"
   }
 ]

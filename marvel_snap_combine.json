@@ -770,7 +770,7 @@
 		"cost": "1",
 		"power": "2",
 		"pool": "미공개",
-		"disc": "이 카드를 내 손으로 다시 가져오고 +1 파워를 얻을 수 있습니다.",
+		"disc": "이 카드를 손으로 다시 가져오면 +2 파워를 부여합니다.",
 		"urls": [
 			{
 				"url": "KittyPryde.webp",
@@ -1135,7 +1135,7 @@
 		"cost": "1",
 		"power": "2",
 		"pool": "미공개",
-		"disc": "이 카드가 내 손에 있으면, 매 턴마다 호크나 베어로 바뀝니다.",
+		"disc": "손에 있는 동안 이 카드는 매턴마다 매나 곰으로 변합니다.",
 		"urls": [
 			{
 				"url": "Snowguard.webp",
@@ -1471,11 +1471,11 @@
 	},
 	{
 		"eng": "HitMonkey",
-		"name": "히트 멍키",
+		"name": "히트 몽키",
 		"cost": "2",
 		"power": "0",
 		"pool": "미공개",
-		"disc": "출현: 이번 턴에 내가 낸 다른 카드 하나 당 +2 파워를 얻습니다.",
+		"disc": "출현: 이 턴에 내가 플레이한 다른 카드 한 장당 +2 파워를 부여합니다.",
 		"urls": [
 			{
 				"url": "HitMonkey.webp",
@@ -2205,7 +2205,7 @@
 		"cost": "2",
 		"power": "2",
 		"pool": "미공개",
-		"disc": "출현: 상대 손패에 센티넬 2장을 추가합니다.",
+		"disc": "출현: 상대의 손에 센티널을(를) 2장 추가합니다.",
 		"urls": [
 			{
 				"url": "MasterMold.webp",
@@ -2780,12 +2780,27 @@
 		"cost": "2",
 		"power": "3",
 		"pool": "미공개",
-		"disc": "한 번 이동할 수 있습니다. 이 카드를 내거나 이동할 때 어떤 제약도 받지 않습니다.",
+		"disc": "이 카드는 한 번 이동할 수 있습니다. 어떤 구역으로 이동해도 이 카드를 막을 수 있는 것은 없습니다.",
 		"urls": [
 			{
 				"url": "JeffTheBabyLandShark.webp",
 				"rare": "Default",
 				"category": "Base"
+			},
+			{
+				"url": "JeffTheBabyLandShark_02.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "JeffTheBabyLandShark_03.webp",
+				"rare": "Unreleased",
+				"category": "Chibi"
+			},
+			{
+				"url": "JeffTheBabyLandShark_04.webp",
+				"rare": "Unreleased",
+				"category": "variant"
 			}
 		]
 	},
@@ -3980,7 +3995,7 @@
 		"cost": "3",
 		"power": "2",
 		"pool": "미공개",
-		"disc": "이 구역에 카드를 내면, 이 카드와 낸 카드를 파괴합니다.",
+		"disc": "누구든 이 구역에 카드를 내면, 해당 카드와 이 카드 모두 파괴합니다.",
 		"urls": [
 			{
 				"url": "NegasonicTeenageWarhead.webp",
@@ -6290,7 +6305,7 @@
 		"cost": "4",
 		"power": "5",
 		"pool": "미공개",
-		"disc": "출현: 이 구역에 상대 카드 한 장을 다른 구역으로 이동시킵니다.",
+		"disc": "출현: 여기 있는 적 카드 하나를 다른 구역으로 옮깁니다.",
 		"urls": [
 			{
 				"url": "Stegron.webp",
@@ -7400,7 +7415,7 @@
 		"cost": "5",
 		"power": "5",
 		"pool": "미공개",
-		"disc": "이 카드가 파괴되면, 이 카드를 내 다른 구역에 복사합니다.",
+		"disc": "이 카드가 파괴되면 다른 구역에 복사본을 추가합니다.",
 		"urls": [
 			{
 				"url": "Nimrod.webp",
@@ -8185,7 +8200,7 @@
 		"cost": "6",
 		"power": "4",
 		"pool": "미공개",
-		"disc": "게임이 끝날 때, 내 전체 파워를 모든 구역에 균등하게 분배합니다.",
+		"disc": "게임 마지막에 내 전체 파워를 구역별로 균등하게 분배합니다.",
 		"urls": [
 			{
 				"url": "LivingTribunal.webp",

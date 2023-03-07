@@ -294,12 +294,6 @@
 		"url": "Sokovia.webp"
 	},
 	{
-		"title": "소행성 M",
-		"eng": "Asteroid M",
-		"disc": "비용이 3이나 4인 카드를 내면, 그 카드를 이 구역으로 이동합니다.",
-		"url": "AsteroidM.webp"
-	},
-	{
 		"title": "슈리의 연구실",
 		"eng": "Shuri's Lab",
 		"disc": "이 구역에 카드를 내면 파워가 두 배로 증가합니다.",
@@ -396,6 +390,12 @@
 		"url": "Ego.webp"
 	},
 	{
+		"title": "에스테로이드 M",
+		"eng": "Asteroid M",
+		"disc": "기본 비용이 3 또는 4인 카드를 내면 이 구역으로 이동합니다.",
+		"url": "AsteroidM.webp"
+	},
+	{
 		"title": "엑스 맨션",
 		"eng": "X-Mansion",
 		"disc": "3번째 턴이 끝나면 이 구역에 무작위 카드를 각 플레이어에게 추가합니다.",
@@ -416,7 +416,7 @@
 	{
 		"title": "오키스 포지",
 		"eng": "Orchis Forge",
-		"disc": "이 구역에 카드를 내면, 센티넬 카드 한 장을 손에 추가합니다.",
+		"disc": "이 구역에 카드를 낼 때마다, 내 손에 센티널을 한 장 추가합니다.",
 		"url": "OrchisForge.webp"
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"title": "크라코아",
 		"eng": "Krakoa",
-		"disc": "6번째 턴에, 대신해서 카드를 냅니다.",
+		"disc": "5턴에 양측 플레이어 대신 게임을 진행합니다.",
 		"url": "Krakoa.webp"
 	},
 	{

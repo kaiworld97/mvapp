@@ -769,7 +769,7 @@
 		"name": "키티 프라이드",
 		"cost": "1",
 		"power": "2",
-		"pool": "미공개",
+		"pool": "5풀",
 		"disc": "이 카드를 손으로 다시 가져오면 +2 파워를 부여합니다.",
 		"urls": [
 			{
@@ -2204,8 +2204,8 @@
 		"name": "마스터 몰드",
 		"cost": "2",
 		"power": "2",
-		"pool": "미공개",
-		"disc": "출현: 상대의 손에 센티널을(를) 2장 추가합니다.",
+		"pool": "5풀",
+		"disc": "출현: 상대의 손에 센티널을 2장 추가합니다.",
 		"urls": [
 			{
 				"url": "MasterMold.webp",
@@ -3990,26 +3990,6 @@
 		]
 	},
 	{
-		"eng": "NegasonicTeenageWarhead",
-		"name": "네가소닉 틴에이지 워헤드",
-		"cost": "3",
-		"power": "2",
-		"pool": "미공개",
-		"disc": "누구든 이 구역에 카드를 내면, 해당 카드와 이 카드 모두 파괴합니다.",
-		"urls": [
-			{
-				"url": "NegasonicTeenageWarhead.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "NegasonicTeenageWarhead_02.webp",
-				"rare": "Unreleased",
-				"category": "New X-Men"
-			}
-		]
-	},
-	{
 		"eng": "Punisher",
 		"name": "퍼니셔",
 		"cost": "3",
@@ -4906,6 +4886,26 @@
 				"url": "LadySif_07.webp",
 				"rare": "Unreleased",
 				"category": "Venomized"
+			}
+		]
+	},
+	{
+		"eng": "NegasonicTeenageWarhead",
+		"name": "네가소닉 틴에이지 워헤드",
+		"cost": "3",
+		"power": "4",
+		"pool": "5풀",
+		"disc": "누구든 이 구역에 카드를 내면, 해당 카드와 이 카드 모두 파괴합니다.",
+		"urls": [
+			{
+				"url": "NegasonicTeenageWarhead.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "NegasonicTeenageWarhead_02.webp",
+				"rare": "Unreleased",
+				"category": "New X-Men"
 			}
 		]
 	},
@@ -7414,7 +7414,7 @@
 		"name": "님로드",
 		"cost": "5",
 		"power": "5",
-		"pool": "미공개",
+		"pool": "5풀",
 		"disc": "이 카드가 파괴되면 다른 구역에 복사본을 추가합니다.",
 		"urls": [
 			{

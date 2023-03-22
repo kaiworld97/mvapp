@@ -124,7 +124,7 @@
 		"eng": "Space Stone",
 		"cost": "1",
 		"power": "1",
-		"disc": "출현: 다음 턴에 이 구역의 카드 한 장을 이동할 수 있습니다. 카드 한 장을 뽑습니다.",
+		"disc": "출현: 다음 턴에 카드 한 장을 이 구역으로 이동할 수 있습니다. 카드 한 장을 뽑습니다.",
 		"url": "space-stone.webp"
 	},
 	{
@@ -148,7 +148,7 @@
 		"eng": "Widow's Bite",
 		"cost": "0",
 		"power": "0",
-		"disc": "이 카드가 손에 있으면 덱의 카드를 뽑을 수 없습니다.",
+		"disc": "이 카드가 손에 있으면 카드를 뽑을 수 없습니다.",
 		"url": "widows-bite.webp"
 	},
 	{
@@ -196,7 +196,7 @@
 		"eng": "The Void",
 		"cost": "4",
 		"power": "-8",
-		"disc": "안녕하세요...",
+		"disc": "또 만났군...",
 		"url": "the-void.webp"
 	},
 	{

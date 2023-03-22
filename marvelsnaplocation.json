@@ -264,6 +264,12 @@
 		"url": "SavageLand.webp"
 	},
 	{
+		"title": "샌드 바",
+		"eng": "The Sandbar",
+		"disc": "능력이 있는 카드는 이 구역에 낼 수 없습니다.",
+		"url": "TheSandbar.webp"
+	},
+	{
 		"title": "생텀 생토럼",
 		"eng": "Sanctum Sanctorum",
 		"disc": "이 구역에 카드를 낼 수 없습니다.",
@@ -408,16 +414,16 @@
 		"url": "Elysium.webp"
 	},
 	{
+		"title": "오르키스 포지",
+		"eng": "Orchis Forge",
+		"disc": "이 구역에 카드를 낼 때마다, 내 손에 센티널을 한 장 추가합니다.",
+		"url": "OrchisForge.webp"
+	},
+	{
 		"title": "오스코프 타워",
 		"eng": "Oscorp Tower",
 		"disc": "3번째 턴이 끝나면 이 구역의 모든 카드가 편을 바꿉니다.",
 		"url": "OscorpTower.webp"
-	},
-	{
-		"title": "오키스 포지",
-		"eng": "Orchis Forge",
-		"disc": "이 구역에 카드를 낼 때마다, 내 손에 센티널을 한 장 추가합니다.",
-		"url": "OrchisForge.webp"
 	},
 	{
 		"title": "온슬로트의 요새",
@@ -586,6 +592,12 @@
 		"eng": "Tinkerer's Workshop",
 		"disc": "이번 턴에 에너지를 1 더합니다.",
 		"url": "TinkerersWorkshop.webp"
+	},
+	{
+		"title": "펫 맨션",
+		"eng": "Pet Mansion",
+		"disc": "이번 턴에, 모든 카드를 여기 내야 합니다.",
+		"url": "PetAvengersMansion.webp"
 	},
 	{
 		"title": "폐허",

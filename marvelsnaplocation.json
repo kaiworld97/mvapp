@@ -264,7 +264,7 @@
 		"url": "SavageLand.webp"
 	},
 	{
-		"title": "샌드 바",
+		"title": "샌드바",
 		"eng": "The Sandbar",
 		"disc": "능력이 있는 카드는 이 구역에 낼 수 없습니다.",
 		"url": "TheSandbar.webp"
@@ -596,7 +596,7 @@
 	{
 		"title": "펫 맨션",
 		"eng": "Pet Mansion",
-		"disc": "이번 턴에, 모든 카드를 여기 내야 합니다.",
+		"disc": "이 턴에 모든 카드를 반드시 이 구역에 내야 합니다.",
 		"url": "PetAvengersMansion.webp"
 	},
 	{

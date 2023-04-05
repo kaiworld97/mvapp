@@ -200,19 +200,19 @@
 		"url": "the-void.webp"
 	},
 	{
-		"name": "스노우 가드 호크",
+		"name": "스노우 가드 (매)",
 		"eng": "Snowguard Hawk",
-		"cost": "3",
-		"power": "4",
+		"cost": "1",
+		"power": "2",
 		"disc": "출현: 다음 턴에 모든 구역의 효과를 무시합니다.",
 		"url": "snowguard-hawk.webp"
 	},
 	{
-		"name": "스노우 가드 베어",
+		"name": "스노우 가드 (곰)",
 		"eng": "Snowguard Bear",
-		"cost": "5",
-		"power": "3",
-		"disc": "출현: 이 구역의 효과를 발동시킵니다.",
+		"cost": "1",
+		"power": "2",
+		"disc": "출현: 이 구역의 효과를 발동합니다.",
 		"url": "snowguard-bear.webp"
 	}
 ]

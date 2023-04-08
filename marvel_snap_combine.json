@@ -125,6 +125,56 @@
 		]
 	},
 	{
+		"eng": "Sunspot",
+		"name": "선스팟",
+		"cost": "1",
+		"power": "0",
+		"pool": "2풀",
+		"disc": "매 턴이 끝날 때마다, 미사용 에너지당 +1 파워를 획득합니다.",
+		"urls": [
+			{
+				"url": "Sunspot.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Sunspot_01.webp",
+				"rare": "Unreleased",
+				"category": "Pixel"
+			},
+			{
+				"url": "Sunspot_02.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Sunspot_03.webp",
+				"rare": "bundle",
+				"category": "Winter Vacation"
+			},
+			{
+				"url": "Sunspot_04.webp",
+				"rare": "Unreleased",
+				"category": "Luca Claretti"
+			},
+			{
+				"url": "Sunspot_05.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Sunspot_06.webp",
+				"rare": "Unreleased",
+				"category": "Suit and Tie"
+			},
+			{
+				"url": "Sunspot_08.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			}
+		]
+	},
+	{
 		"eng": "AntMan",
 		"name": "앤트맨",
 		"cost": "1",
@@ -506,56 +556,6 @@
 				"url": "SquirrelGirl_07.webp",
 				"rare": "Unreleased",
 				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "Sunspot",
-		"name": "선스팟",
-		"cost": "1",
-		"power": "1",
-		"pool": "2풀",
-		"disc": "매 턴이 끝날 때마다, 미사용 에너지당 +1 파워를 획득합니다.",
-		"urls": [
-			{
-				"url": "Sunspot.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Sunspot_01.webp",
-				"rare": "Unreleased",
-				"category": "Pixel"
-			},
-			{
-				"url": "Sunspot_02.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Sunspot_03.webp",
-				"rare": "bundle",
-				"category": "Winter Vacation"
-			},
-			{
-				"url": "Sunspot_04.webp",
-				"rare": "Unreleased",
-				"category": "Luca Claretti"
-			},
-			{
-				"url": "Sunspot_05.webp",
-				"rare": "Unreleased",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Sunspot_06.webp",
-				"rare": "Unreleased",
-				"category": "Suit and Tie"
-			},
-			{
-				"url": "Sunspot_08.webp",
-				"rare": "Unreleased",
-				"category": "variant"
 			}
 		]
 	},
@@ -4655,6 +4655,41 @@
 		]
 	},
 	{
+		"eng": "ShadowKing",
+		"name": "섀도우 킹",
+		"cost": "3",
+		"power": "3",
+		"pool": "4풀",
+		"disc": "출현: 이 구역의 모든 카드를 기본 파워로 바꿉니다.",
+		"urls": [
+			{
+				"url": "ShadowKing.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "ShadowKing_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "ShadowKing_02.webp",
+				"rare": "Unreleased",
+				"category": "Luca Claretti"
+			},
+			{
+				"url": "ShadowKing_03.webp",
+				"rare": "Unreleased",
+				"category": "Revealed"
+			},
+			{
+				"url": "ShadowKing_04.webp",
+				"rare": "Unreleased",
+				"category": "Revealed"
+			}
+		]
+	},
+	{
 		"eng": "Vulture",
 		"name": "벌처",
 		"cost": "3",
@@ -5820,41 +5855,6 @@
 		]
 	},
 	{
-		"eng": "ShadowKing",
-		"name": "섀도우 킹",
-		"cost": "4",
-		"power": "3",
-		"pool": "4풀",
-		"disc": "출현: 이 구역의 모든 카드를 기본 파워로 바꿉니다.",
-		"urls": [
-			{
-				"url": "ShadowKing.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "ShadowKing_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "ShadowKing_02.webp",
-				"rare": "Unreleased",
-				"category": "Luca Claretti"
-			},
-			{
-				"url": "ShadowKing_03.webp",
-				"rare": "Unreleased",
-				"category": "Revealed"
-			},
-			{
-				"url": "ShadowKing_04.webp",
-				"rare": "Unreleased",
-				"category": "Revealed"
-			}
-		]
-	},
-	{
 		"eng": "ShangChi",
 		"name": "샹치",
 		"cost": "4",
@@ -6830,12 +6830,42 @@
 		]
 	},
 	{
+		"eng": "Attuma",
+		"name": "아투마",
+		"cost": "4",
+		"power": "10",
+		"pool": "3풀",
+		"disc": "턴이 끝날 때 이 구역에 내 다른 카드가 있을 경우, 이 카드를 파괴합니다.",
+		"urls": [
+			{
+				"url": "Attuma.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Attuma_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Attuma_02.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Attuma_03.webp",
+				"rare": "Super Rare",
+				"category": "Wakanda Forever"
+			}
+		]
+	},
+	{
 		"eng": "Sentry",
 		"name": "센트리",
 		"cost": "4",
-		"power": "8",
+		"power": "10",
 		"pool": "4풀",
-		"disc": "이 카드는 오른쪽 구역에 낼 수 없습니다. 출현: 오른쪽 구역에 파워 -8의 보이드를 추가합니다.",
+		"disc": "이 카드는 오른쪽 구역에 낼 수 없습니다. 출현: 오른쪽 구역에 파워 -10의 보이드를 추가합니다.",
 		"urls": [
 			{
 				"url": "Sentry.webp",
@@ -6866,36 +6896,6 @@
 				"url": "Sentry_05.webp",
 				"rare": "Unreleased",
 				"category": "Kim Jacinto"
-			}
-		]
-	},
-	{
-		"eng": "Attuma",
-		"name": "아투마",
-		"cost": "4",
-		"power": "10",
-		"pool": "3풀",
-		"disc": "턴이 끝날 때 이 구역에 내 다른 카드가 있을 경우, 이 카드를 파괴합니다.",
-		"urls": [
-			{
-				"url": "Attuma.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Attuma_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "Attuma_02.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Attuma_03.webp",
-				"rare": "Super Rare",
-				"category": "Wakanda Forever"
 			}
 		]
 	},
@@ -8238,7 +8238,7 @@
 		"eng": "RedSkull",
 		"name": "레드 스컬",
 		"cost": "5",
-		"power": "13",
+		"power": "12",
 		"pool": "3풀",
 		"disc": "지속: 이 구역에 배치된 상대 카드에 +1 파워를 부여합니다.",
 		"urls": [

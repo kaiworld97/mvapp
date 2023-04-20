@@ -234,7 +234,7 @@
 		"name": "바스트",
 		"cost": "1",
 		"power": "1",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "출현: 내 손에 든 모든 카드의 파워를 3으로 맞춥니다.",
 		"urls": [
 			{
@@ -654,7 +654,7 @@
 		"name": "고스트",
 		"cost": "1",
 		"power": "2",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "지속: 본인의 카드가 항상 마지막에 공개됩니다.(카드의 출현 능력이 마지막에 발동합니다.)",
 		"urls": [
 			{
@@ -2880,7 +2880,7 @@
 		"cost": "2",
 		"power": "3",
 		"pool": "5풀",
-		"disc": "이 카드는 한 번 이동할 수 있습니다. 어떤 구역으로 이동해도 이 카드를 막을 수 있는 것은 없습니다.",
+		"disc": "이 카드는 한 번 이동할 수 있으며, 이동하거나 배치할 때 어떤 효과도 이 카드를 막을 수 없습니다.",
 		"urls": [
 			{
 				"url": "JeffTheBabyLandShark.webp",
@@ -3975,7 +3975,7 @@
 		"cost": "3",
 		"power": "2",
 		"pool": "3풀",
-		"disc": "이 구역에 카드 한 장을 내면, 해당 카드를 내 덱에 있는 카드 한 장과 교체합니다.",
+		"disc": "이 구역에 카드 한 장을 내면, 해당 카드를 내 덱에 있는 카드 한 장과 교체합니다. (턴당 1번)",
 		"urls": [
 			{
 				"url": "Lockjaw.webp",
@@ -5535,7 +5535,7 @@
 		"cost": "4",
 		"power": "1",
 		"pool": "2풀",
-		"disc": "출현: 덱의 카드 한 장을 이 구역에 추가합니다.",
+		"disc": " 출현: 내 덱의 가장 위쪽에 있는 카드를 이 구역에 추가합니다.",
 		"urls": [
 			{
 				"url": "Jubilee.webp",
@@ -5619,8 +5619,8 @@
 		"name": "슈리",
 		"cost": "4",
 		"power": "2",
-		"pool": "4풀",
-		"disc": "출현: 다음 번에 내는 카드의 파워가 두 배로 증가합니다.",
+		"pool": "3풀",
+		"disc": "출현: 다음 카드를 이 구역에 내면, 해당 카드의 파워가 두 배로 증가합니다.",
 		"urls": [
 			{
 				"url": "Shuri.webp",
@@ -5664,7 +5664,7 @@
 		"name": "슈퍼 스크럴",
 		"cost": "4",
 		"power": "2",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "지속: 상대 카드의 모든 지속 효과를 획득합니다.",
 		"urls": [
 			{
@@ -7265,7 +7265,7 @@
 		"cost": "5",
 		"power": "3",
 		"pool": "2풀",
-		"disc": "출현: 상대의 손에 든 모든 카드의 능력을 제거합니다.",
+		"disc": "6턴이 시작될 때, 상대의 손에 있는 카드의 모든 능력을 제거합니다.",
 		"urls": [
 			{
 				"url": "Leech.webp",
@@ -7434,7 +7434,7 @@
 		"name": "발키리",
 		"cost": "5",
 		"power": "3",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "출현: 이 구역에 있는 모든 카드의 파워를 3으로 설정합니다.",
 		"urls": [
 			{
@@ -7479,7 +7479,7 @@
 		"name": "블랙 팬서",
 		"cost": "5",
 		"power": "4",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "출현 : 이 카드의 파워가 2배가 됩니다.",
 		"urls": [
 			{
@@ -7849,7 +7849,7 @@
 		"name": "스테쳐",
 		"cost": "5",
 		"power": "7",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "이번 게임에서 상대가 손에서 카드를 버린 경우, 비용이 1이 됩니다.",
 		"urls": [
 			{
@@ -8064,7 +8064,7 @@
 		"name": "M.O.D.O.K.",
 		"cost": "5",
 		"power": "8",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현: 손에 든 카드를 모두 버립니다.",
 		"urls": [
 			{
@@ -8425,6 +8425,51 @@
 		]
 	},
 	{
+		"eng": "Leader",
+		"name": "리더",
+		"cost": "6",
+		"power": "2",
+		"pool": "3풀",
+		"disc": "출현: 이번 턴에 플레이한 가장 높은 파워의 적 카드를 내 진영으로 복제합니다.",
+		"urls": [
+			{
+				"url": "Leader.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Leader_01.webp",
+				"rare": "Unreleased",
+				"category": "Pixel"
+			},
+			{
+				"url": "Leader_02.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Leader_03.webp",
+				"rare": "Super Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Leader_04.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Leader_05.webp",
+				"rare": "Unreleased",
+				"category": "Luca Claretti"
+			},
+			{
+				"url": "Leader_06.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			}
+		]
+	},
+	{
 		"eng": "LivingTribunal",
 		"name": "리빙 트리뷰널",
 		"cost": "6",
@@ -8591,51 +8636,6 @@
 				"url": "Hela_06.webp",
 				"rare": "Unreleased",
 				"category": "variant"
-			}
-		]
-	},
-	{
-		"eng": "Leader",
-		"name": "리더",
-		"cost": "6",
-		"power": "7",
-		"pool": "3풀",
-		"disc": "출현: 상대가 이 구역 오른쪽에 낸 모든 카드를 내 진영에 복제합니다.",
-		"urls": [
-			{
-				"url": "Leader.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Leader_01.webp",
-				"rare": "Unreleased",
-				"category": "Pixel"
-			},
-			{
-				"url": "Leader_02.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Leader_03.webp",
-				"rare": "Super Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Leader_04.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Leader_05.webp",
-				"rare": "Unreleased",
-				"category": "Luca Claretti"
-			},
-			{
-				"url": "Leader_06.webp",
-				"rare": "Unreleased",
-				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -8850,7 +8850,7 @@
 		"cost": "6",
 		"power": "9",
 		"pool": "1풀",
-		"disc": "6턴에 항상 이 카드를 뽑습니다. 그전에는 뽑을 수 없습니다.",
+		"disc": "내 덱의 가장 아래쪽에 배치됩니다. 6턴에는 이 카드를 뽑습니다.",
 		"urls": [
 			{
 				"url": "AmericaChavez.webp",

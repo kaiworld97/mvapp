@@ -136,17 +136,47 @@
   },
   {
     "title": "정복자 캉",
-    "disc": "23년 1월 시즌 패스",
+    "disc": "23년 2월 시즌 패스",
     "url": "Kang.png"
   },
   {
     "title": "인피니트 정복자 캉",
-    "disc": "23년 1월 인피니트 보상",
+    "disc": "23년 2월 인피니트 보상",
     "url": "InfiniteKang.png"
   },
   {
     "title": "앤트맨",
-    "disc": "23년 1월 시즌 패스",
+    "disc": "23년 2월 시즌 패스",
     "url": "Antman.png"
+  },
+  {
+    "title": "센티넬",
+    "disc": "23년 3월 시즌 패스",
+    "url": "Sentinel.png"
+  },
+  {
+    "title": "엑스맨",
+    "disc": "23년 3월 시즌 패스",
+    "url": "Xmen.png"
+  },
+  {
+    "title": "인피니트 엑스맨",
+    "disc": "23년 3월 인피니트 보상",
+    "url": "InfiniteXmen.png"
+  },
+  {
+    "title": "고양이 팀",
+    "disc": "23년 4월 시즌 패스",
+    "url": "TeamCat.png"
+  },
+  {
+    "title": "개 팀",
+    "disc": "23년 4월 시즌 패스",
+    "url": "TeamDog.png"
+  },
+  {
+    "title": "인피니트 고양이 팀",
+    "disc": "23년 4월 인피니트 보상",
+    "url": "InfiniteTeamCat.png"
   }
 ]

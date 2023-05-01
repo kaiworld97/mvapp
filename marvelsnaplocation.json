@@ -102,6 +102,12 @@
 		"url": "DistrictX.webp"
 	},
 	{
+		"title": "딥 스페이스",
+		"eng": "Deep Space",
+		"disc": "카드 설명이 이곳에서 무효화됩니다.",
+		"url": "DeepSpace.webp"
+	},
+	{
 		"title": "라멘티스-1",
 		"eng": "Lamentis-1",
 		"disc": "카드를 3장 뽑습니다. 두 플레이어의 덱을 파괴합니다. ",
@@ -162,6 +168,12 @@
 		"url": "Machineworld.webp"
 	},
 	{
+		"title": "메이 숙모네",
+		"eng": "Aunt May's",
+		"disc": "이곳에 내는 첫번째 카드는 +3 파워를 얻고 이동시킬 수 있습니다.",
+		"url": "AuntMays.webp"
+	},
+	{
 		"title": "모라그",
 		"eng": "Morag",
 		"disc": "각 턴마다 첫 카드를 이 구역에 낼 수 없습니다.",
@@ -196,6 +208,12 @@
 		"eng": "Mirror Dimension",
 		"disc": "4번째 턴에 다른 구역 중 하나로 바뀝니다.",
 		"url": "MirrorDimension.webp"
+	},
+	{
+		"title": "밀라노",
+		"eng": "Milano",
+		"disc": "5턴에만 이곳에 카드를 낼 수 있습니다.",
+		"url": "Milano.webp"
 	},
 	{
 		"title": "바 시니스터",
@@ -490,6 +508,12 @@
 		"eng": "Westview",
 		"disc": "4번째 턴에 새로운 구역으로 바뀝니다.",
 		"url": "Westview.webp"
+	},
+	{
+		"title": "위대한 거미줄",
+		"eng": "Great Web",
+		"disc": "각 턴이 끝나고, 무작위 플레이어의 카드 한장을 웹으로 이동시킵니다.",
+		"url": "GreatWeb.webp"
 	},
 	{
 		"title": "위어드월드",

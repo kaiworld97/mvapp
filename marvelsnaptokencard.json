@@ -214,5 +214,13 @@
 		"power": "2",
 		"disc": "출현: 이 구역의 효과를 발동합니다.",
 		"url": "snowguard-bear.webp"
+	},
+	{
+		"name": "돼지",
+		"eng": "Pig",
+		"cost": "4",
+		"power": "0",
+		"disc": "꿀꿀!",
+		"url": "pig.webp"
 	}
 ]

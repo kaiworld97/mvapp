@@ -1825,51 +1825,6 @@
 		]
 	},
 	{
-		"eng": "LukeCage",
-		"name": "루크 케이지",
-		"cost": "2",
-		"power": "1",
-		"pool": "3풀",
-		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
-		"urls": [
-			{
-				"url": "LukeCage.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "LukeCage_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "LukeCage_02.webp",
-				"rare": "Super Rare",
-				"category": "variant"
-			},
-			{
-				"url": "LukeCage_03.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "LukeCage_04.webp",
-				"rare": "Rare",
-				"category": "Sports"
-			},
-			{
-				"url": "LukeCage_05.webp",
-				"rare": "Unreleased",
-				"category": "Luca Claretti"
-			},
-			{
-				"url": "LukeCage_06.webp",
-				"rare": "Unreleased",
-				"category": "Combo Break"
-			}
-		]
-	},
-	{
 		"eng": "Psylocke",
 		"name": "사일록",
 		"cost": "2",
@@ -1921,51 +1876,6 @@
 				"url": "Psylocke_08.webp",
 				"rare": "Unreleased",
 				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
-		"eng": "TheCollector",
-		"name": "콜렉터",
-		"cost": "2",
-		"power": "1",
-		"pool": "2풀",
-		"disc": "임의의 출처(내 덱은 제외)로부터 카드 한 장이 손에 들어올 때마다 +1 파워를 받습니다.",
-		"urls": [
-			{
-				"url": "TheCollector.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "TheCollector_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "TheCollector_02.webp",
-				"rare": "Super Rare",
-				"category": "Kael"
-			},
-			{
-				"url": "TheCollector_03.webp",
-				"rare": "Rare",
-				"category": "Classic"
-			},
-			{
-				"url": "TheCollector_04.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "TheCollector_05.webp",
-				"rare": "Unreleased",
-				"category": "Flaviano"
-			},
-			{
-				"url": "TheCollector_06.webp",
-				"rare": "season pass",
-				"category": "Ivan Shavrin"
 			}
 		]
 	},
@@ -2385,6 +2295,51 @@
 		]
 	},
 	{
+		"eng": "LukeCage",
+		"name": "루크 케이지",
+		"cost": "2",
+		"power": "2",
+		"pool": "3풀",
+		"disc": "지속: 내 카드의 파워가 감소하지 않습니다.",
+		"urls": [
+			{
+				"url": "LukeCage.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "LukeCage_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "LukeCage_02.webp",
+				"rare": "Super Rare",
+				"category": "variant"
+			},
+			{
+				"url": "LukeCage_03.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "LukeCage_04.webp",
+				"rare": "Rare",
+				"category": "Sports"
+			},
+			{
+				"url": "LukeCage_05.webp",
+				"rare": "Unreleased",
+				"category": "Luca Claretti"
+			},
+			{
+				"url": "LukeCage_06.webp",
+				"rare": "Unreleased",
+				"category": "Combo Break"
+			}
+		]
+	},
+	{
 		"eng": "MasterMold",
 		"name": "마스터 몰드",
 		"cost": "2",
@@ -2661,6 +2616,51 @@
 				"url": "Starlord_07.webp",
 				"rare": "season pass",
 				"category": "Annihilation Conquest"
+			}
+		]
+	},
+	{
+		"eng": "TheCollector",
+		"name": "콜렉터",
+		"cost": "2",
+		"power": "2",
+		"pool": "2풀",
+		"disc": "임의의 출처(내 덱은 제외)로부터 카드 한 장이 손에 들어올 때마다 +1 파워를 받습니다.",
+		"urls": [
+			{
+				"url": "TheCollector.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "TheCollector_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "TheCollector_02.webp",
+				"rare": "Super Rare",
+				"category": "Kael"
+			},
+			{
+				"url": "TheCollector_03.webp",
+				"rare": "Rare",
+				"category": "Classic"
+			},
+			{
+				"url": "TheCollector_04.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "TheCollector_05.webp",
+				"rare": "Unreleased",
+				"category": "Flaviano"
+			},
+			{
+				"url": "TheCollector_06.webp",
+				"rare": "season pass",
+				"category": "Ivan Shavrin"
 			}
 		]
 	},
@@ -9290,46 +9290,6 @@
 		]
 	},
 	{
-		"eng": "Orka",
-		"name": "오르카",
-		"cost": "6",
-		"power": "9",
-		"pool": "3풀",
-		"disc": "지속:이 구역에 이 카드만 있을 경우, 파워가 +5 증가합니다.",
-		"urls": [
-			{
-				"url": "Orka.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Orka_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "Orka_02.webp",
-				"rare": "Super Rare",
-				"category": "Classic"
-			},
-			{
-				"url": "Orka_03.webp",
-				"rare": "Unreleased",
-				"category": "Sports"
-			},
-			{
-				"url": "Orka_04.webp",
-				"rare": "Unreleased",
-				"category": "Chibi"
-			},
-			{
-				"url": "Orka_05.webp",
-				"rare": "Unreleased",
-				"category": "Giulio Rincione"
-			}
-		]
-	},
-	{
 		"eng": "SheHulk",
 		"name": "쉬헐크",
 		"cost": "6",
@@ -9446,6 +9406,46 @@
 				"url": "Thanos_06.webp",
 				"rare": "Unreleased",
 				"category": "variant"
+			}
+		]
+	},
+	{
+		"eng": "Orka",
+		"name": "오르카",
+		"cost": "6",
+		"power": "11",
+		"pool": "3풀",
+		"disc": "지속:이 구역에 이 카드만 있을 경우, 파워가 +5 증가합니다.",
+		"urls": [
+			{
+				"url": "Orka.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Orka_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Orka_02.webp",
+				"rare": "Super Rare",
+				"category": "Classic"
+			},
+			{
+				"url": "Orka_03.webp",
+				"rare": "Unreleased",
+				"category": "Sports"
+			},
+			{
+				"url": "Orka_04.webp",
+				"rare": "Unreleased",
+				"category": "Chibi"
+			},
+			{
+				"url": "Orka_05.webp",
+				"rare": "Unreleased",
+				"category": "Giulio Rincione"
 			}
 		]
 	},

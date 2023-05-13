@@ -4040,66 +4040,6 @@
 		]
 	},
 	{
-		"eng": "Venom",
-		"name": "베놈",
-		"cost": "3",
-		"power": "1",
-		"pool": "3풀",
-		"disc": "출현: 이 구역의 내 다른 카드를 모두 파괴하고, 그 파워를 이 카드에 추가합니다.",
-		"urls": [
-			{
-				"url": "Venom.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Venom_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "Venom_02.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Venom_03.webp",
-				"rare": "Rare",
-				"category": "Baby"
-			},
-			{
-				"url": "Venom_04.webp",
-				"rare": "Super Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Venom_05.webp",
-				"rare": "Super Rare",
-				"category": "Kim Jacinto"
-			},
-			{
-				"url": "Venom_06.webp",
-				"rare": "Unreleased",
-				"category": "Fiona Hsieh"
-			},
-			{
-				"url": "Venom_07.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			},
-			{
-				"url": "Venom_08.webp",
-				"rare": "Unreleased",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Venom_09.webp",
-				"rare": "Unreleased",
-				"category": "Meal Time"
-			}
-		]
-	},
-	{
 		"eng": "Wolfsbane",
 		"name": "울프스베인",
 		"cost": "3",
@@ -4971,6 +4911,66 @@
 				"url": "ShadowKing_04.webp",
 				"rare": "Rare",
 				"category": "Revealed"
+			}
+		]
+	},
+	{
+		"eng": "Venom",
+		"name": "베놈",
+		"cost": "3",
+		"power": "3",
+		"pool": "3풀",
+		"disc": "출현: 이 구역의 내 다른 카드를 모두 파괴하고, 그 파워를 이 카드에 추가합니다.",
+		"urls": [
+			{
+				"url": "Venom.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Venom_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Venom_02.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Venom_03.webp",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "Venom_04.webp",
+				"rare": "Super Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Venom_05.webp",
+				"rare": "Super Rare",
+				"category": "Kim Jacinto"
+			},
+			{
+				"url": "Venom_06.webp",
+				"rare": "Unreleased",
+				"category": "Fiona Hsieh"
+			},
+			{
+				"url": "Venom_07.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			},
+			{
+				"url": "Venom_08.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Venom_09.webp",
+				"rare": "Unreleased",
+				"category": "Meal Time"
 			}
 		]
 	},
@@ -6540,42 +6540,47 @@
 		]
 	},
 	{
-		"eng": "Drax",
-		"name": "드랙스",
+		"eng": "Enchantress",
+		"name": "인챈트리스",
 		"cost": "4",
 		"power": "5",
-		"pool": "3풀",
-		"disc": "출현: 상대가 이번 턴에 이 구역에 카드를 냈을 경우, +3 파워를 부여합니다.",
+		"pool": "1풀",
+		"disc": "출현: 이 구역에 있는 모든 지속 카드의 능력이 제거됩니다.",
 		"urls": [
 			{
-				"url": "Drax.webp",
+				"url": "Enchantress.webp",
 				"rare": "Default",
 				"category": "Base"
 			},
 			{
-				"url": "Drax_01.webp",
-				"rare": "Rare",
+				"url": "Enchantress_01.webp",
+				"rare": "Unreleased",
 				"category": "Pixel"
 			},
 			{
-				"url": "Drax_02.webp",
+				"url": "Enchantress_02.webp",
+				"rare": "Super Rare",
+				"category": "1602"
+			},
+			{
+				"url": "Enchantress_03.webp",
+				"rare": "Rare",
+				"category": "Chibi"
+			},
+			{
+				"url": "Enchantress_04.webp",
 				"rare": "Rare",
 				"category": "variant"
 			},
 			{
-				"url": "Drax_03.webp",
+				"url": "Enchantress_05.webp",
 				"rare": "Rare",
-				"category": "Luchador"
+				"category": "Alex Horley"
 			},
 			{
-				"url": "Drax_04.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Drax_05.webp",
+				"url": "Enchantress_07.webp",
 				"rare": "Unreleased",
-				"category": "Chibi"
+				"category": "variant"
 			}
 		]
 	},
@@ -6700,6 +6705,46 @@
 		]
 	},
 	{
+		"eng": "Rockslide",
+		"name": "록슬라이드",
+		"cost": "4",
+		"power": "5",
+		"pool": "3풀",
+		"disc": "출현: 상대의 덱에 록 2장을 섞어 넣습니다.",
+		"urls": [
+			{
+				"url": "Rockslide.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Rockslide_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Rockslide_02.webp",
+				"rare": "Super Rare",
+				"category": "Limbo"
+			},
+			{
+				"url": "Rockslide_03.webp",
+				"rare": "Rare",
+				"category": "Sports"
+			},
+			{
+				"url": "Rockslide_04.webp",
+				"rare": "Rare",
+				"category": "Chibi"
+			},
+			{
+				"url": "Rockslide_06.webp",
+				"rare": "event",
+				"category": "Winter Vacation"
+			}
+		]
+	},
+	{
 		"eng": "SpiderMan2099",
 		"name": "스파이더맨2099",
 		"cost": "4",
@@ -6805,47 +6850,42 @@
 		]
 	},
 	{
-		"eng": "Enchantress",
-		"name": "인챈트리스",
+		"eng": "Drax",
+		"name": "드랙스",
 		"cost": "4",
 		"power": "6",
-		"pool": "1풀",
-		"disc": "출현: 이 구역에 있는 모든 지속 카드의 능력이 제거됩니다.",
+		"pool": "3풀",
+		"disc": "출현: 상대가 이번 턴에 이 구역에 카드를 냈을 경우, +2 파워를 부여합니다.",
 		"urls": [
 			{
-				"url": "Enchantress.webp",
+				"url": "Drax.webp",
 				"rare": "Default",
 				"category": "Base"
 			},
 			{
-				"url": "Enchantress_01.webp",
-				"rare": "Unreleased",
+				"url": "Drax_01.webp",
+				"rare": "Rare",
 				"category": "Pixel"
 			},
 			{
-				"url": "Enchantress_02.webp",
-				"rare": "Super Rare",
-				"category": "1602"
-			},
-			{
-				"url": "Enchantress_03.webp",
-				"rare": "Rare",
-				"category": "Chibi"
-			},
-			{
-				"url": "Enchantress_04.webp",
+				"url": "Drax_02.webp",
 				"rare": "Rare",
 				"category": "variant"
 			},
 			{
-				"url": "Enchantress_05.webp",
+				"url": "Drax_03.webp",
 				"rare": "Rare",
-				"category": "Alex Horley"
+				"category": "Luchador"
 			},
 			{
-				"url": "Enchantress_07.webp",
+				"url": "Drax_04.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Drax_05.webp",
 				"rare": "Unreleased",
-				"category": "variant"
+				"category": "Chibi"
 			}
 		]
 	},
@@ -6966,46 +7006,6 @@
 				"url": "Namor_08.webp",
 				"rare": "Unreleased",
 				"category": "variant"
-			}
-		]
-	},
-	{
-		"eng": "Rockslide",
-		"name": "록슬라이드",
-		"cost": "4",
-		"power": "6",
-		"pool": "3풀",
-		"disc": "출현: 상대의 덱에 록 2장을 섞어 넣습니다.",
-		"urls": [
-			{
-				"url": "Rockslide.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Rockslide_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "Rockslide_02.webp",
-				"rare": "Super Rare",
-				"category": "Limbo"
-			},
-			{
-				"url": "Rockslide_03.webp",
-				"rare": "Rare",
-				"category": "Sports"
-			},
-			{
-				"url": "Rockslide_04.webp",
-				"rare": "Rare",
-				"category": "Chibi"
-			},
-			{
-				"url": "Rockslide_06.webp",
-				"rare": "event",
-				"category": "Winter Vacation"
 			}
 		]
 	},
@@ -8859,7 +8859,7 @@
 		"name": "리빙 트리뷰널",
 		"cost": "6",
 		"power": "4",
-		"pool": "미공개",
+		"pool": "5풀",
 		"disc": "게임 마지막에 내 전체 파워를 구역별로 균등하게 분배합니다.",
 		"urls": [
 			{

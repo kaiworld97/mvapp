@@ -2210,51 +2210,6 @@
 		]
 	},
 	{
-		"eng": "InvisibleWoman",
-		"name": "인비저블우먼",
-		"cost": "2",
-		"power": "2",
-		"pool": "3풀",
-		"disc": "지속: 내가 이 구역에 낸 카드는 게임이 끝날 때까지 공개되지 않습니다.",
-		"urls": [
-			{
-				"url": "InvisibleWoman.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "InvisibleWoman_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "InvisibleWoman_02.webp",
-				"rare": "Rare",
-				"category": "Alex Ross"
-			},
-			{
-				"url": "InvisibleWoman_03.webp",
-				"rare": "Super Rare",
-				"category": "Artgerm"
-			},
-			{
-				"url": "InvisibleWoman_04.webp",
-				"rare": "Super Rare",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "InvisibleWoman_05.webp",
-				"rare": "Token Shop Ultimate",
-				"category": "Peach Momoko"
-			},
-			{
-				"url": "InvisibleWoman_06.webp",
-				"rare": "bundle",
-				"category": "Hero"
-			}
-		]
-	},
-	{
 		"eng": "Kraven",
 		"name": "크레이븐",
 		"cost": "2",
@@ -3036,6 +2991,51 @@
 				"url": "GhostSpider_11.webp",
 				"rare": "Unreleased",
 				"category": "Artgerm"
+			}
+		]
+	},
+	{
+		"eng": "InvisibleWoman",
+		"name": "인비저블우먼",
+		"cost": "2",
+		"power": "3",
+		"pool": "3풀",
+		"disc": "지속: 내가 이 구역에 낸 카드는 게임이 끝날 때까지 공개되지 않습니다.",
+		"urls": [
+			{
+				"url": "InvisibleWoman.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "InvisibleWoman_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "InvisibleWoman_02.webp",
+				"rare": "Rare",
+				"category": "Alex Ross"
+			},
+			{
+				"url": "InvisibleWoman_03.webp",
+				"rare": "Super Rare",
+				"category": "Artgerm"
+			},
+			{
+				"url": "InvisibleWoman_04.webp",
+				"rare": "Super Rare",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "InvisibleWoman_05.webp",
+				"rare": "Token Shop Ultimate",
+				"category": "Peach Momoko"
+			},
+			{
+				"url": "InvisibleWoman_06.webp",
+				"rare": "bundle",
+				"category": "Hero"
 			}
 		]
 	},
@@ -5330,26 +5330,6 @@
 		]
 	},
 	{
-		"eng": "NegasonicTeenageWarhead",
-		"name": "네가소닉 틴에이지 워헤드",
-		"cost": "3",
-		"power": "4",
-		"pool": "4풀",
-		"disc": "누구든 이 구역에 카드를 내면, 해당 카드와 이 카드 모두 파괴합니다.",
-		"urls": [
-			{
-				"url": "NegasonicTeenageWarhead.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "NegasonicTeenageWarhead_02.webp",
-				"rare": "Super Rare",
-				"category": "New X-Men"
-			}
-		]
-	},
-	{
 		"eng": "Sabretooth",
 		"name": "세이버투스",
 		"cost": "3",
@@ -5516,6 +5496,26 @@
 				"url": "Deathlok_06.webp",
 				"rare": "super rare",
 				"category": "Deathsquawk"
+			}
+		]
+	},
+	{
+		"eng": "NegasonicTeenageWarhead",
+		"name": "네가소닉 틴에이지 워헤드",
+		"cost": "3",
+		"power": "5",
+		"pool": "4풀",
+		"disc": "누구든 이 구역에 카드를 내면, 해당 카드와 이 카드 모두 파괴합니다.",
+		"urls": [
+			{
+				"url": "NegasonicTeenageWarhead.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "NegasonicTeenageWarhead_02.webp",
+				"rare": "Super Rare",
+				"category": "New X-Men"
 			}
 		]
 	},
@@ -8120,6 +8120,86 @@
 		]
 	},
 	{
+		"eng": "Stature",
+		"name": "스테쳐",
+		"cost": "5",
+		"power": "6",
+		"pool": "4풀",
+		"disc": "이번 게임에서 상대가 손에서 카드를 버린 경우, 비용이 1이 됩니다.",
+		"urls": [
+			{
+				"url": "Stature.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Stature_02.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			},
+			{
+				"url": "Stature_04.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Stature_05.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			}
+		]
+	},
+	{
+		"eng": "BlackBolt",
+		"name": "블랙 볼트",
+		"cost": "5",
+		"power": "7",
+		"pool": "3풀",
+		"disc": "출현: 상대는 비용이 가장 낮은 카드를 손에서 버려야 합니다.",
+		"urls": [
+			{
+				"url": "BlackBolt.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "BlackBolt_01.webp",
+				"rare": "Unreleased",
+				"category": "Pixel"
+			},
+			{
+				"url": "BlackBolt_02.webp",
+				"rare": "Super Rare",
+				"category": "variant"
+			},
+			{
+				"url": "BlackBolt_03.webp",
+				"rare": "Rare",
+				"category": "Shhh!"
+			},
+			{
+				"url": "BlackBolt_04.webp",
+				"rare": "Unreleased",
+				"category": "Jeff Dekal"
+			},
+			{
+				"url": "BlackBolt_05.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "BlackBolt_06.webp",
+				"rare": "Unreleased",
+				"category": "3099"
+			},
+			{
+				"url": "BlackBolt_07.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			}
+		]
+	},
+	{
 		"eng": "Gamora",
 		"name": "가모라",
 		"cost": "5",
@@ -8230,36 +8310,6 @@
 		]
 	},
 	{
-		"eng": "Stature",
-		"name": "스테쳐",
-		"cost": "5",
-		"power": "7",
-		"pool": "4풀",
-		"disc": "이번 게임에서 상대가 손에서 카드를 버린 경우, 비용이 1이 됩니다.",
-		"urls": [
-			{
-				"url": "Stature.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Stature_02.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			},
-			{
-				"url": "Stature_04.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Stature_05.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			}
-		]
-	},
-	{
 		"eng": "Vision",
 		"name": "비전",
 		"cost": "5",
@@ -8346,56 +8396,6 @@
 				"url": "Aero_06.webp",
 				"rare": "Token Shop Ultimate",
 				"category": "Rian Gonzales"
-			}
-		]
-	},
-	{
-		"eng": "BlackBolt",
-		"name": "블랙 볼트",
-		"cost": "5",
-		"power": "8",
-		"pool": "3풀",
-		"disc": "출현: 상대는 비용이 가장 낮은 카드를 손에서 버려야 합니다.",
-		"urls": [
-			{
-				"url": "BlackBolt.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "BlackBolt_01.webp",
-				"rare": "Unreleased",
-				"category": "Pixel"
-			},
-			{
-				"url": "BlackBolt_02.webp",
-				"rare": "Super Rare",
-				"category": "variant"
-			},
-			{
-				"url": "BlackBolt_03.webp",
-				"rare": "Rare",
-				"category": "Shhh!"
-			},
-			{
-				"url": "BlackBolt_04.webp",
-				"rare": "Unreleased",
-				"category": "Jeff Dekal"
-			},
-			{
-				"url": "BlackBolt_05.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "BlackBolt_06.webp",
-				"rare": "Unreleased",
-				"category": "3099"
-			},
-			{
-				"url": "BlackBolt_07.webp",
-				"rare": "Unreleased",
-				"category": "variant"
 			}
 		]
 	},

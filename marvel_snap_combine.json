@@ -83,7 +83,7 @@
 		"eng": "Hood",
 		"name": "후드",
 		"cost": "1",
-		"power": "-2",
+		"power": "-3",
 		"pool": "3풀",
 		"disc": "출현: 데몬 한 장을 내 손에 추가합니다.",
 		"urls": [
@@ -1880,46 +1880,6 @@
 		]
 	},
 	{
-		"eng": "Beast",
-		"name": "비스트",
-		"cost": "2",
-		"power": "2",
-		"pool": "3풀",
-		"disc": "출현: 이 구역에 배치되어 있는 내 다른 모든 카드를 회수합니다. 해당 카드는 모두 비용이 1 감소합니다.",
-		"urls": [
-			{
-				"url": "Beast.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Beast_01.webp",
-				"rare": "Unreleased",
-				"category": "Pixel"
-			},
-			{
-				"url": "Beast_02.webp",
-				"rare": "Rare",
-				"category": "All-New"
-			},
-			{
-				"url": "Beast_03.webp",
-				"rare": "Rare",
-				"category": "Grey"
-			},
-			{
-				"url": "Beast_04.webp",
-				"rare": "Rare",
-				"category": "Classic"
-			},
-			{
-				"url": "Beast_05.webp",
-				"rare": "Rare",
-				"category": "Dan Hipp"
-			}
-		]
-	},
-	{
 		"eng": "Cable",
 		"name": "케이블",
 		"cost": "2",
@@ -2325,7 +2285,7 @@
 		"cost": "2",
 		"power": "2",
 		"pool": "1풀",
-		"disc": "출현: 이 카드가 중앙 구역에 있을 경우, +2 파워를 부여합니다.",
+		"disc": "출현: 이 카드가 중앙 구역에 있을 경우, +3 파워를 부여합니다.",
 		"urls": [
 			{
 				"url": "Medusa.webp",
@@ -3985,61 +3945,6 @@
 		]
 	},
 	{
-		"eng": "Rogue",
-		"name": "로그",
-		"cost": "3",
-		"power": "1",
-		"pool": "3풀",
-		"disc": "출현: 이 구역에 있는 상대 카드 중에서 지속 능력을 하나 무작위로 훔쳐 옵니다.",
-		"urls": [
-			{
-				"url": "Rogue.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Rogue_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "Rogue_02.webp",
-				"rare": "Token Shop Ultimate",
-				"category": "Savage Land"
-			},
-			{
-				"url": "Rogue_03.webp",
-				"rare": "event",
-				"category": "Winter Vacation"
-			},
-			{
-				"url": "Rogue_04.webp",
-				"rare": "Super Rare",
-				"category": "Rian Gonzales"
-			},
-			{
-				"url": "Rogue_05.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Rogue_06.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			},
-			{
-				"url": "Rogue_07.webp",
-				"rare": "bundle",
-				"category": "Hero"
-			},
-			{
-				"url": "Rogue_08.webp",
-				"rare": "Unreleased",
-				"category": "Jim Lee"
-			}
-		]
-	},
-	{
 		"eng": "Wolfsbane",
 		"name": "울프스베인",
 		"cost": "3",
@@ -4341,6 +4246,61 @@
 				"url": "Punisher_06.webp",
 				"rare": "Unreleased",
 				"category": "Peach Momoko"
+			}
+		]
+	},
+	{
+		"eng": "Rogue",
+		"name": "로그",
+		"cost": "3",
+		"power": "2",
+		"pool": "3풀",
+		"disc": "출현: 이 구역에 있는 상대 카드 중에서 지속 능력을 하나 무작위로 훔쳐 옵니다.",
+		"urls": [
+			{
+				"url": "Rogue.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Rogue_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "Rogue_02.webp",
+				"rare": "Token Shop Ultimate",
+				"category": "Savage Land"
+			},
+			{
+				"url": "Rogue_03.webp",
+				"rare": "event",
+				"category": "Winter Vacation"
+			},
+			{
+				"url": "Rogue_04.webp",
+				"rare": "Super Rare",
+				"category": "Rian Gonzales"
+			},
+			{
+				"url": "Rogue_05.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Rogue_06.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			},
+			{
+				"url": "Rogue_07.webp",
+				"rare": "bundle",
+				"category": "Hero"
+			},
+			{
+				"url": "Rogue_08.webp",
+				"rare": "Unreleased",
+				"category": "Jim Lee"
 			}
 		]
 	},
@@ -5096,6 +5056,46 @@
 				"url": "AgentCoulson_05.webp",
 				"rare": "Unreleased",
 				"category": "Summer Vacation"
+			}
+		]
+	},
+	{
+		"eng": "Beast",
+		"name": "비스트",
+		"cost": "3",
+		"power": "4",
+		"pool": "3풀",
+		"disc": "출현: 이 구역에 배치되어 있는 내 다른 모든 카드를 회수합니다. 해당 카드는 모두 비용이 1 감소합니다.",
+		"urls": [
+			{
+				"url": "Beast.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Beast_01.webp",
+				"rare": "Unreleased",
+				"category": "Pixel"
+			},
+			{
+				"url": "Beast_02.webp",
+				"rare": "Rare",
+				"category": "All-New"
+			},
+			{
+				"url": "Beast_03.webp",
+				"rare": "Rare",
+				"category": "Grey"
+			},
+			{
+				"url": "Beast_04.webp",
+				"rare": "Rare",
+				"category": "Classic"
+			},
+			{
+				"url": "Beast_05.webp",
+				"rare": "Rare",
+				"category": "Dan Hipp"
 			}
 		]
 	},
@@ -6166,66 +6166,6 @@
 				"url": "ShangChi_08.webp",
 				"rare": "Unreleased",
 				"category": "Knullified"
-			}
-		]
-	},
-	{
-		"eng": "SpiderMan",
-		"name": "스파이더맨",
-		"cost": "4",
-		"power": "3",
-		"pool": "3풀",
-		"disc": "출현: 다음 턴에 상대는 이 구역에 카드를 낼 수 없습니다.",
-		"urls": [
-			{
-				"url": "SpiderMan.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "SpiderMan_01.webp",
-				"rare": "Rare",
-				"category": "Pixel"
-			},
-			{
-				"url": "SpiderMan_02.webp",
-				"rare": "Super Rare",
-				"category": "Symbiote"
-			},
-			{
-				"url": "SpiderMan_03.webp",
-				"rare": "Super Rare",
-				"category": "Max Grecke"
-			},
-			{
-				"url": "SpiderMan_04.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "SpiderMan_05.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			},
-			{
-				"url": "SpiderMan_06.webp",
-				"rare": "Unreleased",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "SpiderMan_07.webp",
-				"rare": "Unreleased",
-				"category": "Spider-Verse"
-			},
-			{
-				"url": "SpiderMan_08.webp",
-				"rare": "Unreleased",
-				"category": "Anime"
-			},
-			{
-				"url": "SpiderMan_10.webp",
-				"rare": "bundle",
-				"category": "Chibi"
 			}
 		]
 	},
@@ -8026,6 +7966,66 @@
 				"url": "Sera_06.webp",
 				"rare": "bundle",
 				"category": "Anime"
+			}
+		]
+	},
+	{
+		"eng": "SpiderMan",
+		"name": "스파이더맨",
+		"cost": "5",
+		"power": "4",
+		"pool": "3풀",
+		"disc": "출현: 다음 턴에 상대는 이 구역에 카드를 낼 수 없습니다.",
+		"urls": [
+			{
+				"url": "SpiderMan.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "SpiderMan_01.webp",
+				"rare": "Rare",
+				"category": "Pixel"
+			},
+			{
+				"url": "SpiderMan_02.webp",
+				"rare": "Super Rare",
+				"category": "Symbiote"
+			},
+			{
+				"url": "SpiderMan_03.webp",
+				"rare": "Super Rare",
+				"category": "Max Grecke"
+			},
+			{
+				"url": "SpiderMan_04.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "SpiderMan_05.webp",
+				"rare": "Unreleased",
+				"category": "variant"
+			},
+			{
+				"url": "SpiderMan_06.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "SpiderMan_07.webp",
+				"rare": "Unreleased",
+				"category": "Spider-Verse"
+			},
+			{
+				"url": "SpiderMan_08.webp",
+				"rare": "Unreleased",
+				"category": "Anime"
+			},
+			{
+				"url": "SpiderMan_10.webp",
+				"rare": "bundle",
+				"category": "Chibi"
 			}
 		]
 	},

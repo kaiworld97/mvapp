@@ -1274,7 +1274,7 @@
 		"name": "스노우 가드",
 		"cost": "1",
 		"power": "2",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "손에 있는 동안 이 카드는 매턴마다 매나 곰으로 변합니다.",
 		"urls": [
 			{
@@ -3035,7 +3035,7 @@
 		"cost": "2",
 		"power": "3",
 		"pool": "3풀",
-		"disc": "출현: 내 손에 비용 1의 카드 한 장을 무작위로 추가합니다.",
+		"disc": "출현: 내 손에 기본 비용이 1 또는 2인 카드 한 장을 무작위로 추가합니다.",
 		"urls": [
 			{
 				"url": "MariaHill.webp",
@@ -4026,6 +4026,41 @@
 				"url": "Brood_06.webp",
 				"rare": "Unreleased",
 				"category": "Kim Jacinto"
+			}
+		]
+	},
+	{
+		"eng": "Dazzler",
+		"name": "대즐러",
+		"cost": "3",
+		"power": "2",
+		"pool": "3풀",
+		"disc": "지속: 내 진영에서 가득 찬 구역 하나당 +2 파워를 부여합니다.",
+		"urls": [
+			{
+				"url": "Dazzler.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Dazzler_02.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Dazzler_03.webp",
+				"rare": "Unreleased",
+				"category": "Casual"
+			},
+			{
+				"url": "Dazzler_04.webp",
+				"rare": "Unreleased",
+				"category": "Dan Hipp"
+			},
+			{
+				"url": "Dazzler_05.webp",
+				"rare": "Unreleased",
+				"category": "variant"
 			}
 		]
 	},
@@ -6210,41 +6245,6 @@
 		]
 	},
 	{
-		"eng": "Dazzler",
-		"name": "대즐러",
-		"cost": "4",
-		"power": "4",
-		"pool": "3풀",
-		"disc": "지속: 각 구역에 내 카드가 네 장씩 배치되어 있을 경우 +6 파워를 부여합니다.",
-		"urls": [
-			{
-				"url": "Dazzler.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Dazzler_02.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Dazzler_03.webp",
-				"rare": "Unreleased",
-				"category": "Casual"
-			},
-			{
-				"url": "Dazzler_04.webp",
-				"rare": "Unreleased",
-				"category": "Dan Hipp"
-			},
-			{
-				"url": "Dazzler_05.webp",
-				"rare": "Unreleased",
-				"category": "variant"
-			}
-		]
-	},
-	{
 		"eng": "JessicaJones",
 		"name": "제시카 존스",
 		"cost": "4",
@@ -6419,7 +6419,7 @@
 		"name": "샤나",
 		"cost": "4",
 		"power": "4",
-		"pool": "4풀",
+		"pool": "3풀",
 		"disc": "출현: 각 구역에 비용 1의 카드 한 장을 무작위로 추가합니다.",
 		"urls": [
 			{
@@ -6729,7 +6729,7 @@
 		"name": "스테그론",
 		"cost": "4",
 		"power": "5",
-		"pool": "5풀",
+		"pool": "4풀",
 		"disc": "출현: 여기 있는 적 카드 하나를 다른 구역으로 옮깁니다.",
 		"urls": [
 			{
@@ -8760,56 +8760,6 @@
 		]
 	},
 	{
-		"eng": "Galactus",
-		"name": "갤럭투스",
-		"cost": "6",
-		"power": "2",
-		"pool": "5풀",
-		"disc": "출현: 이 구역에 다른 카드가 배치되어 있지 않을 경우, 다른 모든 구역을 파괴합니다.",
-		"urls": [
-			{
-				"url": "Galactus.webp",
-				"rare": "Default",
-				"category": "Base"
-			},
-			{
-				"url": "Galactus_01.webp",
-				"rare": "Unreleased",
-				"category": "Pixel"
-			},
-			{
-				"url": "Galactus_02.webp",
-				"rare": "Rare",
-				"category": "Lifebringer"
-			},
-			{
-				"url": "Galactus_03.webp",
-				"rare": "Rare",
-				"category": "Baby"
-			},
-			{
-				"url": "Galactus_04.webp",
-				"rare": "Rare",
-				"category": "variant"
-			},
-			{
-				"url": "Galactus_05.webp",
-				"rare": "Super Rare",
-				"category": "Flaviano"
-			},
-			{
-				"url": "Galactus_06.webp",
-				"rare": "Unreleased",
-				"category": "Chibi"
-			},
-			{
-				"url": "Galactus_07.webp",
-				"rare": "Unreleased",
-				"category": "Kim Jacinto"
-			}
-		]
-	},
-	{
 		"eng": "Leader",
 		"name": "리더",
 		"cost": "6",
@@ -9021,6 +8971,56 @@
 				"url": "Hela_06.webp",
 				"rare": "Unreleased",
 				"category": "variant"
+			}
+		]
+	},
+	{
+		"eng": "Galactus",
+		"name": "갤럭투스",
+		"cost": "6",
+		"power": "7",
+		"pool": "5풀",
+		"disc": "출현: 이 구역에서 내가 이기고 있고 이 카드만 배치되어 있을 경우, 나머지 구역을 모두 파괴합니다.",
+		"urls": [
+			{
+				"url": "Galactus.webp",
+				"rare": "Default",
+				"category": "Base"
+			},
+			{
+				"url": "Galactus_01.webp",
+				"rare": "Unreleased",
+				"category": "Pixel"
+			},
+			{
+				"url": "Galactus_02.webp",
+				"rare": "Rare",
+				"category": "Lifebringer"
+			},
+			{
+				"url": "Galactus_03.webp",
+				"rare": "Rare",
+				"category": "Baby"
+			},
+			{
+				"url": "Galactus_04.webp",
+				"rare": "Rare",
+				"category": "variant"
+			},
+			{
+				"url": "Galactus_05.webp",
+				"rare": "Super Rare",
+				"category": "Flaviano"
+			},
+			{
+				"url": "Galactus_06.webp",
+				"rare": "Unreleased",
+				"category": "Chibi"
+			},
+			{
+				"url": "Galactus_07.webp",
+				"rare": "Unreleased",
+				"category": "Kim Jacinto"
 			}
 		]
 	},

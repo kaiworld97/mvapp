@@ -218,9 +218,17 @@
 	{
 		"name": "돼지",
 		"eng": "Pig",
-		"cost": "4",
+		"cost": "0",
 		"power": "0",
 		"disc": "꿀꿀!",
 		"url": "pig.webp"
+	},
+	{
+		"name": "무라마사 파편",
+		"eng": "Muramasa Shard",
+		"cost": "1",
+		"power": "1",
+		"disc": "이 카드가 버려지거나 파괴되면, 다켄의 파워가 두 배로 증가합니다.",
+		"url": "muramasa-shard.webp"
 	}
 ]

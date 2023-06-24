@@ -168,7 +168,7 @@
 		"url": "Machineworld.webp"
 	},
 	{
-		"title": "메이 숙모네",
+		"title": "메이 큰엄마",
 		"eng": "Aunt May's",
 		"disc": "이곳에 내는 첫번째 카드는 +3 파워를 얻고 이동시킬 수 있습니다.",
 		"url": "AuntMays.webp"
@@ -666,15 +666,21 @@
 		"url": "TheHub.webp"
 	},
 	{
+		"title": "헬라스 호",
+		"eng": "Lake Hellas",
+		"disc": "이 구역의 비용이 1인 모든 카드에 +2 파워를 부여합니다.",
+		"url": "LakeHellas.webp"
+	},
+	{
 		"title": "헬스 키친",
 		"eng": "Hell's Kitchen",
 		"disc": "덱에서 비용이 1인 카드를 한 장 뽑습니다.",
 		"url": "HellsKitchen.webp"
 	},
 	{
-		"title": "헬파이어 클럽",
-		"eng": "Hellfire Club",
-		"disc": "비용이 1인 카드는 이 구역에 낼 수 없습니다.",
-		"url": "HellfireClub.webp"
+		"title": "화이트 핫 룸",
+		"eng": "White Hot Room",
+		"disc": "이 구역을 먼저 채우면 최대 에너지가 3 증가합니다.",
+		"url": "WhiteHotRoom.webp"
 	}
 ]
